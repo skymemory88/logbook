@@ -412,3 +412,17 @@ Mar. 19, 2019
 	14:33 T_mc = 54.7 mK, T_cold = 64.23 mK, T_still = 728 mK. P2 = 155 mBar, P5 = 73 mBar, P4 = 0.59 mBar.
 	17:08 T_mc = 45.4 mK, T_cold = 60.6 mK, T_still = 729 mK. P1 = 0.018 Bar, open V4 to remove 2 mBar of mixture.
 	17:09 P1 = 0.020, close V4.
+	17:27 T_mc = 44.15 mK, turn on still heater (5 mW).
+	17:41 T_mc = 42.51 mK, turn off still heater.
+	18:11 T_mc = 43.76 mK.
+		Note: still heater added additional cooling power as the temperature droped slightly, and recovered when the heater is off.
+	18:12 T_still = 731 mK, T_cold = 60.25 mK, P4 = 0.60 mBar. Open v4 to remove 10 mBar of mixture.
+	18:23 P1 = 0.030 Bar, close V4.
+	19:06 T_mc = 32.3 mK and is still dropping. T_cold = 58.2 mK, T_still = 735 mK. P4 = 0.59 mBar, P1 = 0.030 Bar. Start cooling power measurement at 100 mK using PID.
+	19:10 P_cool(100 mK) = 80 uW (0.4 mW * 0.4 mW * 500 ohm). T_still = 725 mK.
+	20:45 T_mc = 33.9 mK, T_cold = 57.9 mK, T_still = 734 mK.
+	20:55 T_mc = 32.9 mK, T_cold = 57.7 mK, T_still = 736 mK. Turn on still heater (5 mW).
+	21:01 T_mc = 31.3 mK, T_cold = 68.2 mK, T_still = 932 mK. P1 = 0.030 Bar. Keep still heater (5 mW) on, start cooling power measurement at 100 mK using PID.
+	23:01 T_mc = 100 mK, T_still = 923 mK (5 mW on still heater). P_cool (100 mK) = 125 uW (0.5 mW * 0.5 mW * 500 ohm).
+		Note: the still heater added additional cooling power to the mixing chamber by about 45 uW.
+	23:53 Turn off still heater.
