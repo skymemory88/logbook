@@ -451,3 +451,10 @@ Mar. 21, 2019
 	14:09 Start forepump.
 	14:13 Open V5 and V1 to circulate the gas inside the bellows through the cold traps.
 	14:15 T_1K = 1.93 K. Start 1K pot. Open V12, SV3, close bypass valve. Start condensing sequence.
+	15:30 Suspect the fridge is blocked, close V1, open V4, V2, bypass valve to recollect all the mixtures back into the dump. Stop 1K pot, and turn on all heaters.
+	15:49 Turn off all valves and start extrating helium cold trap.
+	16:00 Start pumping on nitrogen trap outside the dewar with a heat gun set on low.
+	16:30 The nitrogen trap appears to be clean.
+	16:45 Extraction complete, 4He level = 59.8%
+	17:00 Start pumping on the dilution fridge at room temperature.
+	17:01 P_cryo = 31 mBar.
