@@ -426,3 +426,28 @@ Mar. 19, 2019
 	23:01 T_mc = 100 mK, T_still = 923 mK (5 mW on still heater). P_cool (100 mK) = 125 uW (0.5 mW * 0.5 mW * 500 ohm).
 		Note: the still heater added additional cooling power to the mixing chamber by about 45 uW.
 	23:53 Turn off still heater.
+Mar. 20, 2019
+	09:36 T_mc = 29.7 mK, T_cold = 57.8 mK, T_still = 737 mK. P1 = 0.030 Bar, P4 = 0.61 mBar. Close V1, open V4, bypass valve to start collecting all mixture back to the dump. Stop 1K pot, switch off turbo pump, and turn on all heaters.
+	10:50 P1 = 0.768 Bar and plateaued. Inject 3000 mBar-in-manifold of helium-4 into the dump. 4He level = 56.4%.
+	11:35 P1 = 0.770 Bar. P_cryo = 41 mBar. Close V12, SV3 and by pass valve, start to remove helium trap from the cryostat.
+	11:42 Turn off the turbo pump, close all valves, disconnected bellows and start removing the fridge from the cryostat.
+	12:29 Fridge is removed and secured on rack. P_cryo = 40 mBar. 4He level = 47.2%.
+		Note: A possible heat leak found between the mixing chamber and cold plate through touching the radiation shield. The heat leak is subsequently removed. Raidation shield mounted back on.
+	16:08 P_cryo = 40 mBar, start inserting the fridge back into the cryostat. 4He level = 47.1%.
+	17:50 Fridge insert complete, 4He level = 33.8%. P_cryo = 58 mBar.
+	19:31 Start transferring helium into the cryostat, 4He level = 29.4%.
+	20:18 4He level = 75.3%, stop transfer.
+	20:31 Transfer complete, 4He level = 75.9%, P_cryo = 44 mBar.
+Mar. 21, 2019
+	08:08 Start 1K pot. Insert helium trap. 4He = 72.9%.
+	09:16 Start condensing sequence. P1 = 0.768 Bar.
+	10:09 Observed a large pressure difference between P2 and P5 (P2 / P5 = 254 / 629), Collect all mixtures back into the tank and prepare to clean the nitrogen trap.
+	11:08 Switch off all heaters, close V12, SV3, and V4, turn off turbo pump. Extract helium trap, close SV1 and start pumping both traps.
+	11:27 STart pumping on nitrogen trap while heating it with a heat gun set on low.
+	12:30 Helium cold trap appears to be clean as the pressure quickly went down and stayed at 8E-8 mBar. Therefore stop pumping on helium trap, and re-insert it into the cryostat. Nitrogen trap appears to be contaminated as the pressure stayed high at 1.6E0 mBar, continue pumping it while heating it with a heat gun on low setting.
+		Note: The nitrogen trap stayed at low vacuum for extended period of time (2E-3 mBar), suspect either it has water in it that is slowly evaporating, or there is a gross leak.
+	13:50 swap the nitrogen trap to the spare one (the old one) and start pumping on them individually.
+	14:05 Pressure inside the spare nitrogen trap dropped to 3E-5 mBar. Re-insert the nitrogen trap into the dewar.
+	14:09 Start forepump.
+	14:13 Open V5 and V1 to circulate the gas inside the bellows through the cold traps.
+	14:15 T_1K = 1.93 K. Start 1K pot. Open V12, SV3, close bypass valve. Start condensing sequence.
