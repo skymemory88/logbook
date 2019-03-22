@@ -458,3 +458,20 @@ Mar. 21, 2019
 	16:45 Extraction complete, 4He level = 59.8%
 	17:00 Start pumping on the dilution fridge at room temperature.
 	17:01 P_cryo = 31 mBar.
+	17:16 Nitrogen trap suddenly had a pressure jump from 3E-5 mBar to 2E-2 mBar.
+		Note: The pressure bump appeared more than an hour after I started pumping the nitrogen trap, suggesting there may be ice/water inside and started to melt as the temperature goes up.
+Mar. 22, 2019
+	08:30 The pressure inside the dilution fridge reached 2.6E-6 mBar, close all valves and stop the pump. Start pumping on the vacuum chamber.
+	08:35 The pressure inside the nitrogen trap reached 4.3E-5 mBar, close all valves and stop the pump. Reinsert the nitrogen cold trap into the dewar.
+	10:45 IVC pressure reached 8E-5 mBar. Start insert the fridge into the cryostat.
+	12:45 Insert complete, P_cryo = 47 mBar. Start pumping on bellows. 4He level = 48.3%.
+	13:50 Load the helium cold trap into the cryostat.
+	14:00 Helium trap insert complete. P_cryo = 39 mBar, P1 = 0.768 Bar, test the circulation by releasing some mixture from the dump into the circulation without going through the fridge but the bypass valve.
+	14:00 Close bypass valve, open V12 and SV3, start condensing sequence.
+	15:00 The condensing sequence appears to be stuck, switch to manual condensing.
+	15:20 Switch back to automated condensing sequence.
+	15:45 Stop automated condensing sequence, recollect all mixtures back into the dump.
+		Note: As the temperature so fall three stages (Still, cold plate, and mixing chamber) dewelled above 2K for very long time, deviated from the usual cool down trajectory, it is suspected that the fridge is well thermalized to the cryostat for possibily too much exchange gas inside with a malfunctioning sorb.
+	16:00 Turn on all heaters, and start pumping on IVC.
+	16:21 P_ivc = 1.8E-5 mBar, close the IVC valve, turn off all heaters and start the condensing sequence again. P1 = 0.768 Bar.
+	
