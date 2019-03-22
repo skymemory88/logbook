@@ -18,7 +18,7 @@ Mar. 01, 2019
 	07:10 recollect some mixture back to the reservoir (~10 mbar), T_still = 935mK
 	07:12 P1 = 23mbar.
 	08:13 T_mc plateaued at 31 mK. turn off still heater.
-	10:25 Put in ~3.5 bar-in-manifold helium-3 into the mixture circulation while the fridge is running. T_mc = 31.5m K, T_1k = 1.54K, T_still = 745 mK, still heater is off.
+	10:25 Put in ~3.5 bar-in-manifold helium-3 into the mixture circulation while the fridge is running. T_mc = 31.5m K, T_1K = 1.54K, T_still = 745 mK, still heater is off.
 	10:49 P5 recovered to 118 mbar, put in another shot of helium-3 (3.5 bar in manifold)
 	11:05 put in another shot of helium-3 (~3.5 bar in manifold), T_still = 744 mK, T_mc = 32.23mK.
 	11:15 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 745 mK, T_mc = 32.43mK.
@@ -81,10 +81,10 @@ Mar. 02. 2019
 	18:09 T_mc = 64.61 mK, T_still = 1.53 K, T_1K = 1.55 K, P1 = 184 mBar.
 	18:12 T_mc = 66.07 mK, T_still = 1.53 K, T_1K = 1.55 K.
 	19:03 T_mc = 94.76 mK, T_still = 1.47 K, T_1K = 1.528 K. Switch off turbo pump and still heater, and start the condensing sequence to re-inject all the mixtures collected.
-	20:05 T_still = 878 mK, T_mc = 201.3 mK, T_1k = 1.54 K P1 = 0.015 Bar. Turn off still heater and turbo pump, and open V9 to let in the last bit of helium mixture.
-	21:45 T_still = 862 mK, T_mc = 332 mK, T_1k = 1.52 K, P1 = 0.001 Bar. Close V9, turn on turbo pump.
+	20:05 T_still = 878 mK, T_mc = 201.3 mK, T_1K = 1.54 K P1 = 0.015 Bar. Turn off still heater and turbo pump, and open V9 to let in the last bit of helium mixture.
+	21:45 T_still = 862 mK, T_mc = 332 mK, T_1K = 1.52 K, P1 = 0.001 Bar. Close V9, turn on turbo pump.
 Mar. 03, 2019
-	08:21 T_still = 709 mK, T_mc = 175.9 mK, T_1k = 1.52 K. P1 = 0.000 Bar. Turn on still heater (5 mW).
+	08:21 T_still = 709 mK, T_mc = 175.9 mK, T_1K = 1.52 K. P1 = 0.000 Bar. Turn on still heater (5 mW).
 	08:57 T_still = 934 mK, T_mc = 67.8 mK. Entrance pressure to the dilution unit is unusually high, P2 = 690 mBar, P5 = 649 mBar (compared to 'log 130408 184650'.vcl)
 	09.21 T_still = 936 mK, T_mc = 53.56 mK. P2 = 693 mBar, P5 = 654 mBar.
 	10:15 T_still = 937 mK, T_mc = 48.81 mK. P2 = 708 mBar, P5 = 671 mBar. Turn off still heater.
@@ -94,7 +94,7 @@ Mar. 03, 2019
 	11:38 T_still = 727 mK, T_mc = 119.4 mK. Turn on still heater (5 mW) to re-establish base temperature.
 	12:06 P2 = 736 mBar, P5 = 698 mBar. Switch off turbo pump as the entrance pressure is too high.
 	12:09 Switch back on the turbo pump as T_mc start to rise.
-	12:18 T_mc = 73 mK, T_still = 932 mK, T_1k = 1.52 K. P2 = 735 mBar, P5 = 698 mBar.
+	12:18 T_mc = 73 mK, T_still = 932 mK, T_1K = 1.52 K. P2 = 735 mBar, P5 = 698 mBar.
 	13:15 T_mc = 47.26 mK, T_still = 938 mK, P2 = 749 mBar, P5 = 712 mBar.
 	13:17 T_mc = 47.24 mK. Remove 8 mbar (in 70L tank) mixture into the reservoir.
 	13:54 T_still = 940 mK, T_mc = 34.73 mK, P2 = 749 mBar, P5 = 718 mBar.
@@ -180,7 +180,7 @@ Mar. 10, 2019
 	14:34 T_mc = 265 mK, T_still = 723 mK. P1 = 0.002 Bar. Open V4 to remove some of the mixture from the circulation.
 	14:36 P1 = 0.011 Bar.
 	15:15 T_mc = 190 mK, T_still = 745 mK. P3 = 2.2E-2 mBar. P4 = 1.5 mBar. Remove more mixture from circulation.
-	15:20 P1 = 0.021 Bar. T_still = 677 mK, T_mc = 195 mK, T_1k = 1.64 K. P3 = 7.2E-3 mBar, P4 = 4.3E-1 mBar.
+	15:20 P1 = 0.021 Bar. T_still = 677 mK, T_mc = 195 mK, T_1K = 1.64 K. P3 = 7.2E-3 mBar, P4 = 4.3E-1 mBar.
 	15:45 P1 = 0.021 Bar, T_still = 767 mK, T_mc = 111 mK. T_1K = 1.64 K. P2 = 220 mBar, P5 = 110 mBar, P3 = 2E-2 mBar, P4 = 1.4 mBar.
 	16:05 P2 = 216 mBar, P5 = 106 mBar, P3 = 1.9E-2 mBar, P4 = 1.3 mBar. T_mc = 79.05 mK, T_still = 777 mK, T_1K = 1.65 K.
 	16:06 4He leve = 34.1%, start transferring helium into the cryostat.
@@ -474,4 +474,10 @@ Mar. 22, 2019
 		Note: As the temperature so fall three stages (Still, cold plate, and mixing chamber) dewelled above 2K for very long time, deviated from the usual cool down trajectory, it is suspected that the fridge is well thermalized to the cryostat for possibily too much exchange gas inside with a malfunctioning sorb.
 	16:00 Turn on all heaters, and start pumping on IVC.
 	16:21 P_ivc = 1.8E-5 mBar, close the IVC valve, turn off all heaters and start the condensing sequence again. P1 = 0.768 Bar.
-	
+	19:20 Start transfer helium. 4He level = 40.8%.
+	19:25 T_mc = reached 81 mK (18:37) and then start to bouncing back up. P1 = 0.013 Bar.
+	19:30 Helium transfer appeared to have interfered with 1K pot and T_1K rose up to 4.2 K. Immediately switch off turbo pump, open V4 and close V1 as P5 rose to 500+ mBar.
+	19:32 Pressure stabilizes and T_1K = 1.8 K, open V1, close V4, and open V9 to empty the dump.
+	19:40 P2 = 218 mBar, P5 = 70 mBar, P1 = 0.032 Bar, P4 = 1.2 mBar. T_mc = 247.8 mK, T_cold = 223.9 mK, T_still = 917 mK, T_1K = 1.57 K. 
+	20:18 4He level = 77.7%, stop tranferring.
+	20:33 4He level = 80.8%. T_mc = 394 mK, T_still = 864 mK, T_cold = 316 mK. P1 = 0.005 Bar. 
