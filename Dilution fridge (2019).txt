@@ -471,9 +471,10 @@ Mar. 22, 2019
 	15:00 The condensing sequence appears to be stuck, switch to manual condensing.
 	15:20 Switch back to automated condensing sequence.
 	15:45 Stop automated condensing sequence, recollect all mixtures back into the dump.
-		Note: As the temperature so fall three stages (Still, cold plate, and mixing chamber) dewelled above 2K for very long time, deviated from the usual cool down trajectory, it is suspected that the fridge is well thermalized to the cryostat for possibily too much exchange gas inside with a malfunctioning sorb.
+		Note: As the temperatures of all three stages (Still, cold plate, and mixing chamber) dewelled above 2K for very long time, deviated from the usual cool down trajectory, it is suspected that the fridge is well thermalized to the cryostat for possibily too much exchange gas inside with a malfunctioning sorb.
 	16:00 Turn on all heaters, and start pumping on IVC.
 	16:21 P_ivc = 1.8E-5 mBar, close the IVC valve, turn off all heaters and start the condensing sequence again. P1 = 0.768 Bar.
+		Note: The second attempt of cooling down after pumping out the exchange gas succeeded, suggesting the correctness of the suspicion that it was a thermalization problem that prevented condensing during the first attempt.
 	19:20 Start transfer helium. 4He level = 40.8%.
 	19:25 T_mc = reached 81 mK (18:37) and then start to bouncing back up. P1 = 0.013 Bar.
 	19:30 Helium transfer appeared to have interfered with 1K pot and T_1K rose up to 4.2 K. Immediately switch off turbo pump, open V4 and close V1 as P5 rose to 500+ mBar.
@@ -481,3 +482,30 @@ Mar. 22, 2019
 	19:40 P2 = 218 mBar, P5 = 70 mBar, P1 = 0.032 Bar, P4 = 1.2 mBar. T_mc = 247.8 mK, T_cold = 223.9 mK, T_still = 917 mK, T_1K = 1.57 K. 
 	20:18 4He level = 77.7%, stop tranferring.
 	20:33 4He level = 80.8%. T_mc = 394 mK, T_still = 864 mK, T_cold = 316 mK. P1 = 0.005 Bar. 
+	20:50 Start Turbo pump. P1 = 0.003 Bar.
+	22:15 P1 = 0.000 Bar. T_mc = 255.4 mK, T_cold = 200 mK, T_still = 694 mK. P4 = 1.50 mBar. Turn on still heater (5mW).
+	22:33 T_mc = 251 mK, T_cold = 200.2 mK, T_still = 923 mK, P4 = 2.2 mBar. Turn off still heater.
+		Note: The still heater appeared to have no significant effect on the cooling power.
+	22:47 T_mc = 258 mK, T_cold = 202.7 mK, T_still = 696 mK. Open V4 to remove 10 mBar of mixture.
+	22:52 P1 = 0.010 Bar, close V4.
+	11:48 T_mc = 175.3 mK, T_still = 716 mK, T_cold = 139.7 mK, P4 = 1.4 mBar. P1 = 0.010 Bar, open V4 to remove 5 mBar of mixture.
+	11:50 P1 = 0.015 Bar, close V4.
+Mar. 23, 2019
+	08:01 P1 = 0.015 Bar, T_mc = 82.05 mK, T_cold = 79.42 mK, T_still = 745 mK, all temperatures have plateaued for the last 6 hours. P2 = 202 mBar, P5 = 77 mBar, P4 = 1.1 mBar. Turn on still heater (5 mW).
+	09:19 T_mc = 69.8 mK, T_cold = 81.2 mK, T_still = 954 mK. Turn off still heater.
+	10:00 T_still = 749 mK. Open V9 to empty the dump.
+		Note: The still temperature is too high, removing mixture at this temperature almost inevitably remove helium-4 along with its isotope. Open V9 usually reduces still temperature so that pure helium-3 can be removed.
+	10:51 T_still = 717 mK, T_mc = 243 mK, T_cold = 191 mK. Close V9 and open V4 to remove mixture.
+	11:20 P1 = 0.021 Bar, close V4. T_still = 550 mK.
+	14:42 T_mc = 53.11 mK, T_cold = 66.47 mK, T_still = 756 mK, P4 = 1.0 mBar. P1 = 0.021 Bar. Open V9 to empty the dump and lower the still temperature.
+	16:21 T_still = 700 mK, P1 = 0.001 Bar. P4 = 1.4 mBar. Close V9, V1, and open V4.
+	17:07 P1 = 0.025 Bar, close V4. T_still = 528 mK, P4 = 0.8 mBar.
+	18:14 P2 rose over 1 Bar, open V4 to release the pressure to the dump.
+	Note: V1 was left closed erroneously when V4 was closed, and therefore the pressure behind the forepump rose up quite, and possibly dangerously, high. The turbo pump efficiency was noted subsequently dropped as the power input rose to the maximum (350 W) while the spinning speed was only 680 rpm (820 rpm under normal circumstances). For furture reference, the status of circulation should be inspected after every operation. 
+	18:15 Open V9 to empty the dump.
+	19:25 P1 = 0.003 Bar, close V9 and open V4 to recollect 22 mBar of mixture from circulation.
+	Note: All systems, including the pressures and pumps, appear to have regained balance and recovered to normal state
+	19:30 T_still = 613 mK. Briefly close V4 and open V9 to put back some of the mixture and take advantage of the low temperature of the still to collect as much mixture with as pure helium-3 as possible.
+	19:39 T_still = 702 mK, close V4 and open V9 to start collecting mixtures again.
+	19:40 T_still = 0.601 K, close V1 to expedite the process.
+	19:51 P1 = 0.025 mBar, close V4 and open V1.
