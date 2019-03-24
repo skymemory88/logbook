@@ -509,3 +509,39 @@ Mar. 23, 2019
 	19:39 T_still = 702 mK, close V4 and open V9 to start collecting mixtures again.
 	19:40 T_still = 0.601 K, close V1 to expedite the process.
 	19:51 P1 = 0.025 mBar, close V4 and open V1.
+	22:21 T_mc = 45.2 mK, T_cold = 64.0 mK, T_still = 756 mK. P4 = 1.0 mBar. Turn on still heater (5 mW).
+	23:06 T_mc = 49.9 mK, T_cold = 74.3 mK, T_still = 963 mK. P4 = 1.81 mBar. Turn off still heater.
+		Note: The still heater didn't appear to have helped with the cooling power.
+	23:25 T_mc = 50.4 mK, T_cold = 65.7 mK, T_still = 755 mK. P4 = 1.10 mBar. Open V9 to put back some mixture into the circulation and lower the still temperature.
+	23:56 T_still = 738 mK. Close V9 and open V4.
+Mar. 24, 2019
+	00:08 T_still = 567 mK. Close V1 to expedite the process.
+	01:00 P1 = 0.030 Bar, T_still = 529 mK. close V4 and open V1.
+	09:20 T_mc = 47.3 mK, T_still = 747 mK. P4 = 1.0 mBar. Turn on still heater (5 mW).
+		Note: P4 appears to be higher than usual at this still temperature.
+	10:25 T_mc = 51.1 mK, T_cold = 74.6 mK, T_still = 960 mK. P4 = 1.8 mBar. Turn off still heater and open V9 to empty the dump.
+		Note: The still heater appears to have negatively impacted the cooling power.
+	11:43 T_mc = 256.7 mK, T_cold = 201.3 mK, T_still = 713 mK. P4 = 1.40 mBar, P1 = 0.003 Bar. Close V9, open V4.
+		Note: Closing V1 when collecting part of the mixtures, thought speed up the process, is speculated to be hindering collecting pure helium-3. Hence now attempt to recollect mixtures with V1 open and hence the circulation is somewhat kept going.
+	11:52 T_still = 540 mK, P4 = 0.11 mBar.
+	12:40 P1 = 0.032 Bar. Close V4 and open V9 to adjust P1 to 0.030 Bar.
+	12:42 P1 = 0.030 Bar, close V9.
+	14:36 T_mc = 39.54 mK, T_cold = 59.9 mK, T_still = 759 mK. All temperatures appears to be flating out. P2 = 191 mBar, P5 = 74 mBar. P4 = 0.95 mBar. Turn on still heater (5 mW).
+	15:04 T_mc = 41.8 mK, T_cold = 70.16 mK, T_still = 962 mK.
+		Note: It appears that the still heater initially helped the mixing chamber gain cooling power (T_mc = 38.5 mK) and as the still temperature rose up, more helium-4 was mixed in the vapor, hampering the pumping rate of helium-3 which provide the cooling power, and the mixing chamber subsequently start to warming up.
+	15:06 Reduce still heater heating power (5 mW -> 2 mW).
+	15:58 T_mc appeas to plateauded at 41.9 mK, T_still = 838 mK. Increase the heating power from 2 mW to 3 mW.
+	16:13 Turn off still heater.
+		Note: The increase in the still heater heating power didn't appear to help with the cooling power. As P4 is still higher than usual, prepare to cool down still and remove 5 mBar of mixture (mostly helium-3 at low temperature).
+	16:51 T_still = 758 mK, P1 = 0.030 Bar. Open V4 to remove some mixture.
+	16:56 P1 = 0.040 mBar, close V4. T_still = 625 mK.
+	17:54 T_mc = 30.83 mK and plateaued. T_still = 764 mK, P4 = 0.97 mBar. Turn on still heater (3 mW).
+	18:27 T_mc = 30.76 mK. T_still = 882 mK, change still heater power to 4 mW.
+	19:00 T_mc = 30.88 mK, T_still = 925 mK, P4 = 1.5 mBar. Turn off still heater. Open V9 and let in 10 mBar of mixture to the circulation.
+	21:00 T_mc = 40.1 mK, T_cold = 60.4 mK, T_still = 759 mK. Turn on still heater (3 mW). P4 = 0.96 mBar.
+	21:28 T_mc = 40.44 mK, T_cold = 65.8 mK, T_still = 881 mK, P4 = 1.5 mBar, P1 = 0.030 Bar. Turn off still heater. Open V9 to let in 5 mBar of mixture.
+	21:34 P1 = 0.025 mBar. close V9.
+	22:00 T_mc = 46.9 mK, T_cold = 62.3 mK, T_still = 755 mK. P4 = 1.0 mBar. Turn on still heater (3 mW).
+	22:39 T_mc = 48.7 mK, T_cold = 68.3 mK, T_still = 881 mK. P4 = 1.5 mBar. Turn off still heater and open V9 to let in more mixture.
+		Note: The still heater again didn't help with cooling power.
+	23:10 T_still = 737 mK, close V9 and open V4.
