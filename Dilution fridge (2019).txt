@@ -545,3 +545,26 @@ Mar. 24, 2019
 	22:39 T_mc = 48.7 mK, T_cold = 68.3 mK, T_still = 881 mK. P4 = 1.5 mBar. Turn off still heater and open V9 to let in more mixture.
 		Note: The still heater again didn't help with cooling power.
 	23:10 T_still = 737 mK, close V9 and open V4.
+Mar. 25, 2019
+	00:07 T_still = 591 mK, T_mc = 184 mK, T_cold = 149 mK. P4 = 0.23 mBar.
+	09:28 T_mc = 31.2 mK, T_cold = 59.3 mK, T_still = 756 mK. P4 = 0.99 mBar. Start measuring cooling power at 100 mK.
+	10:40 Cooling power measured to be 96.8 uW (0.44 mA * 0.44 mA * 500 ohm). Turn off the mixing chamber heater.
+	16:00 T_mc = 26.7 mK. Stop logging to calibrate the thermometers.
+Mar. 26, 2019
+	10:50 T_mc = 26.9 mK, P1 = 0.035 Bar, open V9 and let in 2 mBar of mixture into the circulation.
+	11:32 T_mc = 27.9 mK, open V4 to remove 3 mBar of mixture.
+	11:34 P1 = 0.036 Bar.
+	11:43 T_mc returns to 26.7 mK.
+	12:26 T_mc = 25.24 mK, T_cold = 62.6 mK, T_still = 763 mK. P4 = 0.91 mBar, P1 = 0.036 Bar, open V4 and remove 2 mBar of mixture.
+	12:27 P1 = 0.038 Bar, close V4.
+	12:50 T_mc = 24.7 mK, T_cold = 62.7 mK, T_still = 765 mK. P4 = 0.98 mK, open V4 to remove 2 mBar of mixture.
+	12:51 P1 = 0.040 mBar.
+	13:01 T_mc = 24.3 mK, T_cold = 62.8 mK, T_still = 764 mK. P4 = 0.89 ~ 1.0 mBar.
+		Note: P4 appears to be repeating a cyclic motion between 1.0 mBar and 0.89 mBar. The cause is unknown.
+	13:08 Open V4 and remove 2 mBar of mixture.
+	13:09 P1 = 0.042 Bar.
+	14:08 T_mc = 23.7 mK, T_cold = 62.8 mK, T_still = 761 mK. P4 = 0.95 mBar. Open P4 and remove 2 mBar of mixture.
+	14:10 P1 = 0.044 Bar.
+	14:50 T_mc = 23.3 mK, T_cold = 62.8 mK, T_still = 764 mK. P4 = 0.93 mBar.
+	15:01 Start cooling power measurement at 100 mK using mixing chamber heater with P = 2, I = 50, D = 10.
+	15:45 T_mc = 100 mK. P_cool(100 mK) = 135.4 uW (0.52 mA * 0.52 mA * 500 ohm). Turn off mixing chamber heater.
