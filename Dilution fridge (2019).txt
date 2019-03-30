@@ -635,3 +635,4 @@ Mar. 30, 2019
 	18:57 T_mc = 23.3 mK, P1 = 0.045 Bar, open V4 to remove 5 mBar of mixture from circulation.
 	18:59 P1 = 0.050 Bar, close V4.
 	19:30 T_mc = 22.8 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
+	22:08 T_mc = 22.8 mK, T_cold = 64.4 mK, T_still = 783 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
