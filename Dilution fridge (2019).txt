@@ -636,3 +636,29 @@ Mar. 30, 2019
 	18:59 P1 = 0.050 Bar, close V4.
 	19:30 T_mc = 22.8 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
 	22:08 T_mc = 22.8 mK, T_cold = 64.4 mK, T_still = 783 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
+Mar. 31, 2019
+	09:28 T_mc = 22.7 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.2 mBar. P1 = 0.050 Bar. Start measuring 100 mK cooling power using mixing chamber heater with P=2, I=50, D=10.
+	10:19 T_mc = 100.4 mK, T_still = 759 mK. P_cool(100 mK) = 135.2 uW (0.52 mA * 0.52 mW * 500 ohm). Stop cooling power measurement and let the temperature reset to the base temperature.
+	11:19 Start calibration measurement from 25 mK to 80 mK.
+	13:25 Start calibration measurement from 90 mK to 155 mK.
+	15:27 Calibration complete, reset temperature back to base temperature.
+	15:52 The low temperature part (25-155 mK) measurement appears to be inaccurate. Prepare to retake this part of the data.
+	15:53 T_mc = 201 mK. T_still = 698 mK, turn on still heater (3 mW) to expedite cooling.
+	15:55 4He leve = 60.7%.
+	16:22 T_mc = 26.8 mK, T_cold = 27.07, T_still = 883 mK. Turn off still heater and let the temperatures of the thermometers to reach an equilibrium.
+	17:35 T_mc = 22.7 mK, T_cold = 62.63 mK, T_still = 762 mK. P4 = 0.9 mBar. 
+		Note: Though the mixing chamber thermometer shows a temperature of 22.8 mK, the CMN-1000 calibration kit mounted on the mixing chamber suggests that the actual temperature is 17.5 mK.
+	17:38 Temperature has been stable, ready for another calibration run between 23 mK to 155 mK.
+	17:45 Start second calibration measurement between 23 mK and 155 mK.
+	20:29 Calibration complte. Turn off all heaters and let the temperature reset back to base temperature.
+	22:55 T_mc = 23.7 mK, turn on still heater (3 mW).
+	23:03 Turn off still heater.
+Apr. 01, 2019
+	16:09 T_mc = 23.13 mK, T_still = 763 mK, T_cold = 62.7 mK. P1 = 0.050 Bar, P1 = 0.86 mBar. 4He level = 54.5%.
+	16:15 Close V1, open V4, and open bypass valve to lower P5 for helium-4 injection.
+	16:29 Inject 4000 mBar-in-manifold of helium-4 into the dump.
+	16:30 Close bypass valve, V4, and open V1.
+	16:31 Open V9 and put all mixture in dump into circulation.
+	18:15 P1 = 0.001 Bar, T_mc = 250 mK, T_cold = 195.4 mK, T_still = 697 mK. Close V9.
+	18:21 T_mc = 249 mK, T_cold = 194.8 mK, T_still = 695 mK. Temperatures have been stable. Open V4 and remove 20 mBar of mixture.
+	18:52 P1 = 0.020 Bar, close V4. T_still = 555 mK, T_mc = 240 mK, T_cold = 195.2 mK.
