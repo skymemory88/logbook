@@ -660,5 +660,16 @@ Apr. 01, 2019
 	16:30 Close bypass valve, V4, and open V1.
 	16:31 Open V9 and put all mixture in dump into circulation.
 	18:15 P1 = 0.001 Bar, T_mc = 250 mK, T_cold = 195.4 mK, T_still = 697 mK. Close V9.
-	18:21 T_mc = 249 mK, T_cold = 194.8 mK, T_still = 695 mK. Temperatures have been stable. Open V4 and remove 20 mBar of mixture.
-	18:52 P1 = 0.020 Bar, close V4. T_still = 555 mK, T_mc = 240 mK, T_cold = 195.2 mK.
+	18:21 T_mc = 249 mK, T_cold = 194.8 mK, T_still = 695 mK. Temperatures have been stable. Open V4 and remove 50 mBar of mixture.
+	18:52 T_still = 555 mK, T_mc = 240 mK, T_cold = 195.2 mK.
+	20:06 P1 = 0.050, close V4.
+	21:57 T_mc = 23.76 mK, T_cold = 62.6 mK, T_still = 760 mK. P1 = 0.050 Bar, P4 = 0.9 mBar. Open V9 and let 5 mBar of mixture into the circulation.
+	22:01 P1 = 0.045 Bar, close V9.
+Apr. 02, 2019
+	07:00 T_mc = 23.8 mK, T_cold = 62.5 mK, T_still = 760 mK, P4 = 0.97 mBar. P1 = 0.045 Bar, open V9 to let 5 mBar into the circulation.
+	07:40 P1 = 0.040 Bar, close v9.
+	08:35 T_mc = 24.12 mK, T_cold = 62.3 mK, T_still = 760 mK. P4 = 0.89 mBar. P1 = 0.040 Bar. Open V9 to let 5 mBar of mixture into the circulation.
+	08:40 P1 = 0.035 Bar. Close V9.
+	09:45 T_mc = 25.02 mK, T_cold = 61.95 mK, T_still = 759 mK. P4 = 0.93 mBar. P1 = 0.035 Bar, open V4 to remove 20 mBar of mixture from the circulation.
+	13:56 P1 = 0.775 Bar, helium trap removed, ready to extract the fridge. 4He level = 45.3%.
+	14:45 Extraction complete.
