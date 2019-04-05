@@ -672,4 +672,8 @@ Apr. 02, 2019
 	08:40 P1 = 0.035 Bar. Close V9.
 	09:45 T_mc = 25.02 mK, T_cold = 61.95 mK, T_still = 759 mK. P4 = 0.93 mBar. P1 = 0.035 Bar, open V4 to remove 20 mBar of mixture from the circulation.
 	13:56 P1 = 0.775 Bar, helium trap removed, ready to extract the fridge. 4He level = 45.3%.
-	14:45 Extraction complete.
+	14:45 Extraction complete. 4He level = 41.0%, put in some helium exchange gas into the vacuum chamber to warm up the inside without introducing moisture.
+Apr. 03, 2019
+	Change the insert to "Gighertz insert".
+Apr. 05, 2019
+	18:30 Start pumping on vacuum chamber and dilution fridge unit.
