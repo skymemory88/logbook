@@ -677,3 +677,33 @@ Apr. 03, 2019
 	Change the insert to "Gighertz insert".
 Apr. 05, 2019
 	18:30 Start pumping on vacuum chamber and dilution fridge unit.
+Apr. 07, 2019
+	11:07 vacuum chamber pressured reached 6.8E-5 mBar, dilution unit pressure reached 1.4E-6 mBar. Close all valves and switch of the pumps.
+	11:29 Put some helium-4 exchange gas into the vacuum chamber.
+	11:33 Start to insert the fridge into the cryostat. 4He level = 34.5%. Connect secondary recovery line to the primary.
+	13:20 Insert complete, start pumping on the part of the mixture circulation line that was exposed to air. 4He level = 22.3%.
+	13:35 start transferring helium into the cryostat. P_cryo = 39 mBar.
+	14:02 4He level = 21.4%. Circulation line pressure dropped to 3E-5 mBar.
+	14:25 Mixture line pressure dropped to 1.6E-5 mBar. Stop pumping on it.
+	14:35 T_mc = 4.32 K, T_still = 3.96 K, T_cold = 3.82 K, T_1K = 4.03 K, T_sorb = 4.40 K. Turn on sorb heater (70 mW).
+	14:36 Start refilling the liquid nitrogen dewar for the nitrogen cold trap. 4He level = 34.1%.
+	14:39 Start extracting helium exchange gass from the vacuum chamber, T_sorb = 9.83 K, change the sorb heater power to 100 mW.
+	14:42 4He level = 35.4%, T_sorb = 11.2 K, Change the sorb heater power to 200 mW.
+	14:43 T_sorb = 14.7 K, change the sorb heater power to 300 mW.
+	14:45 Nitrogen dewar is full, stop refilling.
+	14:46 T_sorb = 18.0 K. Vacuum chamber pressure is at 2.0E-5 mBar.
+	14:48 T_sorb = 18.2 K, Vacuum chamber pressure is at 1.9E-5 mBar. Close the chamber valve and stop pumping on it. Switch off the sorb heater.
+	14:55 Open SV1 and close bypass valve, start inserting helium trap.
+	14:59 P_cool = 46 mBar, 4He level = 40.0%. 
+	15:26 4He level = 47.5%. P_cryo = 48 mBar.
+	16:00 4He level = 59%, the helium dewar appears to be empty, stop transferring.
+	16:12 Transfer complete. 4He level = 57.6%.
+	16:29 Start forepump. Open bypass valve, V5, and V1. Start 1K pot.
+	16:33 Test complete, mixture circulation appears to be normal, open SV3, V12.
+	16:35 T_mc = 4.29 K, T_cold = 4.3 K, T_still = 4.44 K. T_1K = 1.48 K. Open V1, start condensing sequence.
+	17:54 P1 = 0.013 Bar, the condensing sequence automatically closed V9 and turn on the turbo pump and still heater before conclusion. Manually turn off the still heater and open V9 to completely empty the dump.
+	18:52 P1 = 0.003 Bar, close V9.
+	18:55 T_mc = 404 mK, T_cold = 590 mK, T_still = 1.25 K. Open V4 and remove some mixture.
+	19:14 Close V4, P1 = 0.031 Bar. Turn on still heater.
+		Note: the still temperature wouldn't go below 1.2 K while the mixing chamber temperature reached 360 mK. Suspecting a heat leak to the still.
+	19:16 As P4 rose to 2.7 mBar and turbo pump power to 180 W, switch off still heater again.
