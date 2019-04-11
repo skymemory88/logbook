@@ -734,3 +734,36 @@ Apr. 08, 2019
 	14:34 T_mc = 286.5 mK, T_cold = 410 mK, T_still = 1.32 K, P4 = 0.81 mBar, P1 = 0.002 Bar, open V4 and remove some mxiture from circulation.
 	15:30 P1 = 0.065 Bar. Close V4.
 	18:12 T_mc = 158.1 mK, T_still = 1.33 K, T_cold = 389 mK. P4 = 0.8 mBar. Turn on still heater (3 mW).
+	19:01 T_mc = 135.1 mK, T_still = 1.413 K, T_cold = 373 mK. P4 = 1.2 mBar, still heater power is at 3 mW. P1 = 0.065 Bar. Open V9 to let 5 mBar of mixture into the circulation.
+	19:05 P1 = 0.060 Bar. Close V4.
+	17:36 T_mc = 135.2 mK, T_still = 1.42 K, T_cold = 374 mK, still heater power = 3 mW. P4 = 1.2 mBar, P1 = 0.060 Bar, open V9 and put 5 mBar of mixture into circulation.
+	17:39 P1 = 0.055 Bar, close V9.
+	22:16 T_mc = 134.2 mK, T_cold = 373 mK, T_still = 1.42 K. P4 = 1.2 mBar. P1 = 0.055 Bar, open V9 and put 5 mBar of mixture into circulation.
+	22:19 P1 = 0.050 Bar. Close V9.
+	22:44 T_mc = 134.8 mK, T_cold = 373 mK, T_still = 1.41 K, still heater power remains at 3 mW. P4 = 1.2 mBar, P1 = 0.050 bar. Open V9 to put 5 mBar of mixture into circulation.
+	22:47 P1 = 0.045 Bar, close V9.
+Apr. 09, 2019
+	06:37 T_mc = 135.6 mK, T_cold = 373 mK, T_still = 1.41 K. P1 = 0.045 Bar, P4 = 1.2 mBar. T_sample = 584.3 mK, still heater power at 3 mW, change to 4 mW.
+	07:51 T_mc = 130.6 mK, T_cold = 370 mK, T_still = 1.44 K, T_sample = 584.4 mK. P4 = 1.4 mBar, change still heater power from 4 mW to 5 mW.
+	08:25 T_mc = 126.3 mK, T_cold = 369 mK, T_still = 1.47 K, T_sample = 584.4 mK. P4 = 1.6 mBar, P2 = 223 mBar, P5 = 84 mBar. P1 = 0.045 Bar. 
+	11:31 T_mc = 126.2 mK, T_cold = 368 mK, T_still = 1.47 K, T_sample = 589 mK. P4 = 1.5 mBar, P1 = 0.045 Bar. Still heater at 5 mW.
+	15:41 T_mc = 125.8 mK, T_cold = 361 mK, T_still = 1.46 K, T_sample = 592 mK. P4 = 1.5 mBar, still heater power is at 5 mW.
+Apr. 10, 2019
+	09:43 T_mc = 157.9 mK, T_cold = 381 mK, T_still = 1.32 K, P4 = 0.82 mBar, P_cryo = 39 mBar, 4He level = 33.1%. Switch off turbo pump, close V1, 1K pot pumping line, and open V4, bypass valve to start collecting all mixture back into the dump.
+	10:33 P1 = 0.775 Bar, P5 = 0.002 Bar. Switch off sorb heater, still heater is still on and at 5 mW.
+	11:20 Turn on turbo pump to extract the last bit of mixture from the fridge.
+	11:30 Close all valves, switch off turbo pump and all heaters.
+	11:35 Start extracting the fridge from the cryostat.
+	12:05 Extraction complete, put in some helium-4 exchange gas to the vacuum chamber to warm up the fridge without introducing moisture.1
+Apr. 11, 2019
+	12:15 Pressure inside the vacuum chamber reached 1E-5 mBar. Close the valve and switch off the pump and start to insert the fridge into the cryostat. P_cryo = 63 mBar, 4He level = 28.7%. Open the valve between the cryostat and helium recovery line, connect the secondary recovery line to the primary.
+	12:31 Put some helium-4 exchange gas into the vacuum chamber and start flushing the 1K pot pumping line with helium-4 from a pressurized cylinder.
+	14:15 Insert complete, start pumping on bellows and helium cold trap at room temperature. 4He level = 17.0%.
+	14:49 Start transfering liquid helium into the cryostat.
+		Note: Though the cavity suffers a problem in producing signals, decided to continue to just test the thermalization of the new cavity setup.
+	15:30 Pressure inside the bellows reached 6E-5 mBar. Close all valves and start extracting helium-4 exchange gas from the vacuum chamber with still heater on (400 mW).
+	15:30 4He level = 37.2%, stop transferring.
+	15:45 Start inserting helium cold trap. Start forepump. T_sorb = 20.65 K, P_vc = 3E-5 mBar. Switch off sorb heater, and stop pumping on the vacuum chamber.
+	15:56 Open SV1, and bypass valve, test the circulation without open the fridge.
+	16:00 T_cav = 4.26 K, T_mc = 4.3 K, T_still = 3.88 K, T_sorb = 4.11 K, T_1K = 3.77 K. Start 1K pot pump.
+	16:01 T_1K = 1.58 K, open V12 and SV3, and start condensing sequence.
