@@ -767,3 +767,20 @@ Apr. 11, 2019
 	15:56 Open SV1, and bypass valve, test the circulation without open the fridge.
 	16:00 T_cav = 4.26 K, T_mc = 4.3 K, T_still = 3.88 K, T_sorb = 4.11 K, T_1K = 3.77 K. Start 1K pot pump.
 	16:01 T_1K = 1.58 K, open V12 and SV3, and start condensing sequence.
+	19:29 T_mc = 189.8 mK, T_cold = 384 mK, T_still = 1.34 K, P4 =1.0 mBar. turn off still heater and open V9 to completely empty the dump.
+	21:25 P1 = 0.000 Bar. Close V9.
+	22:14 T_mc = 347 mK, T_cold = 573 mK, T_still = 1.22 mK. P4 = 0.6 mBar. P1 = 0.000 Bar. Open V4 to remove some mixture from circulation.
+	23:00 P1 = 0.055 Bar, close V9.
+Apr. 12, 2019
+	08:21 T_mc = 146.2 mK, T_cold = 479 mK, T_still = 1.37 K, P4 = 0.78 mBar, P1 = 0.055 Bar, open V9 to take out some mixture.
+	08:23 P1 = 0.050 Bar, and close V4.
+	08:45 T_mc = 148 mK, T_cold = 478 mK, T_still = 1.36 K, P4 = 0.75 mBar. P1 = 0.050 Bar. Open V9 to remove 5 mBar of mixture.
+	08:48 P1 = 0.045 Bar, close V9.
+	09:30 T_mc = 151.4 mK, T_cold = 406 mK, T_still = 1.34 K, T_cav = 249.2 mK, P4 = 0.78 mBar. Turn on still heater (3 mW).
+	11:24 T_mc = 129.8 mK, T_cold = 445 mK, T_still = 1.43 K, T_cav = 243.5 mK. P4 = 1.1 mBar, change still heater power to 4 mW.
+	12:44 T_mc = 125.9 mK, T_cold = 438 mK, T_still = 1.46 K, T_cav = 246.1 mK. P4 = 1.4 mBar. Change still heater power to 5 mW.
+	12:53 T_mc = 123.6 mK, T_cold = 433 mK, T_still = 1.48 K, T_cav = 245.3 mK. P4 = 1.6 mBar.
+	14:25 T_mc = 118.7 mK, T_cold = 441 mK, T_still = 1.48 K, T_cav = 241.5 mK. P4 = 1.5 mBar, P1 = 0.045 Bar. Open V9 to put 5 mBar of mixture into circulation.
+	14:28 P1 = 0.040 Bar, close V9.
+	14:57 T_mc = 128.4 mK, T_cold = 437 mK, T_still = 1.48 K, T_cav	= 249.3 mK. P4 = 1.5 mBar.
+	15:10 Turn off turbo pump, close V1, SV3, 1K pot pumping line, turn on still heater (5 mW) and sorb heater (400 mW), open V4 to start collection mixture back into the dump.

@@ -4,3 +4,24 @@ Apr. 05, 2019
 	17:50 Detune (red-shift) the coupling between the cavity and antenna.
 	17:55 Mount the radiation shield onto the cold plate.
 	18:20 Close up the vacuum chamber and start pumping on it. Start pumping on the dilution fridge unit at the same time.
+Apr. 08, 2019
+	08:23 T_cav = 583.4 mK, T_m	= 288 mK.
+	Note: The mixing chamber temperature has been around 200 mK for an entire night, yet the cavity temperature couldn't get below 500 mK. Suspecting heat leak through the coax cable.
+Apr. 09, 2019
+	10:12 Start ramping the magnetic field from 0 to 5 T at 0.002 T/min. Recording S11 on ZVL network analyzer, temperature from Lakeshore 370B. T_cav = 0.584 K.
+	12:00 T_cav = 0.588 K. Change DC magnetic field ramping speed to 0.008 T/min.
+		Note: The previous ramping speed 0.002 T/min appeared to have very little heating effect as the cavity temperature stayed at 0.588 K.
+	13:00 T_cav = 0.587 K, change the DC magnetic ramping speed to 0.016
+	15:20 T_cav = 0.600 K, field = 3.041 T.
+	16:49 T_cav = 0.591 K, field = 3.373 T.
+	17:27 Field = 5.000 T, start to ramp down to zero.
+	17:47 T_cav = 0.575 K. Changet ramping rate to 0.02 T/min.
+		Note: Temperature reading at this field may be incorrect due to magnetoresistance.
+Apr. 10, 2019
+	14:20 Mount the cavity with the LiHoF4 inside onto the mixing chamber with th new holding rod. Under couple the antenna and the rest of the system. Close up the vacuum chamber and start pumping.
+	19:45 Pressure inside reaches 
+Apr. 11, 2019
+	14:53 Could not get any resonating signal from the cavity. T_cav = 4.59 K. 
+		Note: Decided to carry on to test the thermalization of the new installment.
+Apr. 12, 2019
+	Lowest temperature reached by the cavity was 241.5 mK.
