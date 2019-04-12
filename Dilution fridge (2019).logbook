@@ -787,3 +787,5 @@ Apr. 12, 2019
 	16:00 P1 = 0.775 Bar, P5 = 0.002 Bar. Turn on turbo pump and tun off sorb heater.
 	16:09 P1 = 0.776 Bar. P5 = 0.000 Bar. Close V4, SV1, SV3, and V12, turn off all heaters, and switch off the turbo pump.
 	16:15 Start extracting helium trap.
+	16:30 Start extracting the dilution fridge.
+	17:01 Extraction complete, 4He level = 25.8%.
