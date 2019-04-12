@@ -1,0 +1,789 @@
+Feb. 28, 2019
+	17:21 remove 5 mBar of mixture. P1 6 mBar -> 12 mBar.
+	18:18 remove 10 mbar mixture, T_still >900mK, P1 = 12 mbar -> 22 mbar
+	18:40 temperature seems to have plateaued at 38 mK
+	18:44 remove 5 mbar mixture, T_still = 936 mK, T_mc ~ 37 mK
+	18:45 P1 = 22 mbar ->28 mbar
+	19:48 T_mc plateaued at 31 mK, T_still = 939 mK.
+	19:52 switch off turbo pump, still heater, and open V9 to let more mixture into the circulation
+	21:00 close V9 and turn on turbo pump to start re-condensing.
+	21:37 turn on still heater (5 mW)
+	23:46 T_mc plateaued at 56 mK. Switch off the still heater.
+Mar. 01, 2019
+	00:03 T_mc plateaued at 56 mK and started to raise as still heater is switched off.
+	      open V4 to extract some mixtures. T_still = 727 mK, P1 = 0.003 bar
+	00:09 P1 = 0.013 bar. close V4.
+	06:46 T_mc stabilized at 45 mK. T_still = 740 mK. turn on still heater (5mW)
+	07:07 T_mc plateaued at 42 mK. still heater only marginally improved the base temperature.
+	07:10 recollect some mixture back to the reservoir (~10 mbar), T_still = 935mK
+	07:12 P1 = 23mbar.
+	08:13 T_mc plateaued at 31 mK. turn off still heater.
+	10:25 Put in ~3.5 bar-in-manifold helium-3 into the mixture circulation while the fridge is running. T_mc = 31.5m K, T_1K = 1.54K, T_still = 745 mK, still heater is off.
+	10:49 P5 recovered to 118 mbar, put in another shot of helium-3 (3.5 bar in manifold)
+	11:05 put in another shot of helium-3 (~3.5 bar in manifold), T_still = 744 mK, T_mc = 32.23mK.
+	11:15 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 745 mK, T_mc = 32.43mK.
+	11:38 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 740 mK, T_mc = 32.92 mK.
+	11:43 T_mc went up to ~33 mK, T_still = 744 mK. turn on still heater.
+	11:50 Still heater didn't seem to affect the base temperature (T_still = 937 mK), turn off still heater (5mW).
+	12:00 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 745 mK, T_mc = 32.71 mK.
+	12:14 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 744 mK, T_mc = 33.75 mK.
+	12:18 T_mc = 33.99 mK, T_still = 743 mK.
+	12:28 Put in another shot of helium-3 (~3.5 bar in manifold), T_still = 743 mK, T_mc =  34.91 mK.
+	12:35 T_mc = 36.3 mK, T_still = 742 mK. Turn on still heater (5mW).
+	12:47 T_mc = 35.99 mK, T_still = 937mK, P1 = 0.023 bar (T_env = 20 C).  Open V4 to remove roughly 7 mbar of helium mixtures from the circulation. 
+	12:49 P1 = 0.030 Bar. Close V4.
+	13:01 P1 = 0.030 Bar. T_mc = 32.47 mK, T_still = 937 mK.
+	13:05 Turn off the still heater. T_mc = 32.09 mK, T_still = 939 mK.
+	13:10 Put in three additional shots of helium (~10.5 Bar in manifold),, T_still = 745 mK, T_mc = 32.26 mK.
+			Note: In total, the second round of helium-3 injection put in about 10 mbar in 100L tank at 22 C degrees of helium-3.
+	13:20 T_mc = 32.81 mK, T_still = 743 mK, turn on the still heater (5 mW).
+	13:35 T_mc = 32.29 mK, T_still = 939 mK, P1 = 0.030 Bar. Remove about 3 mbar-in-tank of mixture from circulation.
+	13:57 T_mc = 31.45 mK, T_still = 940 mK. P1 = 0.033 Bar, 
+	14:44 T_mc = 31.12 mK. T_still = 940 mK, P1 = 0.033 bar. Open V4 to remove some mixture.
+	14:56 T_mc = 30.80 mK. Remove another 5 mbar helium mixture.
+	15:10 T_mc = 30.45 mK, T_still = 943 mK, start measuring cooling power at 100mK with P:2 I:50 D:10.
+	16:05 Cooling power measurement complete, P_100K = 145.8 mW [(54% * 1 mA)^2 * 500 ohm].
+	17:09 T_mc plateaued at 30.4 mK. P1= 0.042 bar, T_still = 939 mK. remove 10 mbar mixture from circulation by opening V4.
+	17:13 P1 = 0.052 bar.
+	18:17 T_mc = 30.03 mK. T_still = 942 mK, P1 = 0.052 Bar. remove 5 mbar of mixture.
+	18:19 P1 = 0.058 bar.
+	19:25 T_mc stabilizes at 29.9 mK, T_still = 942 mK, P1 = 57 mbar. Remove 5 mbar mixture from circulation.
+	19:27 P1 = 62 mBar
+	20:12 T_mc = 29.92 mK, T_still = 942 mK, P1 = 0.062 Bar. Remove 5 mbar mixture from circulation.
+	20:28 T_mc = 29.94 mK, T_still = 942 mK, P1 = 0.068 Bar. Remove 5 mbar mixture from circulation.
+	21:20 T_mc = 29.95 mK, T_still = 941 mK, P1 = 0.073 Bar, Remove 10 mbar mixture from circulation.
+	21:25 T_mc = 29.87 mK, P1 = 0.084 Bar.
+	22:55 T_mc = 29.87 mK, T_still = 941 mK, P1 = 0.084 Bar. Remove 10 mbar mixture from circulation.
+	22.53 P1 = 0.094 mbar.
+	23:00 T_mc = 29.80 mK, T_still = 939 mK, P1 = 0.094 Bar. Remove 10 mbar mixture from circulation.
+	23:02 P1 = 0.104 Bar.
+	23:20 T_mc = 29.86 mK, T_still = 943 mK, P1 = 0.104 Bar. Remove 10 mbar mixture from circulation.
+	23:23 P1 = 0.114 Bar.
+	23:26 T_mc = 29.89 mK, T_still = 952 mK, P1 = 0.114 Bar. Remove 10 mbar mixture from circulation.
+	23:30 T_mc = 29.9 mK, T_still = 948 mK, P1 = 0.124 Bar. Remove 10 mbar mixture from circulation.
+	23:33 P1 = 134 mBar.
+	23:40 T_mc = 29.92 mK, T_still = 953 mK, P1 = 0.134 Bar. Remove 10 mbar mixture from circulation.
+	23:46 T_mc = 30.06 mK, T_still = 967 mK, P1 = 0.144 Bar. Remove 10 mbar mixture from circulation.
+	23:53 P1 = 154 mBar
+	23:59 T_mc = 30.43 mK, T_still = 974 mK, P1 = 0.154 Bar. Remove 10 mbar mixture from circulation (open v4 and close V1).
+Mar. 02. 2019
+	00:05 P1 = 165 mBar, T_mc = 30.61 mBar, T_still = 965 mK. Switch off still heater for the night.
+	10:26 P1 = 164 mBar, T_mc = 35.16 mK, T_still = 760 mK. Turn on still heater.
+	10:57 T_mc = 30.96 mK. T_still = 985 mK. Remove 10 mbar mixture from the circulation (open v4 and close V1).
+	11:03 P1 = 174 mBar.
+	11:26 P1 = 174 mBar, T_still = 993 mK, T_mc = 33.29 mK.
+	11:37 T_still = 987 mK, T_mc = 34.55 mK.
+	12:01 T_ still = 998 mK, T_mc = 37.07 mK.
+	17:12 T_still = 987 mK, T_mc = 42.09 mK, P1 = 174 mBar, remove 10 mBar of mixture from the circulation (open v4 and close V1).
+	17:22 P1 = 184 mBar, T_still = 1.51 K, T_mc = 40.48 mK.
+	Note: When P1 ~ 177 mbar (maybe around 175 mBar as at this point, V4 is open to the circulation, and V1 is closed), T_still experience a sudden temperature jump to 1.7 K from ~990 mK.
+	17:26 T_mc = 41.06 mK, T_still = 1.77 K, T_1K = 1.54 K, P1 = 184 mBar.
+	18:09 T_mc = 64.61 mK, T_still = 1.53 K, T_1K = 1.55 K, P1 = 184 mBar.
+	18:12 T_mc = 66.07 mK, T_still = 1.53 K, T_1K = 1.55 K.
+	19:03 T_mc = 94.76 mK, T_still = 1.47 K, T_1K = 1.528 K. Switch off turbo pump and still heater, and start the condensing sequence to re-inject all the mixtures collected.
+	20:05 T_still = 878 mK, T_mc = 201.3 mK, T_1K = 1.54 K P1 = 0.015 Bar. Turn off still heater and turbo pump, and open V9 to let in the last bit of helium mixture.
+	21:45 T_still = 862 mK, T_mc = 332 mK, T_1K = 1.52 K, P1 = 0.001 Bar. Close V9, turn on turbo pump.
+Mar. 03, 2019
+	08:21 T_still = 709 mK, T_mc = 175.9 mK, T_1K = 1.52 K. P1 = 0.000 Bar. Turn on still heater (5 mW).
+	08:57 T_still = 934 mK, T_mc = 67.8 mK. Entrance pressure to the dilution unit is unusually high, P2 = 690 mBar, P5 = 649 mBar (compared to 'log 130408 184650'.vcl)
+	09.21 T_still = 936 mK, T_mc = 53.56 mK. P2 = 693 mBar, P5 = 654 mBar.
+	10:15 T_still = 937 mK, T_mc = 48.81 mK. P2 = 708 mBar, P5 = 671 mBar. Turn off still heater.
+	10:25 T_ still stabilized at 740 mK, T_mc = 52.92 mK and is continuing rising. P2 = 546 mBar, P5 = 513 mBar.
+	10:31 T_still = 737 mK, T_mc = 56.27 mK.
+	11:20 T_still = 733 mK, T_mc = 88.47 mK. P2 = 512 mBar, P5 = 486 mBar.
+	11:38 T_still = 727 mK, T_mc = 119.4 mK. Turn on still heater (5 mW) to re-establish base temperature.
+	12:06 P2 = 736 mBar, P5 = 698 mBar. Switch off turbo pump as the entrance pressure is too high.
+	12:09 Switch back on the turbo pump as T_mc start to rise.
+	12:18 T_mc = 73 mK, T_still = 932 mK, T_1K = 1.52 K. P2 = 735 mBar, P5 = 698 mBar.
+	13:15 T_mc = 47.26 mK, T_still = 938 mK, P2 = 749 mBar, P5 = 712 mBar.
+	13:17 T_mc = 47.24 mK. Remove 8 mbar (in 70L tank) mixture into the reservoir.
+	13:54 T_still = 940 mK, T_mc = 34.73 mK, P2 = 749 mBar, P5 = 718 mBar.
+	13:55 Remove 8 mBar mixture from the circulation. P1 = 0.008 Bar.
+	14:20 P1 = 0.016 Bar. T_still = 940 mK, T_mc = 30.90 mK. Remove another 8 mBar mixture.
+	15:05 P1 = 0.024 Bar. T_still = 939 mK, T_mc = 30.19 mK. Remove another 8 mBar mixture.
+	15:39 P1 = 0.033 Bar. T_still = 942 mK, T_mc = 29.94 mK. Remove another 8 mBar mixture.
+	15:41 P1 = 0.042 Bar. 
+	15:45 P1 = 0.042 Bar. T_still = 945 mK, T_mc = 29.97 mK. Remove another 8 mBar mixture.
+	15:41 P1 = 0.050 Bar. 
+	16:20 P1 = 0.050 Bar. T_still = 941 mK, T_mc = 29.88 mK. Remove 10 mBar mixture.
+	16:25 P1 = 0.060 Bar. T_still = 945 mK, T_mc = 29.87 mK. Remove 10 mBar mixture.
+	16:30 P1 = 0.070 Bar. T_still = 947 mK. T_mc = 29.80 mK. Terminate current test.
+	16:31 T_1K = 1.58 K. Switch off turbo pump and still heater, and open V9 to let in all the mixture from the reservoir to circulation.
+	18:12 P1 = 0.002 Bar. Close V9, turn on turbo pump.
+	19:21 T_still = 738 mK, T_mc = 61.05 mK.
+	21:10 T_still = 741 mK, T_mc = 52.73 mK. Open V4 and start to slowly re-collect some mixture into the reservoir.
+	21:44 T_still = 563 mK, T_mc = 63.88 mK. V4 is still open.
+	23:06 T_still = 587 mK, T_mc = 65.06 mK. P1 = 59 mBar. Close V4.
+Mar. 04. 2019
+	08:59 T_still = 750 mK, T_mc = 30.27 mK. P1 = 0.059 Bar. Open V4 to recollect some mixture into the reservoir.
+	09:35 T_still = 589 mK, T_mc = 34.28 mK, P1 = 95 mBar. Close V4.
+	10:01 T_still = 701 mK, T_mc = 33.93 mK. P1 = 95 mBar. Open V4.
+	10:57 T_still = 613 mK, T_mc = 38.09 mK. P1 = 127 mBar. V4 is still open.
+	11:15 Close V4, P1 = 133 mBar.
+	12:35 T_still = 771 mK, T_mc = 32.57 mK, P1 = 132 mBar.
+	14:09 start tranferring liquid helium into the cryostat.
+	14:28 1K pot temperature shoot up to 5K, open up the needle valve more, and open V4 to let the mixture into the tank, turn off the turbo pump, close V1 to cut off incoming mixture. Open bypass valve. 4He level=27.4%.
+	15:02 1K pot regain cooling power (1.43K), turn back on the turbo pump, open V1 and close V4. P1 = 168 mBar.
+	15:58 Transfer complete. 4He level=65.7%.
+	16:29 Stop the turbo pump and for pump, open both V9 and V4, close bypass valve. keep 1K pot running.
+Mar. 05, 2019
+	09:12 Close V9, and start the forepump to start the circulation.
+	09:21 Turn on Turbo pump, T_still = 795 mK, T_mc = 821 mK.
+	09:45 Temporarily close V4 to observe the effect -> the temperatures of all three stages start to dip down, and the P2 and P5 start to drop. Start pulse opening V9 to let mixtures into the circulation while keeping P2 < 350 mBar.
+	14:50 P2 reached 350 mBar, (stop) adding mixtures, P1 = 98 mBar, T_mc = 30.32 mK, T_still = 752 mK. 4He level = 59.1%.
+Mar. 07, 2019
+	15:39 Start to put the fridge back into the cryostat. P_cryo = 40 mbar, 4He level = 43.4%
+	17:58 Start pumping on bellows to the mixture circulation and 1K pot.
+	18:06 Insert complete, 4He level = 35%.
+	19:00 start transferring liquid helium into the cryostat. 4He level = 31.2%
+	19:24 start refilling nitrogen tank.
+	19:38 Nitrogen tank full.
+	20:11 Transfer complete, 4He level = 82.9%
+Mar. 08, 2019
+	09:11 Bellow vacuum reached 2.5 E-4 mBar, close the valve behind the block and the vacuum went below 5E-5 mBar, indicates a leak in the isolated segment.
+	09:33 Replace the bellow and start pumping on the segment again. Separate test showed the bellow being replaced is indeed leaking.
+	10:53 Start inserting helium trap. Open Sv1. 4He level = 78.6%.
+	11:04 Helium trap insert complete, start the forepump for the circulation.
+	11:12 Keep sv3 and v12 closed, open all other valves in the circulation loop and bypass valve, start to flush the mixture. P1 = 733 mBar, P5 = 29 mBar, P2 = 165 mBar.
+		Note: THe high pressure difference bewteen P2 and P5 raises suspicion about the nitrogen trap being clogged, hence empty the nitrogen trap, close valves to isolate the trap and clean it at room temperature.
+	12:23 Pressure inside the nitrogen trap reached 4.7E-5 mBar. Reinsert it into the nitrogen dewar and get ready to circulate and flush the mixture.
+	12:24 Open SV1, bypass valve, and V1 to start circulation.
+	12:27 P2 = 153 mBar, P5 = 26 mBar. Start pulse opening V9 to let in mixture.
+	13:18 Close V11 and pulse open V9 to pass the mixture through cold traps.
+	15:14 Close SV1 and swap the nitrogen trap. Start pumping on it at room temperature.
+	15:51 The pressure inside the nitrogen trap wouldn't go below 3.8E-5 mBar. stop pumping and swap the quick connector on top of the cold trap.
+	16:38 The pressure still wouldn't go lower than 3E-5 mBar, swap back to the old nitrogen trap (but with the new quick connector).
+	16:53 Pump down the replacement nitrogen trap with another turbo pump and place it in the nitrogen dewar (~5E-7 mBar), pump down the manifold and connect it to the nitrogen trap inside the dewar.
+	16:55 Open SV1 and V1 and star tcirculating the mixture (with new quick connector and new nitrogen trap).
+	17:00 Open V4, close bypass and the pressure difference between P2 and P5 quickly drops to 30 mBar, indicating there isn't a block. Hence start condensing in the fridge using the automated condensing sequence. Start 1K pot and open V12.
+	19:21 4He leve = 72.4%, T_mc = 98.02 mK, T_still = 932 mK, T_1K = 1.54 K.
+	21:36 Observed a temperature dipping down to 71 mK and then rose back to 245 mK. Open V4 to the dump and turn off turbo pump for safety.
+	22:51 Stop 1K pot, turn on all heaters and close V1, start collecting mixture back into the reservoir.
+Mar. 09, 2019
+	00:29 Switch off all heaters and turn off the turbo pump.
+	00:48 Close V4, V1, switch off the rotary pump.
+	18:35 Turbo pump on, P1 = 13 mBar.
+	19:24 A sudden change of pressure in P2, P5, P3, P4. Cause unknown.Recovered momentarily.
+	19:37 Lowest temperature reached, 70 mK, then temperature started to rise.
+	20:56 Temperature rose to 244 mK, and plateaued.
+Mar. 10, 2019
+	09:12 Start 1K pot, close bypass valve. 4He level = 38.6%. P_cryo = 39 mBar.
+	09:25 T_1K = 1.54 K. Start automatic condensing sequence.
+	11:59 Mixing chamber temperature start to rise again. The minimum temperature reached was 65 mK.
+	12:02 T_1K = 1.64 K, T_still = 947 mK, T_mc = 70 mK, P4 = 1.5 mBar. Turn off still heater.
+		Note: As soon as the still heater is off, P2 drops down as well as T_still, however, the mixing chamber temperature continues to rise.
+	12:15 T_1K = 1.63 K, T_still = 768 mK, T_mc = 84 mK. P2 = 211 mBar, P5 = 108 mBar, P4 = 1.1 mBar. Open V9 to let in the last bit of the mixture from the reservoir.
+	12:37 T_mc = 157.5 mK, T_still = 750 mK.
+	13:10 T_mc = 286 mK and plateaued. T_still = 732 mK.
+	13:20 T_mc = 286 mK, T_still = 731 mK. P1 = 0.002 Bar, P4 = 1.4 mBar. close V9.
+	13:25 T_mc = 285 mK, T_still = 731 mK. P2 = 225 mBar, P5 = 116 mBar, P3 = 2.1E-2 mBar, P4 = 1.4 mBar.
+	14:34 T_mc = 265 mK, T_still = 723 mK. P1 = 0.002 Bar. Open V4 to remove some of the mixture from the circulation.
+	14:36 P1 = 0.011 Bar.
+	15:15 T_mc = 190 mK, T_still = 745 mK. P3 = 2.2E-2 mBar. P4 = 1.5 mBar. Remove more mixture from circulation.
+	15:20 P1 = 0.021 Bar. T_still = 677 mK, T_mc = 195 mK, T_1K = 1.64 K. P3 = 7.2E-3 mBar, P4 = 4.3E-1 mBar.
+	15:45 P1 = 0.021 Bar, T_still = 767 mK, T_mc = 111 mK. T_1K = 1.64 K. P2 = 220 mBar, P5 = 110 mBar, P3 = 2E-2 mBar, P4 = 1.4 mBar.
+	16:05 P2 = 216 mBar, P5 = 106 mBar, P3 = 1.9E-2 mBar, P4 = 1.3 mBar. T_mc = 79.05 mK, T_still = 777 mK, T_1K = 1.65 K.
+	16:06 4He leve = 34.1%, start transferring helium into the cryostat.
+	16:13 Turn off turbo pump, and open V4 as 1K pot temperature rose over 4 Kelvins.
+	16:15 Regain 1K pot cooling power, close V4, P1 = 0.031 Bar. T_1K = 2.1 K, T_mc = 76 mK.
+	16:20 T_mc = 75 mK. T_1K = 1.80 K, restart turbo pump. 
+	16:25 T_mc = 71 mK. T_1K = 1.66 K, P2 = 219 mBar, P5 = 106 mBar, P3 = 1.9E-2 mBar, P4 = 1.3 mBar. P1 = 0.031 Bar.
+	16:40 T_mc = 54 mK, T_still = 780 mK, T_1K = 1.6 K.
+	17:15 Transfer finished, 4He level = 75.9%.
+	17:38 T_mc = 39 mK and plateaued, T_still = 774 mK, T_1K = 1.57 K. P1 = 0.031 Bar, P3 = 1.8E-2 mBar, P4 = 1.1 mBar. Open V9 and introduce some mixture back into the circulation.
+	17:45 P1 = 0.025 Bar.
+	17:51 P2 = 190 mBar, P5 = 88 mBar, P3 = 1.5E-2 mBar, P4 = 0.91 mBar. T_mc = 43.7 mK. T_still = 758 mK. Open V4 to remove some mixture.
+	17:55 P1 = 0.031 Bar. 
+	18:48 P1 = 0.031 Bar, P2 = 182 mBar, P5 = 85 mBar, P3 = 1.4E-2 mBar, P4 = 0.86 mBar.
+Mar. 12, 2019
+	Note: log lost due to synchronization. 10 mBar of Helium-4 was injected to the circulation directly on this day.
+Mar. 13, 2019
+	08:13 T_mc = 38.8 mK, T_still = 768 mK, T_1K = 1.57 K. P3 = 1.5E-2 mBar, P4 = 0.94 mBar. P2 = 185 mBar, P5 = 86 mBar.
+	08:17 Turn on still heater (1 mW).
+	08:23 T_mc = 38.7 mK, P3 = 1.7E-2 mBar, P4 = 1.0 mBar. P2 = 193 mBar, P5 = 88 mBar.
+	08:30 Change still heater power to 1.5 mW.
+	09:00 T_mc = 39.63 mK, T_still = 817 mK, T_1K = 1.57 K. P2 = 197 mBar, P5 = 88 mBar, P3 = 1.7E-2 mBar, P4 = 1.1 mBar. Turn off still heater.
+	11:24 Turn off turbo pump, close 1K pot main valve and V1, open bypass valve, v4, turn on all heaters. Start to collect the mixture back into the dump. 
+	12:38 P1 = 0.732 Bar, P5 = 0.000 Bar. T_mc = 4.6 K, T_still = 4.2 K. 1K pot = 6.2K. Close V4, turn off turbo pump and all heaters, ready to inject helium 4 gas into the dump.
+	12:41 Close SV3 and V12, start 1K pot for safety. Keep bypass valve open.
+	12:53 Inject 10 mBar-in-manifold of helium-4 gas into the dump.
+	13:06 P5 = 0.000 bar, P1 = 0.732 Bar.
+		Note: 10 mBar-in-manifold appears to be negligible in the dump.
+	13:09 Turn off the turbo pump.
+	13:10 Inject 90 mBar-in-manifold helium-4 gas into the circulation.
+	13:16 Start the turbo pump again as the pressure doesn't seem to increase by much during every injection.
+	13:20 P5 = 0.000 Bar, P1 = 0.732 Bar.
+		Note: 100 mBar-in-manifold still appears to be negligible in the dump.
+	13:25 Put in 400 mBar-in-manifold helium-4 into the dump.
+	14:26 P1 = 0.732 Bar, P5 = 0.000 Bar.
+	15:00 Inject 500 mBar-in-manifold helium-4 into the dump.
+	15:10 Inject 500 mBar-in-manifold helium-4 into the dump.
+	15:36 P1 = 0.734 Bar. P5 = 0.000 Bar. Inject 1500 mBar-in-manifold helium-4 into the dump.
+	15:55 P1 = 0.736 Bar. P5 = 0.000 Bar. Inject 1500 mBar-in-manifold helium-4 into the dump.
+	16:03 Stop 1K pot.
+	16:10 P5 = 0.000 Bar, P1 = 0.738 Bar.
+		Note: It appears that 3000 mBar-in-manifold of helium-4 gas translates to 4 mBar in dump.
+	16:10 P1 = 0.738 Bar, P5 = 0.000 Bar. Inject 1500 mBar-in-manifold helium-4 into the dump.
+	16:20 P1 = 0.739 Bar, P5 = 0.001 Bar. Inject 1500 mBar-in-manifold helium-4 into the dump.
+	16:33 P1 = 0.741 Bar, P5 = 0.000 Bar. Inject 1000 mBar-in-manifold heater-4	into the dump.
+		Note: In total, 8500 mBar-in-manifold helium-4 was injected, translates to 10 mBar in dump.
+	16:45 P1 = 0.742 Bar, P5 = 0.000 Bar. Turn off the turbo pump and open V1 to run some mixture through the cold traps.
+	16:55 Start 1K pot. Open V12 and SV3. Close bypass valve. Start condensing sequence.
+	21:40 T_mc = 251 mK and plateaued, T_still = 923 mK. Turn off still heater.
+	21:56 T_mc = 275 mK, T_still = 688 mK, P2 = 166 mBar, P5 = 82 mBar, P4 = 1.1E-2 mBar, P5 = 0.67 mBar. Open V4 to remove some mixture from the circulation. P1 = 0.013 Bar.
+	22:05 P1 = 0.023 Bar, close V4.
+	22:22 T_mc start to drop, T_still = 705 mBar. P4 = 0.81 mBar. Open V4 to remove more mixture.
+	22:26 P1 = 0.027 Bar. Close V4.
+	23:02 P1 = 0.027 Bar, open V4 to remove some mixture.
+	23:03 P1 = 0.029 Bar, close V4.
+Mar. 14. 2019
+	06:55 T_mc = 50.3 mK and plateaued, T_still = 744 mK. P2 = 168 mBar, P5 = 75 mBar, P3 = 1.1E-2 mBar, P4 = 0.69 mBar. Turn on still heater (1 mW).
+	08:08 T_mc = 49.8 mK, T_still = 781 mK. P2 = 175 mBar, P5 = 80 mBar. P3 = 1.2E-2 mBar, P4 = 0.82 mBar. Change still heater power to 1.5 mW.
+	08:41 T_mc = 49.9 mK, T_still = 802 mK. P4 = 0.89 mBar. P1 = 0.029 Bar. Open V9 to add some mixture into the circulation.
+	08:45 Close V9. P1 = 0.025 Bar.
+	09:04 Open V9 to put more mixture into circulation.
+	09:08 Close V9. P1 = 0.020 Bar.
+	09:23 Turn off still heater.
+	09:40 T_mc = 80 mK, T_still = 734 mK. Remove some mixture from circulation by opening V4.
+	09:44 P1 = 0.029 Bar. Close V4.
+	10:55 T_mc = 59.8 mK, T_still = 741 mK.
+	11:00 T_mc = 56.9 mK, T_still = 742 mK. P4 = 0.72 mBar.
+	11:05 T_mc = 54.8 mK, T_still = 743 mK. P4 = 0.70 mBar. P2 = 0.167 Bar, P5 = 0.077 Bar.
+	11:25 T_mc = 48.7 mK, T_still = 746 mK. P4 = 0.71 mBar. P2 = 0.166 Bar, P5 = 0.076 Bar.
+	11:43 T_mc = 46.2 mK, T_still = 746 mK. P4 = 0.67 mBar, P1 = 0.029 Bar. Open V4 to remove some mixture from circulation.
+	11:45 Close V4, P1 = 0.031 Bar.
+	12:14 Open V4, remove some more mixture. P1 -> 0.033 Bar.
+	12:20 Open V9 to put all mixture into circulation.
+	15:00 T_mc = 271.1 mK, T_cold = 211.6 mK. T_still = 692 mK. P2 = 179 mBar, P5 = 83 mBar, P3 = 1.3E-2 mBar, P4 = 0.85 mBar.
+		Note: The mixing chamber temperature and cold plate temperature appear to be synchronized, increasing and decreasing together, indicating the possibility of a phase boundry out of mixing chamber in the tube close to cold plate.
+	15:40 T_mc = 261.6 mK, T_cold = 204.8 mK, T_still = 695 mK. P4 = 0.85 mBar. 
+	15:45 Open V4 and close V1 to lower P5 so that it is possible to inject 4000 mBar-in-manifold helium-4 into the circulation.
+	15:49 Open bypass valve to expedite the process.
+	15:57 Injection complete. Close bypass valve, open V1, close V4, and then open V9 to extrat all the mixture gathered in the tank during the injection.
+	17:25 close V9 and turn on still heater (5 mW). T_mc = 274.4 mK, T_cold = 217.2 mK, T_still = 697 mK.
+Mar. 15, 2019
+	04:42 switch off the still heater.
+	09:45 T_mc = 242.6mK, T_cold = 188.8 mK, T_still = 697 mK. P2 = 178 mBar, P5 = 85 mBar, P3 = 1.3E-2 mBar, P4 = 0.84 mBar. 4He level = 58.4%.
+	09:55 Close V1 and open V4, open bypass valve, and start injecting helium-4.
+	10:06 4000 mBar-in-manifold helium-4 added. Close V4 and open V1, close bypass valve, and then open V9 to empty the reservoir.
+		Note: In total, this round (today and yesterday combined) added 8000 mBar-in-manifold helium-4 (translates to about < 10 mBar in the dump) into circulation.
+	11:48 P1 = 0.001 Bar, close V9.
+	12:00 T_mc = 273.8 mK, T_cold = 214.3 mK, T_still = 691 mK. P2 = 178 mBar, P5 = 87 mBar, P3 = 1.3E-2 mBar, P4 = 0.84 mBar. Temperature seem to have plateaued. P1 = 0.001 Bar. Open V4 to remove some mixture from circulation.
+	12:04 P1 = 0.010 Bar, close V4.
+	13:00 T_mc = 193.9 mK, T_cold = 152.4 mK, T_still = 706 mK. P2 = 175 mBar, P5 = 82 mBar, P3 = 1.3E-2 mBar, P4 = 0.8 mBar. P1 = 0.010 Bar, open V4 and close V1 to remove some of the mixtures.
+	13:07 P1 = 0.020 Bar, close V4 and open V1.
+	13:21 T_mc = 156.9 mK, T_cold = 127.6 mK, T_still = 715 mK. P2 = 175 mBar, P5 = 83 mBar, P3 = 1.3E-2 mBar, P4 = 0.80 mBar. 
+		Note: The temperature gap between the cold plate and mixing chamber is decreasing, suggesting the phase boundary is move closer to the mixing chamber as more mixture (~90% 3He) is removed from circulation.
+	14:37 T_mc = 59.06 mK, T_cold = 66.79 mK, T_still = 740 mK. P2 = 168 mBar, P5 = 78 mBar, P3 = 1.1E-2 mBar, P4 = 0.68 mBar. 
+	14:49 Close V1, open V1 and bypass valve for another injection of helium-4 gas.
+	15:02 Injection complete, 4000 mBar-in-manifold of helium-4 injected. Open V1, close V4 and by pass valve, then open V9 to empty the reservoir.
+	16:12 Turn off turbo pump, close manual valve V11 to expedite the extraction of the mixture in the dump.
+	16:17 The previous procedure didn't appear to help. Open V11, and restart the turbo pump.
+	17:02 Close V9, P1 = 0.0001 Bar.
+	17:07 T_mc plateaued at 256 mK, and T_cold = 207 mK. Open V4 to remove some mixture from circulation.
+	17:42 P1 = 0.020 Bar, close V4 and open V1.
+	22:04 T_mc = 52.7 mK, T_cold = 64.0 mK, T_still = 742 mK, P2 = 166 mBar, P5 = 77 mBar, P3 = 1.1E-2 mBar, P4 = 0.68 mBar. P1 = 0.020 Bar. Open V4 to remove some mxiture.
+	22:08 P1 = 0.025 Bar, close V4.
+Mar. 16, 2019
+	06:36 T_mc = 42.3 mK. open V4 and remove 5 mbar of mixture.
+	10:35 T_mc = 31.4 mK, T_cold = 57.2 mK. T_still = 743 mK. P1 = 0.030 mK. P4 = 0.72 mBar. Open V4 and remove 5 mBar of mixture.
+	12:16 T_mc = 29.7 mK. T_cold = 58.7 mK. P1 = 0.035 Bar. Open V4 to remove 3 mBar of mixture.
+	14:13 T_mc = 29.7 mK, Open V4 to remove another 2 mBar of mixture.
+	15:58 T_mc = 28.7 mK, T_cold = 59.6 mK, P1 = 0.040 Bar, P4 = 0.65 mBar. Open V4 to remove some mixture.
+	16:00 P1 = 0.045 Bar, close V4.
+	17:08 T_mc = 29.7 mK, T_cold = 59.1 mK, P1 = 0.045, Open V4 to remove some mixture.
+	17:10 P1 = 0.050 Bar, close V4.
+	17:47 T_mc = 29.6 mK, T_cold = 59.1 mK, T_still = 753 mK, P4 = 0.68 mBar, P1 = 0.050 Bar. Open V9 to inject some fo the mixture back into the circulation.
+	18:06 Close V9, P1 = 0.020 Bar.
+	18:25 T_mc has been increasing, P1 = 0.020 Bar. open V4 to remove 10 mBar of mixture.
+	18:32 P1 = 0.030 Bar. Close V4.
+	20:05 P1 = 0.030 Bar. T_mc = 31.4 mK, T_cold = 58.4 mK, T_still = 747 mK, P4 = 0.70 mBar, P2 = 163 mBar, P5 = 78 mBar. Start still heater (1.5 mW).
+	20:36 T_mc appears to decrease slowly, change the still heater power to 2.5 mW.
+	21:02 Change still heater power to 3.5 mW.
+	21:43 Changed still heater power to 5 mW.
+	22:03 Turn off still heater.
+	Note: Though the still heater increased P4 from ~0.7 mBar to 1.2 mBar, there is no imporvement to cooling power. Hypothetically it is because it only increased evaporation of helium-4 but not that of helium-3, and therefore doesn't contribute to sub-kelvin cooling power.
+	23:18 T_mc = 30.5 mK, P1 = 0.030 Bar, Open V9 to let in 5 mBar of mixtures.
+	23:21 P1 = 0.025 Bar. Close V9.
+Mar. 17, 2019
+
+	10:07 T_mc = 39.9 mK, T_cold = 59.6 mK, T_still = 743 mK. Stop 1K pot, open bypass valve, turn on all heaters, turn off turbo pump, open V4 and close V1 to recollect all mixture back into the dump.
+	11:00 All mixtures are back in dump, P1 = 0.754 mBar, close V4, switch off all heaters and turn off turbo pump.
+	11:15 4He level = 41.5%, start transferring helium into the cryostat.
+	11:21 Start turbo pump and get ready for helium-4 injection. Close SV3 and V12, keep bypass valve open. Open V4.
+	11:25 Inject 4000 mBar-in-manifold helium-4 into the dump.
+	11:26 Open V2 to expedite the process.
+	11:35 P1 = 0.758 Bar. Inject another 3500 mBar-in-manifold helium-4 into the dump.
+	12:00 P1 = 0.760 Bar. Close V2, V4.
+	12:03 4He level = 76%, stop transferring.
+	12:07 4He level = 75.4%.
+	12:15 Open V12 (keep SV3 closed), and close bypass valve. Remove helium trap from the cryostat to pump it clean.
+	12:25 Re-insert the helium trap into the cryostat. Refill nitrogen trap dewar.
+	12:33 Start 1K pot, open SV3.
+	12:35 T_1K = 1.43 K, P1 = 0.760 Bar. start condensing sequence.
+	13:43 Condensing sequence completed, P1 = 0.012 Bar.
+	15:56 T_mc reached 71 mK, and then start to rise up again. Turn off still heater.
+	16:10 T_mc continue to rise (95.9 mK), open V9 to completely empty the dump.
+	17:10 T_mc = 307 mK, T_cold = 241.2 mK, T_still = 677 mK. P1 = 0.003 Bar.
+	17:32 T_mc plateaued at ~300 mK, T_cold = 236.7 mK, T_still = 670 mK. P1 = 0.001 Bar. Close V9.
+	17:35 P1 = 0.001 Bar.Open V4 to remove some mixture from circulation (supposedly high 3He concentration).
+	17:39 Close V4, P1 = 0.010 Bar. T_mc = 294 mK, T_cold = 231 mK. T_still = 598 mK.
+	18:57 T_mc = 218 mK, T_cold = 169 mK, T_still = 688 mK and tends to flat out. P1 = 0.010 Bar. Open V4 and remove 10 mBar mixture.
+	19:05 P1 = 0.020 Bar, close V4.
+	22:36 T_mc = 51.7 mK, T_cold = 63.2 mK, T_still = 732 mK. Mixing chamber temperature tends to flat out. Open V4 to remove 5 mBar mixture from circulation.
+	22:42 P1 = 0.025 mBar. Close V4.
+	23:13 T_mc = 45.2 mK, T_cold = 60.9 mK, T_still = 730 mK, P4 = 0.58 mBar. P1 = 0.025 mBar, open V4 to remove 5 mBar mixture.
+	23:17 P1 = 0.030 mBar. Close V4.
+Mar. 18, 2019
+	07:08 T_mc = 30.6 mK, T_cold = 57.35 mK, T_still = 736 mK. P4 = 0.65 mBar. P1 = 0.030 mBar. Turn on still heater (2.5 mW).
+	07:40 T_mc = 30.7 mK, T_cold = 61.8 mK, T_still = 832 mK, P4 = 0.84 mBar. change the still heater pwoer to 5 mW.
+	08:00 T_mc = 30.9 mK and is slowing going up, T_cold = 67.7 mK, T_still = 930 mK, P4 = 1.2 mBar, P1 = 0.030 Bar. Turn off still heater.
+	08:40 T_mc = 31.2 mK, P1 = 0.030 Bar. Open V4 to remove 5 mBar mixture from circulation.
+	08:42 Close v4, P1 = 0.035 Bar.
+	09:12 4He level = 68.1%. T_mc = 30.6 mK, T_cold = 58.2 mK, T_still = 731 mK. Open V4 and remove 5 mBar of mixture from circulation.
+	09:14 Close V4, P1 = 0.040 Bar.
+	10:00 T_mc = 29.64 mK, T_cold = 58.27 mK, T_still = 735 mK, P1 = 0.040 Bar. Open V4, bypass valve, and close V1, SV3 to get ready for helium-4 injection.
+	10:03 Open V2, inject 8000 mBar-in-manifold helium-4 into the dump.
+	10:25 Injection complete. Close V2.
+	10:30 close bypass valve, and open SV3, V1. Open V9 and close V4 to put all mixtures inside the dump into circulation.
+	12:19 P1 = 0.001 Bar, T_mc = 270.1 mK and tends to flat out, T_cold = 211.3 mK, T_still = 669 mK. Close V9.
+	12:25 T_mc = 270 mK, T_cold = 211 mK, T_still = 668 mK, P4 = 0.71 mBar, P1 = 0.001 Bar, P2 = 167 mBar, P5 = 83 mBar. Turn on still heater (5 mW). 
+	12:51 T_mc = 246.8 mK, T_cold = 194.7 mK, and both tends to flat out. T_still = 876 mK. P4 = 1.5 mBar, P2 = 214 mBar, P5 = 85 mBar. P1 = 0.001 Bar. Turn off still heater.
+		Note: The still heater visibly increased the mixture flow and hence the pressure of P4, it therefore increased the cooling power and hence lowered T_mc and T_cold.
+	13:05 T_mc = 270.6 mK, T_cold = 212.2 mK, T_still = 675 mK. P4 = 0.61 mBar, P1 = 0.001 Bar. Open V4 to remove 5 mBar of mixture.
+	13:07 P1 = 0.005 Bar, close V4.
+	14:05 T_mc = 238 mK, T_cold = 186 mK. Turn on still heater (5 mW).
+		Note: As the still heater comes on, the temperature curves start to dip down, indicating an increased cooling power, presummably from an increase in evaporation of helium 3.
+	15:00 T_mc = 177.5 mK, T_cold = 143 mK and tend to flat out. Switch off still heater.
+	15:10 T_mc = 205.4 mK, T_cold = 160.2 mK, T_still = 694 mK. P4 = 0.62 mBar. P1 = 0.005 Bar, open V4 to remove 5 mBar of mixture.
+	15:11 P1 = 0.010 Bar, Clsoe V4.
+	15:40 T_mc = 204.9 mK, T_cold = 161 mK, T_still = 697 mK. P1 = 0.010 Bar, open V4 to remove 5 mBar of mixture.
+	16:30 T_mc = 138.5 mK, T_cold = 111.7 mK, T_still = 704 mK. P4 = 0.62 mBar. Turn on still heater (5 mW).
+	17:37 T_mc = 55.9 mK, T_cold = 73.48 mK, T_still = 927 mK. P2 = 201 mBar, P5 = 82 mBar, P3 = 1.8E-2 mBar, P4 = 1.2 mBar.
+	18:02 T_mc = 53.52 mK, T_cold = 72.5 mK, and both temperatures tend to flat out. T_still = 927 mK, P4 = 1.1 mBar, P1 = 0.015 mBar.
+	18:10 T_mc = 53.5 mK, T_cold = 72.5 mK, T_still = 927 mK. Turn off still heater.
+	18:30 T_still = 727 mK and plateaued. P1 = 0.015 Bar. Open V4 to remove 5 mBar of mixture.
+	18:31 P1 = 0.020 Bar. Close V4.
+	18:48 T_mc = 55.2 mK, T_cold = 64.8 mK, T_still = 729 mK, P2 = 156 mBar, P5 = 73 mBar. P3 = 9.7E-3 mBar, P4 = 0.61 mBar. Turn on still heater (5mW).
+	19:05 T_mc = 48.8 mK, T_cold = 71.15 mK, T_still = 929 mK.P2 = 200 mBar, P5 = 83 mBar. P4 = 1.2 mBar. Turn off still heater.
+	19:11 T_mc = 49.1 mK, P4 = 0.61 mBar, P1 = 0.020 Bar. Open V4 to remove 5 mBar of mixture.
+	19:15 P1 = 0.025 Bar, close V4.
+	19:25 T_mc = 47.1 mK, T_cold = 61.3 mK, T_still = 733 mK. P4 = 0.60 mBar. Turn on still heater (5 mW).
+	19:41 T_mc = 40.0 mK, T_cold = 68.3 mK. T_still = 929 mK. P4 = 1.1 mBar. Turn off still heater. Open V4, bypass valve and V2, close V1 and SV3 to get ready for helium injection.
+		Note: The cold plate temperature appears to be oppositely correlated with the mixing chamber temperature. The increas of cooling power resulted from the still heater suggests the liquid level is still inside the still and the temperature of the mixing chamber as well as the gap between it and that of the cold plate temperature suggest the phase separation is either inside the mixing chamber or very close to.
+	19:47  Inject 5000 mBar-in-manifold of helium-4 into the dump.
+	20:00 Injection complete.
+	20:05 T_mc = 43.7 mK, T_cold = 68.82 mK, T_still = 571 mK. Close V2, V4, bypass valve, and open V1, SV3, and V9 to empty the dump into the circulation.
+	21:48 P1 = 0.001 Bar, close V9. T_mc = 276 mK, T_cold = 216 mK, T_still = 687 mK.
+	21:49 Open V4 and remove 10 mBar of mixture from circulation.
+	21:53 P1 = 0.010 Bar, close V4.
+	22:04 T_mc = 249.3 mK, T_cold = 193.6 mK, T_still = 690 mK. P4 = 0.75 mBar. As the temperatures start to drop, turn on the still heater (5 mW) to expedite the process.
+		Note: V1 was accidentally closed for four minutes since 22:24 until 22:28, this accounts for the drop in P5 and increase of P2.
+	22:42 T_mc = 170.1 mK, T_cold = 137.9 mK, T_still = 898 mK. P4 = 1.4 mBar. Turn off still heater.
+	22:53 T_still = 698 mK, P1 = 0.010 Bar, open V4 to remove 5 mBar of mixture.
+	22:55 P1 = 0.015 Bar, close V4.
+	23:13 Turn on still heater (5 mW).
+Mar. 19, 2019
+	05:24 T_mc = 56 mK, switch off still heater.
+	07:44 T_mc = 55.1 mK, T_cold = 64.5 mK, T_still = 727 mK. P4 = 0.61 mBar, P1 = 0.015 Bar, open V4 to remove 5 mBar of mixture.
+	07:47 P1 = 0.020 mBar, close V4.
+	08:01 Turn on still heater (5mW).
+	08:30 T_mc = 44.0 mK. turn off still heater.
+	08:46 T_mc = 44.5 mK. P1 = 0.020 Bar. Open V4 to remove 5 mBar of mixture.
+	08:57 T_mc = 43.2 mK, turn on still heater (5 mW).
+	09:25 T_mc = 36.5 mK, T_cold = 67.25 mK. T_still = 930 mK. Turn off still heater.
+	09:54 T_mc = 37.3 mK. T_cold = 58.3 mK T_still = 731 mK. P1 = 0.025 Bar. Open V4 to remove 5 mBar mixture.
+	10:00 P1 = 0.030 Bar. Close V4.
+	10:08 T_mc = 36.3 mK, T_cold = 56.8 mK, T_still = 734 mK. P4 = 0.57 mBar. Turn on still heater (5 mW)
+	10:25 T_mc = 31.5 mK, T_cold = 68.9 mK, T_still = 932 mK, P4 = 1.2 mBar. 4He level = 62.0%. 
+	10:46 T_mc = 30.6 mK (flattening out), T_cold = 68.6 mK, T_still = 932 mK, P4 = 1.2 mBar. Change the still heater power to 8 mW.
+	10:55 T_mc = 30.5 mK, T_cold = 73.91 mK, T_still = 1.04 K, P4 = 1.6 mBar. turn off still heater.
+		Note: Increase still heater power appears to have immediately increased the outgoing flow and hence P4, but no extra cooling power achieved as mixing chamber temperature didn't change.
+	11:32 T_mc = 30.2 mK, T_cold = 58.05 mK, T_still = 735 mK. P4= 0.57 mBar, P1 = 0.030 Bar, open V4 to remove 5 mBar of mixture.
+	11:35 P1 = 0.035 Bar, close V4.
+	11:53 T_mc = 29.8 mK, T_cold = 58.2 mK, T_still = 735 mK, P4 = 0.54 mBar. Turn on still heater (5 mW).
+	12:17 T_mc = 29.7 mK, T_cold = 68.9 mK, T_still = 933 mK, P4 = 1.1 mBar. Turn off still heater.
+		Note: Still heater appears to have no effect on cooling power at this point when there are 35 mBar of mixture in the dump, and mixing chamber temperature is at ~30 mK.
+	12:25 Open v9 to let 10 mBar of mixture into the circulation.
+	13:07 T_mc = 30.3 mK, T_still = 728 mK. P4 = 0.57 mBar. Open V9 to let 5 mBar of mixture into the circulation.
+	13:14 P1 = 0.015 Bar, close V4.
+	14:16 T_mc plateaued at 53.9 mK, T_cold = 63.7 mK, T_still = 727 mK. P4 = 0.64 mBar. P1 = 0.015 Bar. Open V4 to remove 3 mBar of mixture.
+	14:18 P1 = 0.018 Bar. Close v4.
+	14:33 T_mc = 54.7 mK, T_cold = 64.23 mK, T_still = 728 mK. P2 = 155 mBar, P5 = 73 mBar, P4 = 0.59 mBar.
+	17:08 T_mc = 45.4 mK, T_cold = 60.6 mK, T_still = 729 mK. P1 = 0.018 Bar, open V4 to remove 2 mBar of mixture.
+	17:09 P1 = 0.020, close V4.
+	17:27 T_mc = 44.15 mK, turn on still heater (5 mW).
+	17:41 T_mc = 42.51 mK, turn off still heater.
+	18:11 T_mc = 43.76 mK.
+		Note: still heater added additional cooling power as the temperature droped slightly, and recovered when the heater is off.
+	18:12 T_still = 731 mK, T_cold = 60.25 mK, P4 = 0.60 mBar. Open v4 to remove 10 mBar of mixture.
+	18:23 P1 = 0.030 Bar, close V4.
+	19:06 T_mc = 32.3 mK and is still dropping. T_cold = 58.2 mK, T_still = 735 mK. P4 = 0.59 mBar, P1 = 0.030 Bar. Start cooling power measurement at 100 mK using PID.
+	19:10 P_cool(100 mK) = 80 uW (0.4 mW * 0.4 mW * 500 ohm). T_still = 725 mK.
+	20:45 T_mc = 33.9 mK, T_cold = 57.9 mK, T_still = 734 mK.
+	20:55 T_mc = 32.9 mK, T_cold = 57.7 mK, T_still = 736 mK. Turn on still heater (5 mW).
+	21:01 T_mc = 31.3 mK, T_cold = 68.2 mK, T_still = 932 mK. P1 = 0.030 Bar. Keep still heater (5 mW) on, start cooling power measurement at 100 mK using PID.
+	23:01 T_mc = 100 mK, T_still = 923 mK (5 mW on still heater). P_cool (100 mK) = 125 uW (0.5 mW * 0.5 mW * 500 ohm).
+		Note: the still heater added additional cooling power to the mixing chamber by about 45 uW.
+	23:53 Turn off still heater.
+Mar. 20, 2019
+	09:36 T_mc = 29.7 mK, T_cold = 57.8 mK, T_still = 737 mK. P1 = 0.030 Bar, P4 = 0.61 mBar. Close V1, open V4, bypass valve to start collecting all mixture back to the dump. Stop 1K pot, switch off turbo pump, and turn on all heaters.
+	10:50 P1 = 0.768 Bar and plateaued. Inject 3000 mBar-in-manifold of helium-4 into the dump. 4He level = 56.4%.
+	11:35 P1 = 0.770 Bar. P_cryo = 41 mBar. Close V12, SV3 and by pass valve, start to remove helium trap from the cryostat.
+	11:42 Turn off the turbo pump, close all valves, disconnected bellows and start removing the fridge from the cryostat.
+	12:29 Fridge is removed and secured on rack. P_cryo = 40 mBar. 4He level = 47.2%.
+		Note: A possible heat leak found between the mixing chamber and cold plate through touching the radiation shield. The heat leak is subsequently removed. Raidation shield mounted back on.
+	16:08 P_cryo = 40 mBar, start inserting the fridge back into the cryostat. 4He level = 47.1%.
+	17:50 Fridge insert complete, 4He level = 33.8%. P_cryo = 58 mBar.
+	19:31 Start transferring helium into the cryostat, 4He level = 29.4%.
+	20:18 4He level = 75.3%, stop transfer.
+	20:31 Transfer complete, 4He level = 75.9%, P_cryo = 44 mBar.
+Mar. 21, 2019
+	08:08 Start 1K pot. Insert helium trap. 4He = 72.9%.
+	09:16 Start condensing sequence. P1 = 0.768 Bar.
+	10:09 Observed a large pressure difference between P2 and P5 (P2 / P5 = 254 / 629), Collect all mixtures back into the tank and prepare to clean the nitrogen trap.
+	11:08 Switch off all heaters, close V12, SV3, and V4, turn off turbo pump. Extract helium trap, close SV1 and start pumping both traps.
+	11:27 STart pumping on nitrogen trap while heating it with a heat gun set on low.
+	12:30 Helium cold trap appears to be clean as the pressure quickly went down and stayed at 8E-8 mBar. Therefore stop pumping on helium trap, and re-insert it into the cryostat. Nitrogen trap appears to be contaminated as the pressure stayed high at 1.6E0 mBar, continue pumping it while heating it with a heat gun on low setting.
+		Note: The nitrogen trap stayed at low vacuum for extended period of time (2E-3 mBar), suspect either it has water in it that is slowly evaporating, or there is a gross leak.
+	13:50 swap the nitrogen trap to the spare one (the old one) and start pumping on them individually.
+	14:05 Pressure inside the spare nitrogen trap dropped to 3E-5 mBar. Re-insert the nitrogen trap into the dewar.
+	14:09 Start forepump.
+	14:13 Open V5 and V1 to circulate the gas inside the bellows through the cold traps.
+	14:15 T_1K = 1.93 K. Start 1K pot. Open V12, SV3, close bypass valve. Start condensing sequence.
+	15:30 Suspect the fridge is blocked, close V1, open V4, V2, bypass valve to recollect all the mixtures back into the dump. Stop 1K pot, and turn on all heaters.
+	15:49 Turn off all valves and start extrating helium cold trap.
+	16:00 Start pumping on nitrogen trap outside the dewar with a heat gun set on low.
+	16:30 The nitrogen trap appears to be clean.
+	16:45 Extraction complete, 4He level = 59.8%
+	17:00 Start pumping on the dilution fridge at room temperature.
+	17:01 P_cryo = 31 mBar.
+	17:16 Nitrogen trap suddenly had a pressure jump from 3E-5 mBar to 2E-2 mBar.
+		Note: The pressure bump appeared more than an hour after I started pumping the nitrogen trap, suggesting there may be ice/water inside and started to melt as the temperature goes up.
+Mar. 22, 2019
+	08:30 The pressure inside the dilution fridge reached 2.6E-6 mBar, close all valves and stop the pump. Start pumping on the vacuum chamber.
+	08:35 The pressure inside the nitrogen trap reached 4.3E-5 mBar, close all valves and stop the pump. Reinsert the nitrogen cold trap into the dewar.
+	10:45 IVC pressure reached 8E-5 mBar. Start insert the fridge into the cryostat.
+	12:45 Insert complete, P_cryo = 47 mBar. Start pumping on bellows. 4He level = 48.3%.
+	13:50 Load the helium cold trap into the cryostat.
+	14:00 Helium trap insert complete. P_cryo = 39 mBar, P1 = 0.768 Bar, test the circulation by releasing some mixture from the dump into the circulation without going through the fridge but the bypass valve.
+	14:00 Close bypass valve, open V12 and SV3, start condensing sequence.
+	15:00 The condensing sequence appears to be stuck, switch to manual condensing.
+	15:20 Switch back to automated condensing sequence.
+	15:45 Stop automated condensing sequence, recollect all mixtures back into the dump.
+		Note: As the temperatures of all three stages (Still, cold plate, and mixing chamber) dewelled above 2K for very long time, deviated from the usual cool down trajectory, it is suspected that the fridge is well thermalized to the cryostat for possibily too much exchange gas inside with a malfunctioning sorb.
+	16:00 Turn on all heaters, and start pumping on IVC.
+	16:21 P_ivc = 1.8E-5 mBar, close the IVC valve, turn off all heaters and start the condensing sequence again. P1 = 0.768 Bar.
+		Note: The second attempt of cooling down after pumping out the exchange gas succeeded, suggesting the correctness of the suspicion that it was a thermalization problem that prevented condensing during the first attempt.
+	19:20 Start transfer helium. 4He level = 40.8%.
+	19:25 T_mc = reached 81 mK (18:37) and then start to bouncing back up. P1 = 0.013 Bar.
+	19:30 Helium transfer appeared to have interfered with 1K pot and T_1K rose up to 4.2 K. Immediately switch off turbo pump, open V4 and close V1 as P5 rose to 500+ mBar.
+	19:32 Pressure stabilizes and T_1K = 1.8 K, open V1, close V4, and open V9 to empty the dump.
+	19:40 P2 = 218 mBar, P5 = 70 mBar, P1 = 0.032 Bar, P4 = 1.2 mBar. T_mc = 247.8 mK, T_cold = 223.9 mK, T_still = 917 mK, T_1K = 1.57 K. 
+	20:18 4He level = 77.7%, stop tranferring.
+	20:33 4He level = 80.8%. T_mc = 394 mK, T_still = 864 mK, T_cold = 316 mK. P1 = 0.005 Bar. 
+	20:50 Start Turbo pump. P1 = 0.003 Bar.
+	22:15 P1 = 0.000 Bar. T_mc = 255.4 mK, T_cold = 200 mK, T_still = 694 mK. P4 = 1.50 mBar. Turn on still heater (5mW).
+	22:33 T_mc = 251 mK, T_cold = 200.2 mK, T_still = 923 mK, P4 = 2.2 mBar. Turn off still heater.
+		Note: The still heater appeared to have no significant effect on the cooling power.
+	22:47 T_mc = 258 mK, T_cold = 202.7 mK, T_still = 696 mK. Open V4 to remove 10 mBar of mixture.
+	22:52 P1 = 0.010 Bar, close V4.
+	11:48 T_mc = 175.3 mK, T_still = 716 mK, T_cold = 139.7 mK, P4 = 1.4 mBar. P1 = 0.010 Bar, open V4 to remove 5 mBar of mixture.
+	11:50 P1 = 0.015 Bar, close V4.
+Mar. 23, 2019
+	08:01 P1 = 0.015 Bar, T_mc = 82.05 mK, T_cold = 79.42 mK, T_still = 745 mK, all temperatures have plateaued for the last 6 hours. P2 = 202 mBar, P5 = 77 mBar, P4 = 1.1 mBar. Turn on still heater (5 mW).
+	09:19 T_mc = 69.8 mK, T_cold = 81.2 mK, T_still = 954 mK. Turn off still heater.
+	10:00 T_still = 749 mK. Open V9 to empty the dump.
+		Note: The still temperature is too high, removing mixture at this temperature almost inevitably remove helium-4 along with its isotope. Open V9 usually reduces still temperature so that pure helium-3 can be removed.
+	10:51 T_still = 717 mK, T_mc = 243 mK, T_cold = 191 mK. Close V9 and open V4 to remove mixture.
+	11:20 P1 = 0.021 Bar, close V4. T_still = 550 mK.
+	14:42 T_mc = 53.11 mK, T_cold = 66.47 mK, T_still = 756 mK, P4 = 1.0 mBar. P1 = 0.021 Bar. Open V9 to empty the dump and lower the still temperature.
+	16:21 T_still = 700 mK, P1 = 0.001 Bar. P4 = 1.4 mBar. Close V9, V1, and open V4.
+	17:07 P1 = 0.025 Bar, close V4. T_still = 528 mK, P4 = 0.8 mBar.
+	18:14 P2 rose over 1 Bar, open V4 to release the pressure to the dump.
+	Note: V1 was left closed erroneously when V4 was closed, and therefore the pressure behind the forepump rose up quite, and possibly dangerously, high. The turbo pump efficiency was noted subsequently dropped as the power input rose to the maximum (350 W) while the spinning speed was only 680 rpm (820 rpm under normal circumstances). For furture reference, the status of circulation should be inspected after every operation. 
+	18:15 Open V9 to empty the dump.
+	19:25 P1 = 0.003 Bar, close V9 and open V4 to recollect 22 mBar of mixture from circulation.
+	Note: All systems, including the pressures and pumps, appear to have regained balance and recovered to normal state
+	19:30 T_still = 613 mK. Briefly close V4 and open V9 to put back some of the mixture and take advantage of the low temperature of the still to collect as much mixture with as pure helium-3 as possible.
+	19:39 T_still = 702 mK, close V4 and open V9 to start collecting mixtures again.
+	19:40 T_still = 0.601 K, close V1 to expedite the process.
+	19:51 P1 = 0.025 mBar, close V4 and open V1.
+	22:21 T_mc = 45.2 mK, T_cold = 64.0 mK, T_still = 756 mK. P4 = 1.0 mBar. Turn on still heater (5 mW).
+	23:06 T_mc = 49.9 mK, T_cold = 74.3 mK, T_still = 963 mK. P4 = 1.81 mBar. Turn off still heater.
+		Note: The still heater didn't appear to have helped with the cooling power.
+	23:25 T_mc = 50.4 mK, T_cold = 65.7 mK, T_still = 755 mK. P4 = 1.10 mBar. Open V9 to put back some mixture into the circulation and lower the still temperature.
+	23:56 T_still = 738 mK. Close V9 and open V4.
+Mar. 24, 2019
+	00:08 T_still = 567 mK. Close V1 to expedite the process.
+	01:00 P1 = 0.030 Bar, T_still = 529 mK. close V4 and open V1.
+	09:20 T_mc = 47.3 mK, T_still = 747 mK. P4 = 1.0 mBar. Turn on still heater (5 mW).
+		Note: P4 appears to be higher than usual at this still temperature.
+	10:25 T_mc = 51.1 mK, T_cold = 74.6 mK, T_still = 960 mK. P4 = 1.8 mBar. Turn off still heater and open V9 to empty the dump.
+		Note: The still heater appears to have negatively impacted the cooling power.
+	11:43 T_mc = 256.7 mK, T_cold = 201.3 mK, T_still = 713 mK. P4 = 1.40 mBar, P1 = 0.003 Bar. Close V9, open V4.
+		Note: Closing V1 when collecting part of the mixtures, thought speed up the process, is speculated to be hindering collecting pure helium-3. Hence now attempt to recollect mixtures with V1 open and hence the circulation is somewhat kept going.
+	11:52 T_still = 540 mK, P4 = 0.11 mBar.
+	12:40 P1 = 0.032 Bar. Close V4 and open V9 to adjust P1 to 0.030 Bar.
+	12:42 P1 = 0.030 Bar, close V9.
+	14:36 T_mc = 39.54 mK, T_cold = 59.9 mK, T_still = 759 mK. All temperatures appears to be flating out. P2 = 191 mBar, P5 = 74 mBar. P4 = 0.95 mBar. Turn on still heater (5 mW).
+	15:04 T_mc = 41.8 mK, T_cold = 70.16 mK, T_still = 962 mK.
+		Note: It appears that the still heater initially helped the mixing chamber gain cooling power (T_mc = 38.5 mK) and as the still temperature rose up, more helium-4 was mixed in the vapor, hampering the pumping rate of helium-3 which provide the cooling power, and the mixing chamber subsequently start to warming up.
+	15:06 Reduce still heater heating power (5 mW -> 2 mW).
+	15:58 T_mc appeas to plateauded at 41.9 mK, T_still = 838 mK. Increase the heating power from 2 mW to 3 mW.
+	16:13 Turn off still heater.
+		Note: The increase in the still heater heating power didn't appear to help with the cooling power. As P4 is still higher than usual, prepare to cool down still and remove 5 mBar of mixture (mostly helium-3 at low temperature).
+	16:51 T_still = 758 mK, P1 = 0.030 Bar. Open V4 to remove some mixture.
+	16:56 P1 = 0.040 mBar, close V4. T_still = 625 mK.
+	17:54 T_mc = 30.83 mK and plateaued. T_still = 764 mK, P4 = 0.97 mBar. Turn on still heater (3 mW).
+	18:27 T_mc = 30.76 mK. T_still = 882 mK, change still heater power to 4 mW.
+	19:00 T_mc = 30.88 mK, T_still = 925 mK, P4 = 1.5 mBar. Turn off still heater. Open V9 and let in 10 mBar of mixture to the circulation.
+	21:00 T_mc = 40.1 mK, T_cold = 60.4 mK, T_still = 759 mK. Turn on still heater (3 mW). P4 = 0.96 mBar.
+	21:28 T_mc = 40.44 mK, T_cold = 65.8 mK, T_still = 881 mK, P4 = 1.5 mBar, P1 = 0.030 Bar. Turn off still heater. Open V9 to let in 5 mBar of mixture.
+	21:34 P1 = 0.025 mBar. close V9.
+	22:00 T_mc = 46.9 mK, T_cold = 62.3 mK, T_still = 755 mK. P4 = 1.0 mBar. Turn on still heater (3 mW).
+	22:39 T_mc = 48.7 mK, T_cold = 68.3 mK, T_still = 881 mK. P4 = 1.5 mBar. Turn off still heater and open V9 to let in more mixture.
+		Note: The still heater again didn't help with cooling power.
+	23:10 T_still = 737 mK, close V9 and open V4.
+Mar. 25, 2019
+	00:07 T_still = 591 mK, T_mc = 184 mK, T_cold = 149 mK. P4 = 0.23 mBar.
+	09:28 T_mc = 31.2 mK, T_cold = 59.3 mK, T_still = 756 mK. P4 = 0.99 mBar. Start measuring cooling power at 100 mK.
+	10:40 Cooling power measured to be 96.8 uW (0.44 mA * 0.44 mA * 500 ohm). Turn off the mixing chamber heater.
+	16:00 T_mc = 26.7 mK. Stop logging to calibrate the thermometers.
+Mar. 26, 2019
+	10:50 T_mc = 26.9 mK, P1 = 0.035 Bar, open V9 and let in 2 mBar of mixture into the circulation.
+	11:32 T_mc = 27.9 mK, open V4 to remove 3 mBar of mixture.
+	11:34 P1 = 0.036 Bar.
+	11:43 T_mc returns to 26.7 mK.
+	12:26 T_mc = 25.24 mK, T_cold = 62.6 mK, T_still = 763 mK. P4 = 0.91 mBar, P1 = 0.036 Bar, open V4 and remove 2 mBar of mixture.
+	12:27 P1 = 0.038 Bar, close V4.
+	12:50 T_mc = 24.7 mK, T_cold = 62.7 mK, T_still = 765 mK. P4 = 0.98 mK, open V4 to remove 2 mBar of mixture.
+	12:51 P1 = 0.040 mBar.
+	13:01 T_mc = 24.3 mK, T_cold = 62.8 mK, T_still = 764 mK. P4 = 0.89 ~ 1.0 mBar.
+		Note: P4 appears to be repeating a cyclic motion between 1.0 mBar and 0.89 mBar. The cause is unknown (a dynamic evaporation perhaps).
+	13:08 Open V4 and remove 2 mBar of mixture.
+	13:09 P1 = 0.042 Bar.
+	14:08 T_mc = 23.7 mK, T_cold = 62.8 mK, T_still = 761 mK. P4 = 0.95 mBar. Open P4 and remove 2 mBar of mixture.
+	14:10 P1 = 0.044 Bar.
+	14:50 T_mc = 23.3 mK, T_cold = 62.8 mK, T_still = 764 mK. P4 = 0.93 mBar.
+	15:01 Start cooling power measurement at 100 mK using mixing chamber heater with P = 2, I = 50, D = 10.
+	15:45 T_mc = 100 mK. P_cool(100 mK) = 135.4 uW (0.52 mA * 0.52 mA * 500 ohm). Turn off mixing chamber heater.
+Mar. 27, 2019
+	08:35 P1 = 0.186 Bar. Open V9 to empty the dump.
+	10:08 P1 = 0.005 Bar. T_mc = 358 mK.
+	11:05 Open V4 to remove 25 mBar of mixture, use the still heater to keep still temperature around 700 mK.
+	11:16 P1 = 0.030 Bar, close V4, turn off still heater.
+	12:08 T_mc = 69.8 mK, set setpoint temperature to 120 mK.
+	12:43 T_mc stabilizes at 120 mK. start calibration procedure (120 mK - 700 mK) using ACM for ramping control, LabView (GPIB_logging_dual_channel.vi) for resistance logging, and CMD for CMN-SRD calibration kit.
+Mar. 28, 2019
+	08:30 4He level = 45.2%, continue calibrating thermometers mounted on the mixing chamber (167 mK - 700 mK).
+	16:04 T_mc = 475 mK, turn off turbo pump.
+	18:47 Calibration below 700 mK complete, close V1, open v4, V2, and bypass valve to collect all mixtures back into the dump.
+	20:34 P1 = 770 mBar. Turn off all heaters and close all valves. Turn off forepump.
+Mar. 29, 2019
+	08:06 Start forepump. Open V5, 1K pot pumping line.
+	08:08 T_1K = 1.51 K. P1 = 0.769 Bar. 4He level = 42.8%. Open V1.
+	08:12 Close bypass valve. P_cryo > 100 mBar, open the vent valve to the recovery line.
+	08:13 Pulse open V4 to let some mixture into the circulation.
+	08:28 P1 = 0.700 Bar. Stop letting in more mixture. T_mc = 748 mK. T_still = 1.092 K, T_1K = 1.53 K. P_cryo > 100 mBar.
+	08:33 The temperature stagnated at 760 mK. P3 = 4.0 mBar. Turn on turbo pump.
+	08:51 T_mc = 670 mK. Start calibrating the thermometers from 700 mK to 820 mK with the turbo pump on.
+	10:06 First temperature scan finished, turn off turbo pump.
+	10:33 Start calibration from 820 mK to 7 K.
+	16:17 Pause the calibration at 3.5 K to transfer helium into the cryostat. Turn off all heaters.
+	16:20 4He level = 39.7%, start tranferring helium.
+	19:27 4He level = 73.8%. Stop Transferring.
+	19:38 Restart calibration from 4.7 K to 5.1 K.
+	20:04 T_mc = 4.8 K.
+		Note: Temperature fluctuation above 3 K appears to be really large (~150 mK). May need to yield a new set of suitable PID parameters.
+	21:25 Start condensing sequence.
+	22:35 Condensing complete, turn off still heater immediately after it was automatically turned on.
+	23:10 T_mc = 271.9 mK, T_still = 660 mK, T_cold = 257 mK. P4 = 1.7 mBar.
+Mar. 30, 2019
+	05:04 T_mc = 205 mK, T_cold = 161 mK, T_still = 703 mK. P1 = 0.015 Bar. Open V9 to remove all mixtures from the dump.
+	06:35 T_mc = 271 mK, T_cold = 217 mK, T_still = 713 mK. P1 = 0.001 Bar, open V4 to remove some mixture from the dump.
+	06:55 T_still = 542 mK. Turn on still heater (2 mW) and close V1 to expedite the process.
+	07:15 P1 = 0.015 mBar, close V4. Open V1.
+	09:00 = T_mc = 24.0 mK, T_cold = 63.8 mK, T_still = 781 mK, T_1K = 1.6 K.
+	09:01 Open V9 to let out 2 mBar of mixture.
+	09:03 P1 = 0.038 Bar. Close V9.
+	09:26 T_mc = 24.11 mK, T_still = 780 mK. P4 = 1.1 mBar. Turn on still heater (2 mW).
+	10:51 T_mc = 24.38 mK, T_still = 854 mK. P4 = 1.5 mBar. turn off still heater.
+		Note: Heating still only marginally helped with the cooling power.
+	11:09 T_mc = 24.2 mK. T_still = 778 mK. P1 = 0.038 mBar. Open V9 to let 3 mBar of mixture into the circulation.
+	11:12 P1 = 0.035 mBar. Close V9.
+	11:26 T_mc = 25.08 mK, T_still = 778 mK, T_cold = 63.28 mK. P1 = 0.035 Bar. Open V4 to remove 5 mBar of mixture from circulation.
+	11:28 P1 = 0.040 Bar. 
+	11:45 T_mc = 23.83 mK. T_still = 779 mK, T_cold = 64 mK. P4 = 1.1 mBar.
+	12:33 T_mc = 23.7 mK, T_cold = 63.45 mK, T_still = 779 mK. P1 = 0.040 Bar. Open V4 to remove 2 mBar of mixture.
+	12:34 P1 = 0.042 Bar, close V4.
+	12:42 T_mc = 23.44 mK, T_cold = 63.7 mK, T_still = 780 mK. P1 = 0.042 Bar. P4 = 1.1 mBar. Open P4 and remove 3 mBar of mixture from circulation.
+	12:44 P1 = 0.045 Bar, close V4.
+	15:01 T_mc = 23.2 mK, P1 = 0.045 Bar. open V4 to remove 2 mBar of mixture.
+	16:33 T_mc = 23.04 mK, P1 = 0.047 mBar, open V4 to remove 3 mBar of mixture from circulation.
+	16:12 P1 = 0.050 Bar, close V4.
+	16:39 T_mc = 22.9 mK, T_cold = 64.0 mK, T_still = 781 mK. P4 = 1.1 mBar. P1 = 0.050 Bar, open V4 and remove 5 mBar of mixture.
+	16:41 P1 = 0.055 Bar, close V4.
+	17:05 T_mc = 22.73 mK, T_cold = 64.3 mK, T_still = 782 mK. P4 = 1.1 mBar. P1 = 0.055 Bar, open V4 and remove 5 mBar of mixture.
+	17:06 P1 = 0.060 Bar, close V4.
+	17:45 T_mc = 22.77 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.0 mBar, P1 = 0.060 Bar, open V4 and remove 5 mBar of mixture.
+	17:49 P1 = 0.065 Bar, close V4.
+	18:00 T_mc = 22.75 mK, T_cold = 63.9 mK, T_still = 782 mK. P4 = 1.1 mBar, P1 = 0.065 Bar. Turn still heater (3 mW).
+		Note: The mixing chamber cooling power stops to improve for more removal of mixture from circulation after 50 mBar (5L gas) of mixture removed.
+	18:11 T_mc = 22.78 mBar, T_cold = 69.7 mBar, T_still = 897 mBar, P4 = 1.7 mBar. Turn off still heater.
+		Note: Though still heater increased the mixture flow (P4), it didn't actually help with the coolig power.
+	18:57 T_mc = 23.3 mK, P1 = 0.045 Bar, open V4 to remove 5 mBar of mixture from circulation.
+	18:59 P1 = 0.050 Bar, close V4.
+	19:30 T_mc = 22.8 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
+	22:08 T_mc = 22.8 mK, T_cold = 64.4 mK, T_still = 783 mK. P4 = 1.1 mBar, P1 = 0.050 Bar.
+Mar. 31, 2019
+	09:28 T_mc = 22.7 mK, T_cold = 64.1 mK, T_still = 781 mK. P4 = 1.2 mBar. P1 = 0.050 Bar. Start measuring 100 mK cooling power using mixing chamber heater with P=2, I=50, D=10.
+	10:19 T_mc = 100.4 mK, T_still = 759 mK. P_cool(100 mK) = 135.2 uW (0.52 mA * 0.52 mW * 500 ohm). Stop cooling power measurement and let the temperature reset to the base temperature.
+	11:19 Start calibration measurement from 25 mK to 80 mK.
+	13:25 Start calibration measurement from 90 mK to 155 mK.
+	15:27 Calibration complete, reset temperature back to base temperature.
+	15:52 The low temperature part (25-155 mK) measurement appears to be inaccurate. Prepare to retake this part of the data.
+	15:53 T_mc = 201 mK. T_still = 698 mK, turn on still heater (3 mW) to expedite cooling.
+	15:55 4He leve = 60.7%.
+	16:22 T_mc = 26.8 mK, T_cold = 27.07, T_still = 883 mK. Turn off still heater and let the temperatures of the thermometers to reach an equilibrium.
+	17:35 T_mc = 22.7 mK, T_cold = 62.63 mK, T_still = 762 mK. P4 = 0.9 mBar. 
+		Note: Though the mixing chamber thermometer shows a temperature of 22.8 mK, the CMN-1000 calibration kit mounted on the mixing chamber suggests that the actual temperature is 17.5 mK.
+	17:38 Temperature has been stable, ready for another calibration run between 23 mK to 155 mK.
+	17:45 Start second calibration measurement between 23 mK and 155 mK.
+	20:29 Calibration complte. Turn off all heaters and let the temperature reset back to base temperature.
+	22:55 T_mc = 23.7 mK, turn on still heater (3 mW).
+	23:03 Turn off still heater.
+Apr. 01, 2019
+	16:09 T_mc = 23.13 mK, T_still = 763 mK, T_cold = 62.7 mK. P1 = 0.050 Bar, P1 = 0.86 mBar. 4He level = 54.5%.
+	16:15 Close V1, open V4, and open bypass valve to lower P5 for helium-4 injection.
+	16:29 Inject 4000 mBar-in-manifold of helium-4 into the dump.
+	16:30 Close bypass valve, V4, and open V1.
+	16:31 Open V9 and put all mixture in dump into circulation.
+	18:15 P1 = 0.001 Bar, T_mc = 250 mK, T_cold = 195.4 mK, T_still = 697 mK. Close V9.
+	18:21 T_mc = 249 mK, T_cold = 194.8 mK, T_still = 695 mK. Temperatures have been stable. Open V4 and remove 50 mBar of mixture.
+	18:52 T_still = 555 mK, T_mc = 240 mK, T_cold = 195.2 mK.
+	20:06 P1 = 0.050, close V4.
+	21:57 T_mc = 23.76 mK, T_cold = 62.6 mK, T_still = 760 mK. P1 = 0.050 Bar, P4 = 0.9 mBar. Open V9 and let 5 mBar of mixture into the circulation.
+	22:01 P1 = 0.045 Bar, close V9.
+Apr. 02, 2019
+	07:00 T_mc = 23.8 mK, T_cold = 62.5 mK, T_still = 760 mK, P4 = 0.97 mBar. P1 = 0.045 Bar, open V9 to let 5 mBar into the circulation.
+	07:40 P1 = 0.040 Bar, close v9.
+	08:35 T_mc = 24.12 mK, T_cold = 62.3 mK, T_still = 760 mK. P4 = 0.89 mBar. P1 = 0.040 Bar. Open V9 to let 5 mBar of mixture into the circulation.
+	08:40 P1 = 0.035 Bar. Close V9.
+	09:45 T_mc = 25.02 mK, T_cold = 61.95 mK, T_still = 759 mK. P4 = 0.93 mBar. P1 = 0.035 Bar, open V4 to remove 20 mBar of mixture from the circulation.
+	13:56 P1 = 0.775 Bar, helium trap removed, ready to extract the fridge. 4He level = 45.3%.
+	14:45 Extraction complete. 4He level = 41.0%, put in some helium exchange gas into the vacuum chamber to warm up the inside without introducing moisture.
+Apr. 03, 2019
+	Change the insert to "Gighertz insert".
+Apr. 05, 2019
+	18:30 Start pumping on vacuum chamber and dilution fridge unit.
+Apr. 07, 2019
+	11:07 vacuum chamber pressured reached 6.8E-5 mBar, dilution unit pressure reached 1.4E-6 mBar. Close all valves and switch of the pumps.
+	11:29 Put some helium-4 exchange gas into the vacuum chamber.
+	11:33 Start to insert the fridge into the cryostat. 4He level = 34.5%. Connect secondary recovery line to the primary.
+	13:20 Insert complete, start pumping on the part of the mixture circulation line that was exposed to air. 4He level = 22.3%.
+	13:35 start transferring helium into the cryostat. P_cryo = 39 mBar.
+	14:02 4He level = 21.4%. Circulation line pressure dropped to 3E-5 mBar.
+	14:25 Mixture line pressure dropped to 1.6E-5 mBar. Stop pumping on it.
+	14:35 T_mc = 4.32 K, T_still = 3.96 K, T_cold = 3.82 K, T_1K = 4.03 K, T_sorb = 4.40 K. Turn on sorb heater (70 mW).
+	14:36 Start refilling the liquid nitrogen dewar for the nitrogen cold trap. 4He level = 34.1%.
+	14:39 Start extracting helium exchange gass from the vacuum chamber, T_sorb = 9.83 K, change the sorb heater power to 100 mW.
+	14:42 4He level = 35.4%, T_sorb = 11.2 K, Change the sorb heater power to 200 mW.
+	14:43 T_sorb = 14.7 K, change the sorb heater power to 300 mW.
+	14:45 Nitrogen dewar is full, stop refilling.
+	14:46 T_sorb = 18.0 K. Vacuum chamber pressure is at 2.0E-5 mBar.
+	14:48 T_sorb = 18.2 K, Vacuum chamber pressure is at 1.9E-5 mBar. Close the chamber valve and stop pumping on it. Switch off the sorb heater.
+	14:55 Open SV1 and close bypass valve, start inserting helium trap.
+	14:59 P_cool = 46 mBar, 4He level = 40.0%. 
+	15:26 4He level = 47.5%. P_cryo = 48 mBar.
+	16:00 4He level = 59%, the helium dewar appears to be empty, stop transferring.
+	16:12 Transfer complete. 4He level = 57.6%.
+	16:29 Start forepump. Open bypass valve, V5, and V1. Start 1K pot.
+	16:33 Test complete, mixture circulation appears to be normal, open SV3, V12.
+	16:35 T_mc = 4.29 K, T_cold = 4.3 K, T_still = 4.44 K. T_1K = 1.48 K. Open V1, start condensing sequence.
+	17:54 P1 = 0.013 Bar, the condensing sequence automatically closed V9 and turn on the turbo pump and still heater before conclusion. Manually turn off the still heater and open V9 to completely empty the dump.
+	18:52 P1 = 0.003 Bar, close V9.
+	18:55 T_mc = 404 mK, T_cold = 590 mK, T_still = 1.25 K. Open V4 and remove some mixture.
+	19:14 Close V4, P1 = 0.031 Bar. Turn on still heater.
+		Note: the still temperature wouldn't go below 1.2 K while the mixing chamber temperature reached 360 mK. Suspecting a heat leak to the still.
+	19:16 As P4 rose to 2.7 mBar and turbo pump power to 180 W, switch off still heater again.
+	20:35 As T_mc plateaued at 153 mK. Open V9 to put some mixture into the circulation. P1 = 0.031 Bar.
+	21:04 T_mc = 201.3 mK. Open V4, and remove 10 mBar of mixture.
+	21:11 Close V4, P1 = 0.035 Bar. Turn on still heater (5 mW).
+	21:17 Turn off still heater and open V4 to put 5 mBar of mixture into the circulation.
+		Note: The P4 dropped to 0.8 mBar, therefore putting more helium-3 for circulation.
+	21:26 Clove V4. P1 = 0.025 Bar.
+	22:42 T_mc = 204.1 mK. Open V4 and collect 5 mBar mixture.
+	22:44 close V4, P1 = 0.030 Bar.
+	22:48 P4 = 0.8 mBar, turn on still heater (3 mW).
+Apr. 08, 2019
+	06:21 T_mc = 165 mK, T_still = 1.43 K. T_cold = 351 mK. Turn off still heater.
+	06:41 T_mc = 183 mK, T_still = 1.36 K, T_cold = 392 mK. P4 = 0.84 mBar. Open V9 and completely empty the dump.
+	08:16 P1 = 0.001 Bar. close V9.
+	08:21 T_mc = 288 mK, T_still = 1.34 K, T_cold = 414 mK. P4 = 0.83 mBar. Open V4 to remove 40 mBar of mixture.
+	09:01 P1 = 0.045 Bar, close v4.
+	09:07 T_mc = 296 mK, T_cold = 491 mK, T_still = 1.33 K. P4 = 1.0 mBar.
+	11:15 T_mc = 160.1 mK, T_cold = 391 mK, T_still = 1.34 K, P1 = 0.045 Bar. open V4 and remove 5 mBar of mixture.
+	11:18 P1 = 0.051 Bar, close V4.
+	11:27 T_mc = 160.2 mK, T_cold = 389 mK, T_still = 1.33 K. P4 = 0.78 mBar. P1 = 0.051 Bar. Open V9 and put 15 mBar of mixture into circulation.
+		Note: suspecting the phase boundary moved upward toward the cold plate as the temperature of the later dropped since the last removal of mixture, while the temperature of the mixing chamber stayed put.
+	11:56 T_mc = 226 mK, T_cold = 416 mK, T_still = 1.33 K. P4 = 0.86 mBar. Turn on still heater (3 mW).
+	11:59 T_mc = 217.5 mK, T_cold = 401 mK, T_still = 1.39 K. P4 = 1.4 mBar. Turn off still heater and open V9.
+		Note: The temperature changes suggests that the phase separation is still closer to the cold plate than mixing chamber. Will not empty the dump and attempted to remove 40 mbar mixture of mostly pure helium-3 in one shot.
+	14:00 T_mc = 283 mK, T_cold = 410 mK, T_still = 1.32 K.P4 = 0.82 mBar, P1 = 0.001 Bar. Close V9.
+	14:34 T_mc = 286.5 mK, T_cold = 410 mK, T_still = 1.32 K, P4 = 0.81 mBar, P1 = 0.002 Bar, open V4 and remove some mxiture from circulation.
+	15:30 P1 = 0.065 Bar. Close V4.
+	18:12 T_mc = 158.1 mK, T_still = 1.33 K, T_cold = 389 mK. P4 = 0.8 mBar. Turn on still heater (3 mW).
+	19:01 T_mc = 135.1 mK, T_still = 1.413 K, T_cold = 373 mK. P4 = 1.2 mBar, still heater power is at 3 mW. P1 = 0.065 Bar. Open V9 to let 5 mBar of mixture into the circulation.
+	19:05 P1 = 0.060 Bar. Close V4.
+	17:36 T_mc = 135.2 mK, T_still = 1.42 K, T_cold = 374 mK, still heater power = 3 mW. P4 = 1.2 mBar, P1 = 0.060 Bar, open V9 and put 5 mBar of mixture into circulation.
+	17:39 P1 = 0.055 Bar, close V9.
+	22:16 T_mc = 134.2 mK, T_cold = 373 mK, T_still = 1.42 K. P4 = 1.2 mBar. P1 = 0.055 Bar, open V9 and put 5 mBar of mixture into circulation.
+	22:19 P1 = 0.050 Bar. Close V9.
+	22:44 T_mc = 134.8 mK, T_cold = 373 mK, T_still = 1.41 K, still heater power remains at 3 mW. P4 = 1.2 mBar, P1 = 0.050 bar. Open V9 to put 5 mBar of mixture into circulation.
+	22:47 P1 = 0.045 Bar, close V9.
+Apr. 09, 2019
+	06:37 T_mc = 135.6 mK, T_cold = 373 mK, T_still = 1.41 K. P1 = 0.045 Bar, P4 = 1.2 mBar. T_sample = 584.3 mK, still heater power at 3 mW, change to 4 mW.
+	07:51 T_mc = 130.6 mK, T_cold = 370 mK, T_still = 1.44 K, T_sample = 584.4 mK. P4 = 1.4 mBar, change still heater power from 4 mW to 5 mW.
+	08:25 T_mc = 126.3 mK, T_cold = 369 mK, T_still = 1.47 K, T_sample = 584.4 mK. P4 = 1.6 mBar, P2 = 223 mBar, P5 = 84 mBar. P1 = 0.045 Bar. 
+	11:31 T_mc = 126.2 mK, T_cold = 368 mK, T_still = 1.47 K, T_sample = 589 mK. P4 = 1.5 mBar, P1 = 0.045 Bar. Still heater at 5 mW.
+	15:41 T_mc = 125.8 mK, T_cold = 361 mK, T_still = 1.46 K, T_sample = 592 mK. P4 = 1.5 mBar, still heater power is at 5 mW.
+Apr. 10, 2019
+	09:43 T_mc = 157.9 mK, T_cold = 381 mK, T_still = 1.32 K, P4 = 0.82 mBar, P_cryo = 39 mBar, 4He level = 33.1%. Switch off turbo pump, close V1, 1K pot pumping line, and open V4, bypass valve to start collecting all mixture back into the dump.
+	10:33 P1 = 0.775 Bar, P5 = 0.002 Bar. Switch off sorb heater, still heater is still on and at 5 mW.
+	11:20 Turn on turbo pump to extract the last bit of mixture from the fridge.
+	11:30 Close all valves, switch off turbo pump and all heaters.
+	11:35 Start extracting the fridge from the cryostat.
+	12:05 Extraction complete, put in some helium-4 exchange gas to the vacuum chamber to warm up the fridge without introducing moisture.1
+Apr. 11, 2019
+	12:15 Pressure inside the vacuum chamber reached 1E-5 mBar. Close the valve and switch off the pump and start to insert the fridge into the cryostat. P_cryo = 63 mBar, 4He level = 28.7%. Open the valve between the cryostat and helium recovery line, connect the secondary recovery line to the primary.
+	12:31 Put some helium-4 exchange gas into the vacuum chamber and start flushing the 1K pot pumping line with helium-4 from a pressurized cylinder.
+	14:15 Insert complete, start pumping on bellows and helium cold trap at room temperature. 4He level = 17.0%.
+	14:49 Start transfering liquid helium into the cryostat.
+		Note: Though the cavity suffers a problem in producing signals, decided to continue to just test the thermalization of the new cavity setup.
+	15:30 Pressure inside the bellows reached 6E-5 mBar. Close all valves and start extracting helium-4 exchange gas from the vacuum chamber with still heater on (400 mW).
+	15:30 4He level = 37.2%, stop transferring.
+	15:45 Start inserting helium cold trap. Start forepump. T_sorb = 20.65 K, P_vc = 3E-5 mBar. Switch off sorb heater, and stop pumping on the vacuum chamber.
+	15:56 Open SV1, and bypass valve, test the circulation without open the fridge.
+	16:00 T_cav = 4.26 K, T_mc = 4.3 K, T_still = 3.88 K, T_sorb = 4.11 K, T_1K = 3.77 K. Start 1K pot pump.
+	16:01 T_1K = 1.58 K, open V12 and SV3, and start condensing sequence.
+	19:29 T_mc = 189.8 mK, T_cold = 384 mK, T_still = 1.34 K, P4 =1.0 mBar. turn off still heater and open V9 to completely empty the dump.
+	21:25 P1 = 0.000 Bar. Close V9.
+	22:14 T_mc = 347 mK, T_cold = 573 mK, T_still = 1.22 mK. P4 = 0.6 mBar. P1 = 0.000 Bar. Open V4 to remove some mixture from circulation.
+	23:00 P1 = 0.055 Bar, close V9.
+Apr. 12, 2019
+	08:21 T_mc = 146.2 mK, T_cold = 479 mK, T_still = 1.37 K, P4 = 0.78 mBar, P1 = 0.055 Bar, open V9 to take out some mixture.
+	08:23 P1 = 0.050 Bar, and close V4.
+	08:45 T_mc = 148 mK, T_cold = 478 mK, T_still = 1.36 K, P4 = 0.75 mBar. P1 = 0.050 Bar. Open V9 to remove 5 mBar of mixture.
+	08:48 P1 = 0.045 Bar, close V9.
+	09:30 T_mc = 151.4 mK, T_cold = 406 mK, T_still = 1.34 K, T_cav = 249.2 mK, P4 = 0.78 mBar. Turn on still heater (3 mW).
+	11:24 T_mc = 129.8 mK, T_cold = 445 mK, T_still = 1.43 K, T_cav = 243.5 mK. P4 = 1.1 mBar, change still heater power to 4 mW.
+	12:44 T_mc = 125.9 mK, T_cold = 438 mK, T_still = 1.46 K, T_cav = 246.1 mK. P4 = 1.4 mBar. Change still heater power to 5 mW.
+	12:53 T_mc = 123.6 mK, T_cold = 433 mK, T_still = 1.48 K, T_cav = 245.3 mK. P4 = 1.6 mBar.
+	14:25 T_mc = 118.7 mK, T_cold = 441 mK, T_still = 1.48 K, T_cav = 241.5 mK. P4 = 1.5 mBar, P1 = 0.045 Bar. Open V9 to put 5 mBar of mixture into circulation.
+	14:28 P1 = 0.040 Bar, close V9.
+	14:57 T_mc = 128.4 mK, T_cold = 437 mK, T_still = 1.48 K, T_cav	= 249.3 mK. P4 = 1.5 mBar.
+	15:10 Turn off turbo pump, close V1 and 1K pot pumping line, turn on still heater (5 mW) and sorb heater (200 mW), open V4 to start collection mixture back into the dump.
+	16:00 P1 = 0.775 Bar, P5 = 0.002 Bar. Turn on turbo pump and tun off sorb heater.
+	16:09 P1 = 0.776 Bar. P5 = 0.000 Bar. Close V4, SV1, SV3, and V12, turn off all heaters, and switch off the turbo pump.
+	16:15 Start extracting helium trap.
