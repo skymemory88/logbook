@@ -789,3 +789,35 @@ Apr. 12, 2019
 	16:15 Start extracting helium trap.
 	16:30 Start extracting the dilution fridge.
 	17:01 Extraction complete, 4He level = 25.8%.
+Apr. 15, 2019
+	18:21 Vacuum chamber pressure reaches 7.4E-5 mBar, close the top valve.
+	18:32 Put a small amount of helium-4 exchange gas into the vacuum chamber and start flushing the 1K pot pumping line with pure helium-4 gas from a pressurized cylinder.
+	18:38 Start inserting the fridge into the cryostat.
+	18:44 Connect the secondary helium recovery line to the primary.
+	20:26 Insert complete, 4He level = 12.5%, start transferring helium into the crystat.
+	20:54 T_mc = 4.64 K, T_cav = 4.52 K, T_still = 40.5 K, T_sorb = 74.6 K, T_1K = 69.7 K.
+	21:06 The pressure insides the bellows reached 5E-5 mBar. Close the valve and stop pumping.
+	21:15 Start inserting the helium cold trap.
+	21:36 Start pumping on vacuum chamber to extract exchange gas. T_mc = 4.43 K, T_still = 3.93 K, T_sorb = 4.49 K, T_cav = 4.29 K. Turn on sorb heater at 300 mW.
+	21:46 T_mc = 4.31 K, T_still = 4.21 K, T_sorb = 17.93 K. T_1K = 7.99 K, T_cav = 4.29 K. P_vc = 2.4E-5 mBar. Turn off sorb heater and stop pumping on the vacuum chamber.
+	21:54 Start forepump.
+	22:10 4He level = 34.5%. Stop transfer.
+	22:16 Start 1K pot. Open V12, SV3, SV1, close bypass valve.
+	22:19 T_1K = 1.53 K, start condensing sequence. 
+Apr. 16, 2019
+	00:16 T_mc = 452 mK, T_cold = 529 mK, T_still = 860 mK, T_1K = 1.58 K. P4 = 0.36 mBar.
+	06:56 T_mc = 237.6 mK, T_cold = 287.1 mK, T_still = 925 mK, T_1K = 1.65 K. P4 = 0.33 mBar, P1 = 0.001 Nar, open V4 to remove some mixture from circulation.
+	08:54 T_mc = 178 mK, P1 = 63 mBar, close V9 and open V4 to adjust P1 to 45 mBar.
+	09:16 T_mc = 118 mK, T_cold = 251 mK, T_still = 976 mK, P4 = 0.46 mBar, P2 = 153 mBar, P5 = 84 mBar, P1 = 0.045 Bar.
+	10:39 Adjust needle valve to lower the pumping rate of 1K pot. T_mc = 93.49 mK, T_cold = 243.5 mK, T_still = 968 mK, T_cav = 157.7 mK. P4 = 0.39 mBar, open V9 and remove 5 mBar of mixture from the dump. 4He level = 31.2%.
+	10:42 P1 = 0.040 Bar, close V9.
+	10:51 P4 = 0.47 mBar, P1 = 0.040 Bar, T_mc = 102.1 mK. turn on still heater (5 mW).
+	11:12 Turn off still heater, and open V9 to remove 10 mBar of mixture from the dump.
+		Note: The power went out briefly and shut down the forepump and turbo pump.
+	11:23 Restart the forepump and open V9 to take out some mixture from the dump.
+	11:24 P1 = 0.030 Bar, close V9. T_mc = 166 mK, T_cold = 254.1 mK, T_still = 1.087 K, T_1K = 1.59 K.
+	11:47 The power and cooling water supply is back online, turn on turbo pump.
+	12:21 T_mc = 171.5 mK, T_cold = 260.9 mK, T_still = 964 mK. P4 = 0.43 mBar. Open V9 and empty the dump.
+	14:03 P1 = 0.001 Bar, close V9. T_still = 935 mK.
+	14:17 P1 = 0.001 Bar, P4 = 0.43 mBar, T_mc = 221.2 mK, T_still = 936 mK. Open V4 and remove 5 L of mixture from circulation.
+	15:50 P1 = 0.055 Bar, close V4.

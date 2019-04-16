@@ -28,3 +28,9 @@ Apr. 12, 2019
 Apr. 14, 2019
 	16:32 The S11 signal (coupling) recovered at room temperature under vacuum.
 		Note: the recovery suggests that the change in coupling deterioration was due to inductance and capacitance change at low temperature, possibly primarily of the coax cable.
+Apr. 15, 2019
+	Warning: The LiHoF4 sample was discovered to be shattered and displaced from the original position inside the cavity. Possibly explanation is the violent boiling of liquid nitrogen during submersion experiment for quick cool down to inspect the coupling betwqeen the antenna and the cavity.The liquid nitrogen can get inside the cavity during the submersion and damage the sample. Another possible explanation is the accelerated cool-down and warm-up cycle during the nitrogen submersion experiment when, the sample was quickly cooled by being submerged into liquid nitrogen and then quickly warmed up subsequently using a heat gun.
+	Note: After cooling down, the partially decoupled cavity again didn't yield a decernible absorption peak in S11 curve. The observation of the cool down process from 200+ K to 4 K shows a constant drift of the signal on Smith plot from the origin toward the negative direction along the imaginary axis (an increasing capacitance), without change in size of the loop. The coupling between the antenna and the cavity appears to be unchanged during the entire process, indicating it is the coax cable part of the transmission line that changed the most during the cool down.
+Apr. 16, 2019
+	Note: The absorption peak reappeared, suspecting the disappearance during the cool down was due to a dynamic process and the reappearance when an equilibrium is reached.
+	10:46 T_cav = 159.6 mK.
