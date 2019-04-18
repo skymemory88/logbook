@@ -34,3 +34,8 @@ Apr. 15, 2019
 Apr. 16, 2019
 	Note: The absorption peak reappeared, suspecting the disappearance during the cool down was due to a dynamic process and the reappearance when an equilibrium is reached.
 	10:46 T_cav = 159.6 mK.
+	20:09 T_mc = 77.8 mK, T_cold = 223.8 mK, T_still = 1.18 K, P4 = 0.89 mBar, T_cav = 154.3 mK. Start sweeping magnetic field from 0 to 5 T at 0.016 T/min. 4He level = 54.1%.
+Apr. 18, 2019
+	14:40 The absorption peak on S11 disappeared around 50 K.
+	Note: Based on the last cool-down, it appears that waht matters is not just the coupling betweeen the antenna and the cavity but as well as the charateristics of the coax cable at low temperature. The absorption peak may be recovered should the circuit is tuned externally with additional LC components.
+	17:32 T_cav = 935 mK, the absorption peak on S11 recovered.
