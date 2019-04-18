@@ -852,3 +852,6 @@ Apr. 18, 2019
 	15:37 P_vc = 3.5E-5 mBar, switch off the sorb heater and top pumping on the vacuum chamber.
 	16:44 4He level = 70.8%, stop the transfer. Start 1K pot.
 	16:46 T_1K = 1.53 K. Open V5, SV1, SV3, and V12. Start condensing sequnce.
+	18:09 Turn off turbo pump and still heater, open V9 to completely empty the dump.
+	19:45 P1 = 0.000 Bar, close V4.
+	19:54 T_mc = 454 mK, T_cold = 708 mK, T_still = 1.29 K, T_1K = 1.44 K. P4 = 0.33 mBar. Open V4 to remove some mixture from circulation.

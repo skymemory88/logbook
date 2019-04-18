@@ -39,3 +39,4 @@ Apr. 18, 2019
 	14:40 The absorption peak on S11 disappeared around 50 K.
 	Note: Based on the last cool-down, it appears that waht matters is not just the coupling betweeen the antenna and the cavity but as well as the charateristics of the coax cable at low temperature. The absorption peak may be recovered should the circuit is tuned externally with additional LC components.
 	17:32 T_cav = 935 mK, the absorption peak on S11 recovered.
+	19:56 T_cav = 455 mK.
