@@ -40,3 +40,13 @@ Apr. 18, 2019
 	Note: Based on the last cool-down, it appears that waht matters is not just the coupling betweeen the antenna and the cavity but as well as the charateristics of the coax cable at low temperature. The absorption peak may be recovered should the circuit is tuned externally with additional LC components.
 	17:32 T_cav = 935 mK, the absorption peak on S11 recovered.
 	19:56 T_cav = 455 mK.
+Apr. 19, 2019
+	15:26 T_cav = 234 mK. Start measuring S11 while sweeping the magnetic field from 0 to 5 T at 0.016 T/min and frequency between 3.49 GHz and 3.52 GHz at -16 dBm.
+	15:39 T_cav = 235 mK. B_dc = 0.17 T.
+	16:20 T_cav = 233 mK, B_dc = 0.83 T.
+	22:19 T_cav = 242 mK, B_dc = 3.42 T.
+Apr. 20, 2019
+	12:14 Start taking measurement of S11 while sweeping the magnetic field from 0 to 5 T at 0.016 T/min, and AC frequency from 3.49 GHz to 3.52 GHz.
+	18:41 T_cav = 283 mK. B_dc = 3.67 T.
+	23:59 T_cav = 300 mK. Magnetic field sweep complete.
+Apr. 21, 2019

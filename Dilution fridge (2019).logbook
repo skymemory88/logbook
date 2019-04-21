@@ -855,3 +855,38 @@ Apr. 18, 2019
 	18:09 Turn off turbo pump and still heater, open V9 to completely empty the dump.
 	19:45 P1 = 0.000 Bar, close V4.
 	19:54 T_mc = 454 mK, T_cold = 708 mK, T_still = 1.29 K, T_1K = 1.44 K. P4 = 0.33 mBar. Open V4 to remove some mixture from circulation.
+	21:00 P1 = 0.058 mBar, close V9.
+	21:13 T_mc = 333 mK, T_cold = 603 mK, T_still = 1.41 K, P4 = 0.73 mBar, P1 = 0.058 Bar.
+	22:48 T_mc = 93.9 mK, T_cold = 447 mK, T_still = 1.31 K, P4 = 0.58 mBar. P1 = 0.058 Bar, open V9 to put some mixture into circulation.
+	22:51 P1 = 0.050 Bar, close V9.
+	23:48 T_mc = 106 mK, T_cold = 419 mK, T_still = 1.2 K, P1 = 0.050 Bar. Open V9 and put some mixture into the circulation.
+	23:50 P1 = 0.045 Bar, close V9.
+		Note: There is pronounced fluctuation in still temperature (~0.20 K) and cold plate temperature (0.12 K). Cause unknow.
+	23:59 Open V9 and completely empty the dump.
+Apr. 19, 2019
+	09:23 T_mc = 305 mK, T_cold = 424 mK, T_still = 1.28 K. P1 = 0.002 Bar, open V9 to continue emptying the dump.
+		Note: The temperatures of the cold plate (0.1 K) and still (0.2 K) have been fluctuating throughout the night.
+	10:08 T_mc = 314 mK, T_cold = 468 mK, T_still = 1.28 K. P1 = 0.000 Bar. close V9.
+	10:18 P4 = 0.68 mBar. Open V4 to remove some mixture from circulation.
+	11:30 P1 = 0.080 Bar, close V4.
+	12:31 T_mc = 150.1 mK, T_cold = 433 mK, T_still = 1.31 K, P4 = 0.63 mBar.
+	13:00 T_mc = 148.4 mK, T_cold = 431 mK, T_still = 1.30 K, P4 = 0.61 mBar, P1 = 0.080 Bar.
+	13:13 T_mc = 148.5 mK, T_cold = 426 mK, T_still = 1.31 K, P4 = 0.59 mBar, P1 = 0.080 Bar. Open V9 to remove some mixture from circulation.
+	13:16 P1 = 0.070 Bar, close V9.
+	13:24 T_mc = 149.5 mK, T_cold = 419 mK, T_still = 1.31 K, P4 = 0.60 mBar. Turn on still heater (3 mW).
+	13:47 T_mc = 121.8 mK, T_cold = 403 mK, T_still = 1.39 K, T_cav = 232 mK, P4 = 0.95 mBar. 
+	15:25 T_mc = 119.5 mK, T_cold = 402 mK, T_still = 1.38 K. T_cav = 234 mK.
+		Note: Start S11 measurement.
+	22:20 T_mc = 125.4 mK, T_cold = 378 mK, T_still = 1.39 K. P4 = 0.96 mBar.
+Apr. 20, 2019
+	09:00 T_mc = 128 mK, P1 = 0.070 Bar, open V9 to put some mixture into the circulation.
+	09:02 P1 = 0.060 Bar, close V9.
+	09:30 T_mc = 129.1 mK, T_cold = 369 mK, T_still = 1.39 K, P4 = 0.99 mBar. Put some mixture into circulation.
+	09:50 P1 = 0.030 Bar, close V9.
+	09:54 T_mc = 154.5 mK, P4 = 1.0 mBar.
+	11:18 Turn off still heater.
+	18:43 T_mc = 186.4 mK, T_cold = 392 mK, T_still = 1.30 K. P4 = 0.59 mBar.
+	23:56 T_mc = 183.5 mK, T_cold = 388 mK, T_still = 1.28 K. P1 = 0.030 Bar, open V9 to completely empty the dump.
+Apr, 21, 2019
+	06:51 P1 = -0.003 Bar, close V9, and open V4 to remove some mixture from circulation.
+	08:19 P1 = 0.085 Bar. close V4.
