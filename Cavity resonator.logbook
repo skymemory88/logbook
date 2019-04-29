@@ -31,11 +31,13 @@ Apr. 14, 2019
 Apr. 15, 2019
 	Warning: The LiHoF4 sample was discovered to be shattered and displaced from the original position inside the cavity. Possibly explanation is the violent boiling of liquid nitrogen during submersion experiment for quick cool down to inspect the coupling betwqeen the antenna and the cavity.The liquid nitrogen can get inside the cavity during the submersion and damage the sample. Another possible explanation is the accelerated cool-down and warm-up cycle during the nitrogen submersion experiment when, the sample was quickly cooled by being submerged into liquid nitrogen and then quickly warmed up subsequently using a heat gun.
 	Note: After cooling down, the partially decoupled cavity again didn't yield a decernible absorption peak in S11 curve. The observation of the cool down process from 200+ K to 4 K shows a constant drift of the signal on Smith plot from the origin toward the negative direction along the imaginary axis (an increasing capacitance), without change in size of the loop. The coupling between the antenna and the cavity appears to be unchanged during the entire process, indicating it is the coax cable part of the transmission line that changed the most during the cool down.
+	LiHoF4 sample as glued to the cavit at the bottom using GE varnish, cured over night at room temperature.
 Apr. 16, 2019
 	Note: The absorption peak reappeared, suspecting the disappearance during the cool down was due to a dynamic process and the reappearance when an equilibrium is reached.
 	10:46 T_cav = 159.6 mK.
 	20:09 T_mc = 77.8 mK, T_cold = 223.8 mK, T_still = 1.18 K, P4 = 0.89 mBar, T_cav = 154.3 mK. Start sweeping magnetic field from 0 to 5 T at 0.016 T/min. 4He level = 54.1%.
 Apr. 18, 2019
+	LiHoF4 sample secured inside a cylinder mould, which was then filled up with stycast, and cured together at 70C for two hours, the block was then cut and sanded down to fit the cavity tightly and GE varnish was applied at the top and bottom of the sample.
 	14:40 The absorption peak on S11 disappeared around 50 K.
 	Note: Based on the last cool-down, it appears that waht matters is not just the coupling betweeen the antenna and the cavity but as well as the charateristics of the coax cable at low temperature. The absorption peak may be recovered should the circuit is tuned externally with additional LC components.
 	17:32 T_cav = 935 mK, the absorption peak on S11 recovered.
@@ -49,4 +51,14 @@ Apr. 20, 2019
 	12:14 Start taking measurement of S11 while sweeping the magnetic field from 0 to 5 T at 0.016 T/min, and AC frequency from 3.49 GHz to 3.52 GHz.
 	18:41 T_cav = 283 mK. B_dc = 3.67 T.
 	23:59 T_cav = 300 mK. Magnetic field sweep complete.
-Apr. 21, 2019
+Apr. 25, 2019
+	09:35 T_cav = 118.3 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.025 T/min, and AC frequency from 3.52 GHz to 3.54 GHz.
+	10:42 T_cav = 114 mK. Temperature drifted significantly, stop measurement and retaken when it stablizes.
+	11:10 T_cav = 118 mK, restart the measurement.
+	17:42 T_cav = 109 mK, H = 3.95 T.
+Apr. 26, 2019
+	09:16 T_cav = 118 mK. H = 0.39 T.
+
+Apr. 28, 2019
+	12:05 Mount the new cavity (d24mm_t5mm_g0.6mm) onto the mixing chamber and detune it.
+	16:00 Start pumping on the vacuum chamber.
