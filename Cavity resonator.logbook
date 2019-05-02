@@ -58,7 +58,12 @@ Apr. 25, 2019
 	17:42 T_cav = 109 mK, H = 3.95 T.
 Apr. 26, 2019
 	09:16 T_cav = 118 mK. H = 0.39 T.
-
 Apr. 28, 2019
-	12:05 Mount the new cavity (d24mm_t5mm_g0.6mm) onto the mixing chamber and detune it.
+	12:05 Mount the new cavity (d24mm_t5mm_g0.6mm, f0 = 5.02 GHz) onto the mixing chamber and detune it.
 	16:00 Start pumping on the vacuum chamber.
+Apr. 30, 2019
+	08:45 T_cav = 118 mK, start sweeping magnetic field from 0 to 9 T at 0.01 T/min and frequency scan between 5.025 GHz and 5.045 GHz at -16 dBm.
+	Note: It is observed that the frequency range doesn't follow the setup, the cause is found to be that the ZVL network analyzer outputs 31 number of points (nop) per communication, and the frequency span of each communication is thus to be 31 * 0.1 MHz (steps: 0.1 MHz) = 3.1 MHz. Therefore, the total frequency span has to be an integer multile of 3.1 MHz.
+May. 01, 2019
+	18:30 Attach a LiHoF4 sample (a x a x c = 6 mm x 5 mm x 4.5 mm) to the bottom and the top of the cavity with c-axis (easy axis) along the direction of AC field (tangential direction of the circumference of the cavity). 
+	19:30 Detune the coupling between the antenna and the cavity and seal the vacuum chamber and start pumping on it.

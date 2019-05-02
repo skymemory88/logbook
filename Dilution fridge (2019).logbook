@@ -955,3 +955,38 @@ Apr. 29, 2019
 	18:07 Start pumping on the vacuum chamber to extract the helium exchange gas, turn on sorb heater at 350 mW.
 	18:36 Vacuum chamber pressure reached 8.8E-6 mBar. Turn off sorb heater, and stop pumping on the vacuum chamber.
 	18:39 Close bypass valve and restart condensing sequence.
+	20:06 Switch off the still heater and open V9 to completely empty the dump.
+	21:49 P1 = 0.001 Bar, close V9.
+	20:18 T_mc = 169.8 mK, T_cold = 179.6 mK, T_still = 810 mK. P4 = 0.58 mBar. Open V9 and remove some mixture from circulation.
+	23:54 P1 = 0.051 Bar, close V4.
+Apr. 30, 2019
+	06:48 T_mc = 54.9 mK, T_cold = 143 mK, T_still = 864 mK, P4 = 0.68 mBar. Turn on still heater (3 mW).
+	07:45 T_mc = 53.02 mK, T_cold = 143.4 mK, T_still = 1.04 K, change still heater power to 4 mW.
+	07:55 T_mc = 52.85 mK, T_cav = 129 mK, T_still = 1.095 K. P4 = 1.1 mBar, P1 = 0.050 Bar, open V9 to put some mixture into the circulation.
+	07:57 P1 = 0.045 Bar, close V9.
+	08:02 T_mc = 53.3 mK, T_cav = 119 mK.
+	08:04 T_mc = 53.4 mK, P1 = 0.045 Bar, open V9 and put some mixture into circulation.
+	08:05 P1 = 0.040 Bar, close v9.
+	08:43 T_mc = 55.2 mK, T_cav = 118.5 mK, T_cold = 143 mK, T_still = 1.1 K, P4 = 1.1 mBar.
+May. 01, 2019
+	09:38 4He level = 26%, stop 1K pot, switch off the turbo pump, open V4, bypass valve, and close V1. and start to collect all mixture back into the dump.
+	10:30 P1 = 0.776 Bar, close all valves and turn off heaters, start extracting helium cold trap
+	13:25 Start extracting the fridge from the cryostat.
+	14:00 4He level = 22.5%.
+	17:22 Start pumping on the vacuum chamber. 
+May. 02, 2019
+	09:22 Vacuum chamber pressure reached 1.1E-5 mBar. Stop pumping.
+	09:33 Put some helium exchange gas into the cavcuum Chamber and start flushing the 1K pot pumping line.
+	09:49 Start inserting the fridge into the cryostat. 4He level = 22.4
+	11:40 Insert complete. 4He level = 17.4%.
+	12:15 Start transferring helium into the cryostat.
+	12:55 T_mc = 4.32 K, T_still = 4.30 K, T_sorb = 7.49 K, Turn on sorb heater and start extracting the exchange gas fromg the vacuum chamber.
+	12:56 Start to insert helium cold trap.
+	13:17 Vacuum Chamber reached 2E-5 mBar, stop pumping and turn off the sorb heater.
+	14:20 4He level = 56.2%, stop transferring.
+	14:37 T_mc = 4.36 K, T_cold = 3.85 K, T_still = 4.02 K, start 1K pot and forepump.
+	14:42 T_1K = 1.35 K, open V12, SV1, and SV3, close bypass valve.
+	14:45 Start condensing sequence.
+	17:27 T_mc = 453 mK, T_still = 715 mK, P1 = 0.001 Bar, P4 = 0.16 mBar. close V9 and open V4 to remove some mixture from circulation.
+	19:22 T_mc = 467 mK, T_cold = 477 mK, T_still = 750 mK, P4 = 0.20 mBar, P1 = 0.050 Bar.
+	19:35 T_mc = 470 mK, T_cold = 479 mK, T_still = 756 mK, T_1K = 1.39 K. P4 = 0.22 mBar, P1 = 0.055 Bar, close V4.
