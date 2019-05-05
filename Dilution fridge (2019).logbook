@@ -990,3 +990,37 @@ May. 02, 2019
 	17:27 T_mc = 453 mK, T_still = 715 mK, P1 = 0.001 Bar, P4 = 0.16 mBar. close V9 and open V4 to remove some mixture from circulation.
 	19:22 T_mc = 467 mK, T_cold = 477 mK, T_still = 750 mK, P4 = 0.20 mBar, P1 = 0.050 Bar.
 	19:35 T_mc = 470 mK, T_cold = 479 mK, T_still = 756 mK, T_1K = 1.39 K. P4 = 0.22 mBar, P1 = 0.055 Bar, close V4.
+	20:16 T_mc = 443 mK, T_still = 764 mK, T_cold = 449 mK, P1 = 0.050 Bar, open V4 to remove some mixture from circulation.
+	20:26 P1 = 0.065 Bar, close V4.
+May, 03, 2019
+	07:32 T_mc = 65.3 mK, T_cold = 153 mK, T_still = 812 mK. P1 = 0.065 Bar, P4 = 0.31 mBar. Open V9 to put 0.5 L of mixture into circulation.
+	07:36 P1 = 0.060 Bar, close V9.
+	07:56 P1 = 0.060 Bar, T_mc = 65.8 mK. Open V9 to put 0.5 L of mixture into circulation.
+	09:09 4He level = 44.4%, start transferring helium into the cryostat.
+	10:14 4He level = 71.%, stop the transfer.
+	10:32 T_mc = 63.7 mK, T_cold = 145.9 mK, T_still = 802 mK, P4 = 0.32 mBar. Turn on still heater (3 mW).
+	10:41 T_mc = 59.06 mK, T_cold = 139 mK, T_still = 955 mK. P4 = 0.61 mBar. Open V9 and put 0.5 L of mixture into circulation.
+	10:43 P1 = 0.050 Bar, close V9.
+	11:59 T_mc = 54.2 mK, T_cold = 139.8 mK, T_still = 958 mK, P4 = 0.57 mBar. T_cav = 104.1 mK.
+	13:00 T_mc = 52.7 mK, T_cold = 143 mK, T_still = 960 mK, P4 = 0.56 mBar, still heater power = 3 mW.
+	16:20 T_mc = 65.35 mK, T_cold = 186 mK, T_still = 964 mK, P4 = 0.59 mBar.
+	19:26 4He level = 68.7%.
+May. 04, 2019
+	09:55 T_mc = 70.6 mK, T_cold = 159 mK, T_still = 958 mK, P4 = 0.58 mBar, P1 = 0.050 Bar, still heater power = 3 mW.
+		Note: Stopped field scan experiment and zeroed the DC magnetic field at 0.1 T/min and therefore heated up the unit a bit.
+	10:06 T_mc = 61.7 mK, T_cold = 140.3 mK, T_still = 956 mK, P4 = 0.59 mBar.
+	10:19 T_mc = 56.2 mK, T_cold = 138.7 mK, T_still = 965 mK, P4 = 0.58 mBar.
+	10:36 T_mc = 53.8 mK, T_cold = 137.7 mK, T_still = 962 mK, P4 = 0.57 mBar.
+	19:27 T_mc = 52.81 mK, T_cold = 145.7 mK T_still = 963 mK, P4 = 0.56 mBar.
+May. 05, 2019
+	17:36 T_mc = 53.5 mK, T_cold = 137.4 mK, T_still = 958 mK. P4 = 0.57 mBar, still heating power = 3 mW.
+	17:45 4He level = 54.8%, start transferring helium into the cryostat.
+	18:20 T_mc = 51.6 mK, T_cold = 135 mK, T_still = 943 mK. P4 = 0.52 mBar, P1 = 0.050 Bar, open V9 to put 5 mBar of mixture into circulation.
+	18:22 P1 = 0.045 Bar, close V9.
+	18:23 Turn off still heater.
+	18:27 4He level = 79.4%, stop transferring.
+	18:30 IVC sorb heater was accidentally turned on and caused the mixing chamber to warm up and boil off of the mixture, switch off the turbo pump and open V4, turn off sorb heater, open up 1K pot pumping line to start recondensing the mixture.
+		Note: the sorb heater and mixing chamber heater power blank should be at 0 at all time so that even if they are accidentally switched on, no power input would occur.
+	19:51 P1 = 0.004 Bar, T_still = 657 mK. close V4 and open V9 to remove some mixture from circulation.
+	20:21 Start refilling nitrogen cold trap dewar.
+	20:33 T_mc = 417 mK, T_cold = 584 mK, T_still = 677 mK. P1 = 0.022, P4 = 0.11 mBar. Turn on still heater (1 mW).

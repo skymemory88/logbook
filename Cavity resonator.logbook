@@ -63,7 +63,24 @@ Apr. 28, 2019
 	16:00 Start pumping on the vacuum chamber.
 Apr. 30, 2019
 	08:45 T_cav = 118 mK, start sweeping magnetic field from 0 to 9 T at 0.01 T/min and frequency scan between 5.025 GHz and 5.045 GHz at -16 dBm.
-	Note: It is observed that the frequency range doesn't follow the setup, the cause is found to be that the ZVL network analyzer outputs 31 number of points (nop) per communication, and the frequency span of each communication is thus to be 31 * 0.1 MHz (steps: 0.1 MHz) = 3.1 MHz. Therefore, the total frequency span has to be an integer multile of 3.1 MHz.
+	Note: It is observed that the frequency range doesn't follow the setup, the cause is found to be that the ZVL network analyzer outputs 31 number of points (nop) per communication, and the frequency span of each communication is thus to be (31-1) * 0.1 MHz (steps: 0.1 MHz) = 3.0 MHz. Therefore, the total frequency span has to be an integer multile of 3.0 MHz.
 May. 01, 2019
 	18:30 Attach a LiHoF4 sample (a x a x c = 6 mm x 5 mm x 4.5 mm) to the bottom and the top of the cavity with c-axis (easy axis) along the direction of AC field (tangential direction of the circumference of the cavity). 
 	19:30 Detune the coupling between the antenna and the cavity and seal the vacuum chamber and start pumping on it.
+May. 03, 2019
+	12:00 T_mc = 54.2 mK, T_cav = 104.1 mK.
+	12:13 T_mc = 53.9 mK, T_cav = 84.6 mK.
+		Note: After changing the excitation power of the ZVL network analyzer to -16 dBm, the cavity temperature rapidly dropped, suggesting the default excitation current too high.
+	12:25 T_mc = 53.0 mK, T_cav = 81.8 mK.  S
+	12:33 T_mc = 52.8 mK, T_cav = 81.6 mK. Start S11 measurement while sweeping magnetic field from 0 to 9T at 0.01 T/min and frequency scan between 3.520 GHz and 3.541 GHz with steps at 0.1 MHz.
+	12:59 T_mc = 52.7 mK, T_cav = 85.3 mK. 
+May. 04, 2019
+	09:34 Stop measurement, zero the field and retake the measurement.
+		Note: The frequency range appears to be too narrow as the resonant frequency shift went out the range at about 3 T.
+	10:38 T_mc = 53.7 mK, T_cav = 85 mK. Start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.01 T/min and frequency between 3.085 GHz and 3.535 GHz at steps of 0.1 MHz and 31 data points per line.
+	19:27 T_mc = 52.8 mK, T_cav = 74 mK (H = 5 T). Start S11 measurement while sweeping magnetic field from 5 to 0 T at 0.02 T/min and frequency between 3.400 GHz and 3.580 GHz at steps of 0.1 MHz and 31 data points per line.
+	23:35 Start S11 measurement while sweeping magnetic field from 9 to 0 T at 0.015 T/min, and frequency between 3.400 GHz and 3.670 GHz with steps of 0.1 MHz, and 31 data points per line.
+May. 05, 2019
+	09:45 Start S11 measurement while sweeping magnetic field from 9 to 0 T at 0.02 T/min, and frequency between 3.400 GHz and 3.580 GHz with steps of 0.1 MHz, and 31 data points per line.
+	19:51 P1 = 0.004 Bar, T_still = 657 mK. close V4 and open V9 to remove some mixture from circulation.
+	20:21 Start refilling nitrogen cold trap dewar.
