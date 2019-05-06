@@ -82,5 +82,11 @@ May. 04, 2019
 	23:35 Start S11 measurement while sweeping magnetic field from 9 to 0 T at 0.015 T/min, and frequency between 3.400 GHz and 3.670 GHz with steps of 0.1 MHz, and 31 data points per line.
 May. 05, 2019
 	09:45 Start S11 measurement while sweeping magnetic field from 9 to 0 T at 0.02 T/min, and frequency between 3.400 GHz and 3.580 GHz with steps of 0.1 MHz, and 31 data points per line.
-	19:51 P1 = 0.004 Bar, T_still = 657 mK. close V4 and open V9 to remove some mixture from circulation.
-	20:21 Start refilling nitrogen cold trap dewar.
+	23:14 T_mc = 149 mK. T_cav = 155 mK.
+May. 06, 2019
+	00:08 T_mc = 75.5 mK, T_cav = 96 mK. Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.40 GHz and 3.58 GHz at -3 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	08:04 T_mc = 104.5 mK, turn on mixing chamber heater (1 mA range) and set the temperature to 200 mK.
+	09:30 Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	19:30 Set the mixing chamber temperature to 500 mK.
+		Note: By comparing data taken with magnetic field sweeping speed at 0.015 T/min and 0.020 T/min, it appears that there is visible difference in qualities of the data in color maps between the two speed, and the slower (0.015 T/min) is preferred. 
+	20:12 T_mc = 500.3 mK, T_cav = 492 mK. Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.

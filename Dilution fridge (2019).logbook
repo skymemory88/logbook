@@ -1024,3 +1024,29 @@ May. 05, 2019
 	19:51 P1 = 0.004 Bar, T_still = 657 mK. close V4 and open V9 to remove some mixture from circulation.
 	20:21 Start refilling nitrogen cold trap dewar.
 	20:33 T_mc = 417 mK, T_cold = 584 mK, T_still = 677 mK. P1 = 0.022, P4 = 0.11 mBar. Turn on still heater (1 mW).
+	20:42 Turn off still heater.
+	21:54 T_mc = 426 mK, T_cold = 460 mK, T_still = 717 mK, P4 = 0.16 mBar, P1 = 0.045 Bar, close V4.
+	21:57 Turn on still heater (3 mW).
+	22:04 T_still = 960 mK, change still heater power to 2 mW.
+	22:06 T_1K rose up to 1.98 K, turn off still heater.
+	22:11 T_1K = 2.13 K, T_mc = 394 mK, T_cold = 416 mK, T_still = 856 mK. P4 = 0.86 mBar, P1 = 0.045 Bar.
+		Note: The mixing chamber and cold plate temperatures are rapidly dropping.
+	22:26 P2, P5, as well as P4 has been steadily going up, which results in a warmer 1K pot temperature (T_1K= 2.21 mK), open V4 to remove some mixture from circulation.
+	22:30 P1 = 0.055 Bar, close V4.
+	22:34 Turn on still heater (2 mW).
+	22:42 T_mc = 232.2 mK, T_cold = 274 mK, T_still = 931 mK, T_1K = 1.95 K, P4 = 0.84 mBar. Turn off still heater.
+	23:12 T_mc = 151 mK, T_cold = 226 mK, T_still = 776 mK, T_1K = 1.75 K, T_cav = 155 mK. P4 = 0.2 mBar.
+	23:15 P1 = 0.055 Bar, open V9 to put some mixture into circulation.
+	23:16 P1 = 0.050 Bar, close V9.
+	23:21 P1 = 0.050 Bar, open V4 and remove some mixture from circulation.
+		Note: putting in more mixture appears to have lowered the temperature, hence remove some mixture to have the mixing chamber stablizes at a higher temperature.
+	23:27 P1 = 0.055 Bar, close V4. T_mc = 133.9 mK, T_ cav = 139 mK, T_cold = 204.5 mK, T_still = 749 mK, T_1K = 1.48 K.
+		Note: The temperature trend for mixing chamber appears to be unchanged. Remove all but 0.3 L of mixture from the dump and put it in circulation.
+	23:39 T_1K = 2.5 K. close V4, V1, and open V9 to remove some mixture from circulation.
+		Note: Had to abort putting in more mixture as there isn't enough 1K pot cooling power to sustain higher flow. P2 and P5 rose above 400 mBar, and P4 rose above 4 mBar, turbo pump power input rose to 170 W.
+	23:47 P1 = 0.055 Bar, close V4 and open V1.
+May. 06, 2019
+	00:06 T_mc = 75.4 mK, T_cold = 172 mK, T_still = 776 mK, P4 = 0.19 mBar. 
+	08:04 T_mc = 104.5 mK, turn on mixing chamber heater (1 mA range) and set the temperature to 200 mK.
+	11:15 T_mc = 199.9 mK, T_1K = 1.35 K, T_cold = 235.2 mK, T_still = 740 mK, P4 = 0.19 mBar.
+	19:30 T_mc = 200 mK, T_1K = 1.35 K, T_cold = 258 mK, T_still = 740 mK. Set mixing chamber temperature to 500 mK.
