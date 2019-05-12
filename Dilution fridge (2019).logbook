@@ -1113,3 +1113,24 @@ May. 10, 2019
 	09:59 Turn off mixing chamber heater and turbo pump, close V1, and open V4, turn on sorb heater (30 mW) to recollect some mixture back into the dump.
 	10:14 P1 = 0.617 Bar, close V4 and open V1.
 	11:37 Set mixing chamber temperature to 1.2 K.
+	10:22 Set mixing chamber temperature to 1.4 K.
+May. 11, 2019
+	09:57 Turn off mixing chamber heater, P1 = 0.615 Bar, close V1 and open V4, turn on sorb heater (30 mW) to remove some mixture from circulation.
+	10:08 P1 = 0.670 Bar, close V4 and open V1. Turn off sorb heater, set mixing chamber temperature to 2 K.
+	10:16 P4 = 5.2 mBar, close V1 and open V4, turn off mixing chamber heater.
+	10:18 P1 = 0.690 Bar, close V4 and open V1.
+		Note: Mixing chamber temperature suddenly rose over 4 K, might suggest a sudden loss of helium-3 component in the mixture.
+	10:28 Set the mixing chamber temperature to 2 K.
+	10:48 T_mc = 2.00 K.
+	21:33 Turn off mixing chamber heater, open V4 and close V1 to remove some mixture from circulation.
+	21:39 Turn on sorb heater (20 mw).
+	21:45 Turn off sorb heater, P1 = 0.700 Bar, close V4, and open V1.
+	21:47 Set mixing chamber temperature to 3 K.
+May. 12, 2019
+	08:38 P1 = 0.700 Bar, turn off mixing chamber heater, close V1, and open V4 to collect all mixture back into the dump. Turn on sorb heater (3 mW).
+	09:01 P1 = 0.755 Bar, turn on turbo pump.
+	09:32 Change sorb heater power to 4 mW.
+	09:39 Turn on still heater 1 mW.
+	09:57 Change sorb heater power to 5 mW.
+	10:08 Change sorb heater power to 7 mW.
+	10:13 Change sorb heater power to 9 mW.

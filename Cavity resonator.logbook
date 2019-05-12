@@ -106,3 +106,6 @@ May. 09, 2019
 	23:50 T_mc = 1.04 K. Start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
 May. 10, 2019
 	12:03 T_mc = 1.19 K. Start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
+May. 11, 2019
+	10:47 T_mc = 1.99 K, T_cav = 1.89 K (inaccurate), start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	10:09 T_mc = 3.03 K, T_cav = 2.68 K (inaccurate), start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.40 GHz and 3.58 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
