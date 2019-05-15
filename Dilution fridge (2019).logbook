@@ -1127,10 +1127,55 @@ May. 11, 2019
 	21:45 Turn off sorb heater, P1 = 0.700 Bar, close V4, and open V1.
 	21:47 Set mixing chamber temperature to 3 K.
 May. 12, 2019
-	08:38 P1 = 0.700 Bar, turn off mixing chamber heater, close V1, and open V4 to collect all mixture back into the dump. Turn on sorb heater (3 mW).
+	08:38 P1 = 0.700 Bar, turn off mixing chamber heater, close V1, and open V4 to collect all mixture back into the dump. Turn on sorb heater (30 mW).
 	09:01 P1 = 0.755 Bar, turn on turbo pump.
 	09:32 Change sorb heater power to 4 mW.
 	09:39 Turn on still heater 1 mW.
 	09:57 Change sorb heater power to 5 mW.
 	10:08 Change sorb heater power to 7 mW.
 	10:13 Change sorb heater power to 9 mW.
+	11:15 Open bypass valve. 4He level = 26.5%.
+	11:26 P1 = 0.774 Bar, P5 = 0.000 Bar, close SV3, turn off all heaters. 
+	11:29 Close V12, and start extracting helium cold trap and nitrogen trap.
+	11:33 Close V5, and turn off forepump.
+	11:45 Start pumping on the nitrogen cold trap at room temperature.
+	11:54 Start extracting the fridge.
+	12:21 Extraction complete, 4He level = 23%. put some helium-4 exchange gas into the vacuum chamber to warm up the unit.
+	13:09 Start pumping on the dilution unit at the room temperature.
+	15:45 Pressure inside the dilution unit reached 1.2E-5 mBar. Close V12 and SV3. Stop pumping.
+May. 13, 2019
+	10:45 Pressure inside the vacuum chamber reached 1.0E-5 mBar, stop pumping.
+	10:50 Put some helium-4 exchange gas into vacuum chamber and flush the 1K pot pumping line for one minute.
+	10:58 4He level = 23.1%. Start inserting the fridge into the cryostat, connect the primary helium recovery line to the secondary one.
+	13:12 Insert complete, 4He level = 17.2%.
+	14:08 Start to insert Helium cold trap.
+	14:12 Temperatures of all stages reached ~4K, turn on sorb heater (160 mW) and start extracting helium exchange gas out of the vacuum chamber.
+	14:30 Change sorb heater power to 20 mW, start transferring helium into the cryostat.
+	15:17 Pressure inside the vacuum chamber reached 8E-6 mBar, stop pumping and turn off sorb heater.
+	15:45 4He level = 56.3%, stop transferring.
+	16:22 Start 1K pot.
+	16:27 Open V12, SV3, SV1 and start condensing sequence.
+	17:47 P1 = 0.012 Bar, turn off still heater, and open V9 to completely empty the dump.
+	19:05 P1 = 0.001 Bar, close V9.
+	19:47 T_mc = 149.7 mK, T_cold = 162.9 mK, T_still = 828 mK, P4 = 0.62 mBar. P1 = 0.002 Bar, open V4 to remove some mixture from circulation.
+	20:20 T_mc = 155.7 mK, T_still = 745 mK, P4 = 0.16 mBar. Close V1.
+	20:43 Open V1 and turn on still heater (2 mW).
+	20:56 P1 = 0.042 Bar, T_still = 926 mK, close V4 and change still heater power to 1 mW.
+	22:24 T_mc = 61.74 mK, T_cold = 134 mK, T_still = 914 mK. P4 = 0.95 mBar. 
+	23:23 Changet still heater power to 1.5 mW.
+May. 14, 2019
+	07:50 Set mixing chamber temperature to 200 mK, and turn off still heater.
+	19:40 Turn off turbo pump and mixing chamber heater. Turn on sorb heater (20 mW), close V1 and open V4 to recollect all mixture back to the dump.
+	19:41 Turn on still heater (2 mW).
+	20:00 Change sorb heater power to 30 mW.
+	20:59 P1 = 0.120 Bar, T_still = 1.1 K, T_mc = 126.5 mK. change sorb heater power to 40 mW.
+	21:24 Change sorb heater power to 50 mW.
+	21:49 Change sorb heater power to 60 mW.
+	22:28 change sorb heater power to 70 mW.
+	23:22 Turn off sorb heater.
+May. 15, 2019
+	06:25 T_mc = 835 mK, T_still = 4.2 K. P1 = 0.456 Bar. Turn on sorb heater (80 mW).
+	09:04 P1 = 0.650 Bar, turn on turbo pump.
+	10:49 P1 = 0.772 Bar, P5 = 0.001 Bar, close 1K pot pumpingline, turn on sob heater (200 mW).
+	10:59 Close V4, V5, turn off turbo pump, turn off all heaters.
+	11:05 Start extracting the fridge from the cryostat.
