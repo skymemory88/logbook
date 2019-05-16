@@ -1201,3 +1201,5 @@ May. 16, 2019
 	15:13 P1 = 0.050 Bar, close V4.
 	15:16 Turn on still heater (2 mW).
 	15:51 T_still = 857 mK, change still heater power to 2.5 mW.
+	17:35 T_mc = 59.2 mK.
+	18:05 T_mc = 54.8 mK, T_cold = , T_still = .
