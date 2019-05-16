@@ -1179,3 +1179,25 @@ May. 15, 2019
 	10:49 P1 = 0.772 Bar, P5 = 0.001 Bar, close 1K pot pumpingline, turn on sob heater (200 mW).
 	10:59 Close V4, V5, turn off turbo pump, turn off all heaters.
 	11:05 Start extracting the fridge from the cryostat.
+	18:23 The pressure inside the vacuum chamber reached 9E-5 mbar, close the pumping line.
+	18:35 Put some helium-4 exchange gas into the vacuum chamber and start flushing the 1K pot pumping line with helium 4 gas.
+	18:40 Start to insert the fridge into the cryostat.
+	20:19 Insert complete.
+May. 16, 2019
+	08:06 Insert helium cold trap.
+	08:07 Turn on sorb heater (30 mW), and start extracting exchange gas from the vacuum chamber.
+	08:12 4He level = 20.7%, start transferring liquid helium into the cryostat.
+	08:43 Pressure inside the vacuum chamber reached 1.8-5 mBar, stop pumping and turn off sorb heater.
+	10:05 4He level = 61.5%, stop transferring.
+	10:10 Start 1K pot pumping line.
+	10:14 T_1K = 1.6 K, open SV1, SV3, V12, V1, and close bypass valve, start condensing sequence.
+	13:30 P1 = 0.001 Bar, close V9, T_still = 732 mK, open V4 to remove some mixture from circulation.
+	14:11 P1 = 0.030 Bar, close V4.
+	14:51 Turn on still heater (1 mw).
+	14:19 T_still = 765 mK, P4 = 0.18 mBar, open V4 to remove some mixture from circulation.
+	14:38 T_still = 776 mK, turn off still heater.
+	14:45 P1 = 0.046 Bar, close V4.
+	15:08 T_still = 727 mK, P4 = 0.17 mBar, open V4.
+	15:13 P1 = 0.050 Bar, close V4.
+	15:16 Turn on still heater (2 mW).
+	15:51 T_still = 857 mK, change still heater power to 2.5 mW.

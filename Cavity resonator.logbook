@@ -116,4 +116,4 @@ May. 13, 2019
 May. 14, 2019
 	09:20 T_mc = 200 mK, start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.31 GHz and 3.55 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
 May. 15, 2019
-	11:33 Mount a LiHoF4 sample (SC00000107) onto the cavity (d24mm_t5mm_g0.6mm) against the wall of the inner protrusion using superglue, set at room temperature to cure.  
+	11:33 Mount a LiHoF4 sample (SC00000107) onto the cavity (d24mm_t5mm_g0.6mm) against the wall of the inner protrusion using superglue, set at room temperature to cure. Apply GE varnish around it for security as well thermalization.
