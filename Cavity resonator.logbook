@@ -118,4 +118,12 @@ May. 14, 2019
 May. 15, 2019
 	11:33 Mount a LiHoF4 sample (SC00000107) onto the cavity (d24mm_t5mm_g0.6mm) against the wall of the inner protrusion using superglue, set at room temperature to cure. Apply GE varnish around it for security as well thermalization.
 May. 16, 2019
-	17:38 T_mc = 59.3 mK, T_cav = 80 mK. start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.755 GHz and 4.935 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	17:38 T_mc = 59.3 mK, T_cav = 80 mK. Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.755 GHz and 4.935 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+May. 17, 2019
+	09:45 T_mc = 296 mK. Start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 4.845 GHz and 4.935 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	20:45 T_mc = 501 mK, T_cav = 492 mK. Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.840 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+May. 18, 2019
+	08:45 T_mc = 805 mK, Start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 4.810 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+	20:00 T_mc = 500 mK, Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
+May. 19, 2019
+	10:48 T_mc = 56.2 mK, Start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.018 T/min and frequency between 4.810 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
