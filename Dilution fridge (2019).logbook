@@ -1227,3 +1227,15 @@ May. 19, 2019
 	20:01 Open bypass valve, switch off mixing chamber heater (T_mc = 1.2 K).
 	20:03 4He level = 53.6%, stop transferring.
 	20:25 4He level = 50.8%. P1 = 0.600 Bar, close V4 and open V1, switch off all heaters, close bypass valve, open 1K pot pumping line.
+	20:36 Turn on turbo pump.
+	21:20 Set mixing chamber temperature to 1.0 K.
+	22:01 T_mc = 1.002 K.
+May. 20, 2019
+	08:41 T_mc = 998 mK, P4 = 0.9 mBar. Turn off turbo pump and mixing chamber heater.
+	13:13 T_mc = 1.306 K.
+	21:30 Open V4 and turn on sorb heater (50 mW) and mixing chamber heater (5 mW), close V1, 
+	21:50 P1 = 0.670 Bar, close V4, and open V1, turn off all heaters. Set mixing chamber temperature to 1.6 K.
+	22:32 T_mc = 1.607 K.
+May. 21, 2019
+	08:55 Turn on sorb heater (50 mW) and mixing chamber heater (5 mw), close V1 and open V4 to recollect all mixtures.
+	09:16 Close 1K pot pumping line and open bypass valve.
