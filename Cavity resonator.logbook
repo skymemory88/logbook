@@ -131,3 +131,15 @@ May. 19, 2019
 May. 20, 2019
 	13:12 T_mc = 1.306 K, start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.018 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
 	22:36 T_mc = 1.607 K, start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
+Jul. 26, 2019
+	21:50 T_mc = 54 mK, T_cav = 146 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.41 and 3.56 GHz at power of -30 dBm.
+		Note: The big temperature difference between the cavity and the mixing chamber suggests either a lack of cooling power or poor thermal connections between the two.
+Jul. 27, 2019
+	09:54 T_mc = 54 mK, T_cav = 163 mK (under 9T magnetic field).
+	14:13 T_mc = 268 mK, T_cav = 254 mK (under 9T magnetic field).
+	14:43 T_cav = 254 mK (under 9T magnetic field), start S11 measurement while sweeping magnetic field from 9 to 0 T at 0.02 T/min and frequency range between 3.50 and 3.62 GHz at power of -30 dBm.
+Jul. 28, 2019
+	01:20 T_cav = 396 mK (under 9T magnetic field), start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency range between 3.50 and 3.56 GHz at power of -30 dBm.
+	13:14 T_cav = 136 mK (Under 9T magnetic field), start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency range between 3.50 and 3.56 GHz at power of -10 dBm.
+Aug. 06, 2019
+	17:11 Re-adjust the antenna position in the cavity and detune S11 signal at 300K, start evaculating the vacuum chamber.
