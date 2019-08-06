@@ -131,6 +131,8 @@ May. 19, 2019
 May. 20, 2019
 	13:12 T_mc = 1.306 K, start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.018 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
 	22:36 T_mc = 1.607 K, start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
+Jul. 25, 2019
+	15:30 Mount LiHoF4 sample (SC) to the cavity with superglue flat to the bottom ring of the cavity. Air dried for one hour at room temperature.
 Jul. 26, 2019
 	21:50 T_mc = 54 mK, T_cav = 146 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.41 and 3.56 GHz at power of -30 dBm.
 		Note: The big temperature difference between the cavity and the mixing chamber suggests either a lack of cooling power or poor thermal connections between the two.
