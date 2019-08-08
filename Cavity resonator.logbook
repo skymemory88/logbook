@@ -145,3 +145,7 @@ Jul. 28, 2019
 	13:14 T_cav = 136 mK (Under 9T magnetic field), start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency range between 3.50 and 3.56 GHz at power of -10 dBm.
 Aug. 06, 2019
 	17:11 Re-adjust the antenna position in the cavity and detune S11 signal at 300K, start evaculating the vacuum chamber.
+Aug. 07, 2019
+	07:12 T_mc = 61.5 mK, T_still = 792 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.48 and 3.60 GHz at power of -30 dBm.
+		Note: The cavity thermometer mulfunctioned (suspecting short from exposed wires) and hence cannot read out cavity temperature, using mixing chamber temperature as reference.
+		Note: Field scan complete, data suggests there is no coupling between the cavity and the sample, suspect the sample came loose or broke.
