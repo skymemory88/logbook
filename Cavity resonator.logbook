@@ -149,3 +149,6 @@ Aug. 07, 2019
 	07:12 T_mc = 61.5 mK, T_still = 792 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.48 and 3.60 GHz at power of -30 dBm.
 		Note: The cavity thermometer mulfunctioned (suspecting short from exposed wires) and hence cannot read out cavity temperature, using mixing chamber temperature as reference.
 		Note: Field scan complete, data suggests there is no coupling between the cavity and the sample, suspect the sample came loose or broke.
+Aug. 12, 2019
+	15:20 Mount the LiHoF4 sample (SC00000125) onto the bottom of the cavity (d24mm_t5mm_g0.8mm) with superglue, dry in air and low heat (from the lamp) for one hour.
+	18:23 Detune the coupling between the antenna and cavity.
