@@ -1332,3 +1332,18 @@ Aug. 08, 2019
 	17:20 Disconnect all bellows and start extracting the fridge from the cryostat.
 Aug. 12, 2019
 	18:24 Close the vacuum chamber and start to evacuating it.
+Aug. 13, 2019
+	09:51 Vacuum chamber pressure reached 1.5E-5 mBar, stop pumping.
+	10:02 Put some Helium exchannge gas into the vacuum chamber and start flush 1K pot pumping line with pure helium.
+	10:10 Start to insert the fridge into the cryostat. 4He level = 70.1%.
+	12:15 Insert complete, 4He level = 61.4%.
+	13:22 Start to insert helium cold trap.
+	13:29 Start evacuating the vacuum chamber, turn on still heater at 150 mW.
+	13:31 T_1K = 4.6 K, T_sorb = 17.3 K.
+	13:55 Pressure inside the vacuum chamber reached 2.2E-5 mBar, close the valve and stop pumping. Switch off sorb heater.
+	13:56 Start fore pump and 1K pot.
+	14:00 T_1K = 1.39 K, T_still = 3.86 K, T_mc = 4.28 K. Close bypass valve, open SV3, SV1, V12, and start condensing sequence.
+		Note: The still heater again over heated the still to above 2K, and forced the turbo pump to switch off by the safety check.
+	16:08 T_1K = 1.606 K, T_cold = 222 mK, T_still = 837 mK, T_mc = 204.9 mK, open V9 to completely empty the dump.
+	17:27 P1 = 0.001 Bar, close V9 and open V4 to remove some mixture from circulation. T_mc = 253 mK, T_still = 737 mK.
+	19:07 P1 = 0.052 Bar, close V4.
