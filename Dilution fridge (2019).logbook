@@ -1347,3 +1347,16 @@ Aug. 13, 2019
 	16:08 T_1K = 1.606 K, T_cold = 222 mK, T_still = 837 mK, T_mc = 204.9 mK, open V9 to completely empty the dump.
 	17:27 P1 = 0.001 Bar, close V9 and open V4 to remove some mixture from circulation. T_mc = 253 mK, T_still = 737 mK.
 	19:07 P1 = 0.052 Bar, close V4.
+	21:31 T_mc = 58.7 mK, T_still = 815 mK, T_cold = 191.6 mK, P4 = 0.35 mBar.
+	22:02 T_mc = 58.0 mK, T_still = 816 mK, T_cold = 190.7 mK, P4 = 0.36 mBar.
+Aug. 14, 2019
+	08:31 T_mc = 58.0 mK, T_still = 813 mK, T_cold = 183.6 mK.
+	15:29 Turn off turbo pump, close 1K pot pumping line, open bypass valve, close V1 and SV3, turn on still heater at 100 uW and start to collect mixtures back into the dump.
+	15:54 Change still heater to 500 uW and turn on sorb heater at 150 mW.
+	17:00 Turn on turbo pump to completely empty the dilution fridge unit.
+	17:30 Close V4, V12, SV1, and turn off turbo pump. Remove helium cold trap.
+	17:40 Switch off forepupm and start to remove the fridge from the cryostat, 4He level = 48.4%.
+	18:14 Removal complete, 4He level = 43.5%.
+Aug. 15, 2019
+	13:20 Seal the vacuum chamber and start evacuating it.
+	18:37 Pressure inside the vacuum chamber reached 4.6E-5 mBar, close the valve and stop the pump. Start evacuating the condensing line at room temperature.

@@ -152,3 +152,11 @@ Aug. 07, 2019
 Aug. 12, 2019
 	15:20 Mount the LiHoF4 sample (SC00000125) onto the bottom of the cavity (d24mm_t5mm_g0.8mm) with superglue, dry in air and low heat (from the lamp) for one hour.
 	18:23 Detune the coupling between the antenna and cavity.
+Aug. 13, 2019
+	21:33 T_cav = 74.9 mK.
+	22:02 T_cav = 74.5 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.48 and 3.60 GHz at power of -30 dBm.
+Aug. 14, 2019
+	08:41 T_mc = 58.0 mK, T_cav = 58.2 mK (in magnetic field, possibly is actually at 74.5 mK). Start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.025 T/min and frequency between 3.525 and 3.555 GHz at power of -10 dBm.
+Aug. 15, 2019
+	10:20  Mount the LiHoF4 sample (SC) onto the bottom of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue, dry in air and low heat (from the lamp) for one hour.
+	12:23 Detune the coupling between the antenna and cavity, close and seal vacuum chamber.
