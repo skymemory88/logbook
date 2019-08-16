@@ -1360,3 +1360,14 @@ Aug. 14, 2019
 Aug. 15, 2019
 	13:20 Seal the vacuum chamber and start evacuating it.
 	18:37 Pressure inside the vacuum chamber reached 4.6E-5 mBar, close the valve and stop the pump. Start evacuating the condensing line at room temperature.
+Aug. 16, 2019
+		09:35 Put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping lin with pressurized helium gas for one minute.
+		09:52 P_cryo = 38 mBar, 4He level = 41.5%. Start lowering the fridge into the cryostat.
+		12:15 Insert complete, 4He level = 33.1%. Start transferring helium into the cryostat. 
+		13:35 Transfer complete, 4He level = 58.3%.
+		13:48 T_mc = 4.3 K, T_sorb = 4.1 K, turn on sorb heater (150 mW) and start extracting exchange gas from vacuum chamber. Insert helium cold trap.
+		14:03 Pressure inside vacuum chamber reached 2.5E-5 mBar, close the valve and stop pumping. Switch off sorb heater.
+		14:10 Start 1K pot. Close bypass valve, open SV3, V12, SV1 and start condensing sequence. 
+		15:15 Condensing sequence complete, turn off automatically-turned-on still heater and open V9 to completely empty the dump. T_mc = 699 mK.
+		16:56 T_still = 751 mK, T_mc = 255 mK. P1 = 0.001 Bar, Close V9 and open V4 to remove some mixtures to the dump.
+		18:38 P1 = 0.054 Bar, close V4. T_mc = 201 mK, T_still = 766 mK, T_cold = 301 mK, T_1K = 1.46 K, P4 = 0.28 mBar.
