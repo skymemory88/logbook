@@ -161,3 +161,11 @@ Aug. 15, 2019
 	10:20  Mount the LiHoF4 sample (SC) onto the bottom of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue, dry in air and low heat (from the lamp) for one hour.
 	12:23 Detune the coupling between the antenna and cavity, close and seal vacuum chamber.
 Aug. 16, 2019
+	22:30 T_mc = 58.1 mK, T_cav = 81 mK. start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.62 and 3.74 GHz at power of -30 dBm.
+Aug. 17, 2019
+	13:45 T_mc = 274 mK, T_cav = 274 mK. start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
+Aug. 18, 2019
+	 00:20 T_mc = 59.7 mK, T_cav = 76.8 mK. start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -10 dBm.
+		 Note: Data at higher field range appears to have lower quality factor, suspected this has soame thing to do with the field scan rate, therefore will reduce the rate in the next scan to 0.015 T/min from the current 0.02 T/min.
+	 09:20 T_mc = 160 mK, start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
+	 	Note: The data at lower fields didn't turn out, it appeared the field rapidly dropped zero after 2T, causing cavity temperature drastically rose due to eddy current. Reasons unknow. Suspecting the liquid helium level is low.
