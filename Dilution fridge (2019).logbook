@@ -1388,3 +1388,15 @@ Aug. 18, 2019
 	19:06 T_mc = 160 mK, P4 = 0.37 mBar, Set mixing chamber temperature to 360 mK.
 	19:39 T_mc = 357 mK, turn off mixing chamber heater and turbo pump.
 		Note: Suspecting liquid helium level is low from the latest set of data, switch off turbo pump for safety.
+Aug. 19, 2019
+	08:00 4He level = 2.2%.
+		Note: The dilution system warmed up abruptly around 4 am as liquid helium ran hour. Suspecting the vector magnet cryostat removed most of it to it. System safety check prevented the overpressure and opened V4 to the dump. P1 = 745 mBar.
+	08:08 Start transferring helium into the 18T cryostat.
+	09:46 4He level = 83.5%, stop transferring.
+	09:50 Start automatic condensing sequence.
+	10:37 P1 = 0.011 Bar, turn off still heater that automatically came on. Open V4 to completely empty the dump.
+	11:44 T_mc = 445 mK, T_still = 714 mK, P1 = 0.002 Bar.
+	12:05 T-mc = 445 mK, P1 = 0.001 Bar, T_still = 714 mK, open V4 and remove some mixture from circulation.
+	13:58 P1 = 53 mBar, close V4.
+	17:14 T_mc = 72.28 mK, T_still = 814 mK, P4 = 0.32 mBar.
+	19:09 T_mc = 58.7 mK, T_still = 817 mK, T_1K = 1.44 K, P4 = 0.31 mBar.

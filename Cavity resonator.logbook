@@ -19,7 +19,7 @@ Apr. 09, 2019
 		Note: Temperature reading at this field may be incorrect due to magnetoresistance.
 Apr. 10, 2019
 	14:20 Mount the cavity with the LiHoF4 inside onto the mixing chamber with th new holding rod. Under couple the antenna and the rest of the system. Close up the vacuum chamber and start pumping.
-	19:45 Pressure inside reaches 
+	19:45 Pressure inside reaches 4E-5 mBar.
 Apr. 11, 2019
 	14:53 Could not get any resonating signal from the cavity. T_cav = 4.59 K. 
 		Note: Decided to carry on to test the thermalization of the new installment.
@@ -169,3 +169,5 @@ Aug. 18, 2019
 		 Note: Data at higher field range appears to have lower quality factor, suspected this has soame thing to do with the field scan rate, therefore will reduce the rate in the next scan to 0.015 T/min from the current 0.02 T/min.
 	 09:20 T_mc = 160 mK, start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
 	 	Note: The data at lower fields didn't turn out, it appeared the field rapidly dropped zero after 2T, causing cavity temperature drastically rose due to eddy current. Reasons unknow. Suspecting the liquid helium level is low.
+Aug. 19, 2019
+	19:09 T_mc = 58.6 mK, T_cav = 77 mK,start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -20 dBm.
