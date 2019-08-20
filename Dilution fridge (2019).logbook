@@ -1400,3 +1400,14 @@ Aug. 19, 2019
 	13:58 P1 = 53 mBar, close V4.
 	17:14 T_mc = 72.28 mK, T_still = 814 mK, P4 = 0.32 mBar.
 	19:09 T_mc = 58.7 mK, T_still = 817 mK, T_1K = 1.44 K, P4 = 0.31 mBar.
+Aug. 20, 2019
+	07:40 T_mc = 58.7 mK, T_still = 816 mK, P4 = 0.34 mBar.
+	11:05 T_mc = 67.9 mK, T_still = 820 mK, P4 = 0.32 mBar.
+		Note: there appears to be some heating from the excitation by ZVL network analyzer at -3 dBm. 
+	14:13 T_mc = 69.03 mK, T_still = 816 mK, P4 = 0.32 mBar.
+	14:51 T_mc = 69.6 mK, T_still = 814 mK. P4 = 0.32 mBar.
+	18:41 T_mc = 71.2 mK, T_still = 814 mK, P4 = 0.31 mBar.
+	19:01 T_mc = 74.4 mK, T_still = 816 mK, P4 = 0.33 mBar.
+	19:27 T_mc = 75.8 mK, T_still = 818 mK, P4 = 0.32 mBar.
+	20:09 T_mc = 76.5 mK, T_still = 820 mK, P4 = 0.32 mBar.
+	20:28 T_mc = 76.6 mK, T_still = 815 mK, P4 = 0.33 mBar.

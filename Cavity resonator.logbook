@@ -171,3 +171,14 @@ Aug. 18, 2019
 	 	Note: The data at lower fields didn't turn out, it appeared the field rapidly dropped zero after 2T, causing cavity temperature drastically rose due to eddy current. Reasons unknow. Suspecting the liquid helium level is low.
 Aug. 19, 2019
 	19:09 T_mc = 58.6 mK, T_cav = 77 mK,start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -20 dBm.
+Aug. 20, 2019
+	07:50 T_mc = 58.7 mK, T_cav = 0.59 mK (in 9T magnetic field, possibly is actually at 77 mK),start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -3 dBm.
+		Note: It appears the data from 0.015 T/min scan always look sharper than those from 0.02 T/min scan.
+	11:08 T_mc = 67.9 mK, T_cav = 79 mK (in 6T magnetic field).
+		Note: there appears to be some heating from the excitation by ZVL network analyzer at -3 dBm. 
+	18:41 T_mc = 71.2 mK, T_cav = 90.7 mK.
+		Note: changing the excitation energy from -3 dBm to 0 dBm has appreciable heating effect as the temperature rose from 90.7 mK to 95 mK.
+	19:01 T_mc = 74.4 mK, T_cav = 100.8 mK.
+	19:01 T_mc = 75.8 mK, T_cav = 101.5 mK.
+	20:08 T_mc = 76.5 mK, T_cav = 102.1 mK.
+	20:27 T_mc = 76.6 mK, T_cav = 102.2 mK, start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of 0 dBm.
