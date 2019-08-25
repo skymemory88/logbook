@@ -1442,3 +1442,13 @@ Aug. 23, 2019
 	18:39 T_mc = 144.4 mK, turn on mixing chamber heater and set to 210 mK.
 	19:05 4He level = 94.8%, stop transferring.
 	19:17 T_mc = 210.2 mK.
+Aug. 24, 2019
+	06:36 T_mc = 209.6 mK, set mixing chamber temperature to 300 mK.
+	15:13 T_mc = 300 mK, P4 = 0.35 mBar.
+Aug. 25, 2019
+	07:30 T_mc = 300 mK, turn off mixing chamber thermometer.
+	07:44 T_still = 820 mK, turn on still heater at 160 uW.
+	07:56 T_still = 890 mK.
+	08:08 Turn on mixing chamber thermometer and set mixing chamber temperature to 240 mK.
+	15:33 T_mc = 240 mK, set mixing chamber temperature to 220 mK.
+	15:46 Set mixing chamber temperature to 210 mK.

@@ -198,3 +198,11 @@ Aug. 23, 2019
 	08:08 T_mc = 210 mK. Start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -10 dBm.
 	18:40 Set excitation power to 0 dBm.
 	19:18 T_mc = 210,2 mK, T_cav = 206 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of 0 dBm. 
+Aug. 24, 2019
+	07:20 T_mc = 300 mK, T_cav = 300 mK. Start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
+	15:33 T_mc = 300 mK, T_cav = 295 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -10 dBm.
+	22:05 T_mc = 300 mK, T_cav = 295 mK. Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of 0 dBm.
+Aug. 25, 2019
+	08:08 T_mc = 240 mK, T_cav = 300 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of +10 dBm.
+	15:36 T_cav = 263 mK (in 6T magnetic field), set network analyzer excitation power to +13 dBm.
+	17:00 T_cav = 263 mK (in 6T magnetic field), Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of +13 dBm.
