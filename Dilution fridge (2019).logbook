@@ -1452,3 +1452,16 @@ Aug. 25, 2019
 	08:08 Turn on mixing chamber thermometer and set mixing chamber temperature to 240 mK.
 	15:33 T_mc = 240 mK, set mixing chamber temperature to 220 mK.
 	15:46 Set mixing chamber temperature to 210 mK.
+Aug. 26, 2019
+	00:18 T_mc = 210 mK, set mixing chamber temperature to 170 mK.
+	00:33 T_mc = 212 mK, turn off mixing chamber thermometer.
+	01:16 T_mc = 227 mK, T_still = 913 mK. change still heater power to 150 uW.
+	07:50 T_mc = 170 mK, Turn off still heater, and set still heater power to 160 uW.
+	08:08 T_mc - 120 mK, T_still = 878 mK. Set the mixing chamber temperature to 300 mK.
+	12:17 4He level = 31.8%.
+	16:43 4He level = 28.1 %, T_mc = 300 mK. Close 1K pot pumping line, switch off turbo pump, open V4 and close V1, open bypass valve. Turn on sorb heater at 150 mW, and turn off still heater, start recollecting mixtures back into the dump.
+	17:41 P1 = 783 mBar, P2 = 0.001 Bar. turn on turbo pump.
+	18:00 Turn off turbo pump, and remove helium cold trap. Start removing the fridge from the cryostat.
+	18:53 Fridge removal complete. 4He level = 27.3%.
+Aug. 27, 2019
+	18:30 Close and seal the vacuum chamber, start evacuating the vacuum chamber.
