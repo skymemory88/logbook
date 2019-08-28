@@ -1465,3 +1465,17 @@ Aug. 26, 2019
 	18:53 Fridge removal complete. 4He level = 27.3%.
 Aug. 27, 2019
 	18:30 Close and seal the vacuum chamber, start evacuating the vacuum chamber.
+Aug. 28, 2019
+	13:38 Pressure inside the vacuum chamber reached 9.6E-6 mbar, stop pumping on it.
+	13:51 Put some helium-4 exchange gas into the vacuum chamber and flush the 1K pot pumping line for one minute with pressurized helium gas.
+	13:58 Connect secondary recovery line to the primary one, and start inserting the fridge into the cryostat. 4He level = 20.9%.
+	15:15 Insert complete, 4He level = 2.2%
+	16:00 Start transferring helium into cryostat.
+	16:46 T_mc = 4.32 K, T_still = 3.86 K, T_sorb = 4.27 K, turn on sorb heater and start extracting helium exchange gas from the vacuum chamber.
+	17:06 Start refilling nitrogen cold trap.
+	17:08 Pressure inside vacuum chamber reached 1.9E-5 mBar, close valve and turn off sorb heater.
+	17:31 4He level = 69.1%, stop transferring.
+	17:41 Start forepump and 1K pot.
+	17:42 Open V5, V12, SV1, SV3, and close bypass valve.
+	17:45 T_1K = 1.6 K, start condensing sequence.
+	18:49 Condensing sequence complte. Turn off still heater immediately after it came on automatically and open V9 to completely empty the dump.
