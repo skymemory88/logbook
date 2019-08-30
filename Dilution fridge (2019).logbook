@@ -1479,3 +1479,23 @@ Aug. 28, 2019
 	17:42 Open V5, V12, SV1, SV3, and close bypass valve.
 	17:45 T_1K = 1.6 K, start condensing sequence.
 	18:49 Condensing sequence complte. Turn off still heater immediately after it came on automatically and open V9 to completely empty the dump.
+	22:38 P1 = 0.053 Bar, clove V4.
+	11:50 T_still = 724 mK, turn on still heater at 150 uW.
+Aug. 29, 2019
+	00:17 T_still = 813 mK. change still heater power to 160 uW.
+	05:15 T_mc = 56.12 mK, T_still = 840 mK.
+	10:26 T_mc = 56.87 mK, T_still = 840 mK, T_cold = 133 mK, P4 = 0.35 mBar. 4He level = 57%.
+	12:33 T_mc = 56.6 mK, T_still = 838 mK, T_cold = 132 mK, P4 = 0.35 mBar.
+	12:39 Change still heater power to 170 uW.
+	12:46 T_mc = 56.6 mK, T_still = 843 mK, P4 = 0.37 mBar. Change still heater power to 190 uW.
+	12:53 Change still heater power to 200 uW.
+Aug. 30, 2019
+	10:15 4He level = 31.5%, start transferring helium into the cryostat.
+	11:30 Transfer complete, 4He level = 47.6%. T_mc = 153.4 mK, T_still = 855 mK, T_1K = 1.35 K, P4 = 0.4 mBar.
+	11:50 Change still heater power to 230 uW.
+	12:07 T_mc = 175 mK. Change still heater power to 270 uW.
+	12:38 T_mc = 170 mK, T_still = 886 mK, change still heater power to 300 uW.
+	12:48 T_mc = 168.2 mK, T_still = 900 mK, P4 = 0.52 mBar.
+	13:05 T_mc = 164 mK, T_still = 899 mK, P4 = 0.53 mBar, set the mixing chamber temperature to 200 mK with closed loop heater control (PID = 10, 50, 20).
+	13:24 T_mc = 200 mK, switch off mixing chamber heater (Cavity excitation power changed to +15 dBm).
+	14:32 T_mc = 185 mK. Set mixing chamber temperature to 170 mK with closed loop heater control (PID = 10, 50, 20).

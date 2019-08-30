@@ -166,9 +166,9 @@ Aug. 16, 2019
 Aug. 17, 2019
 	13:45 T_mc = 274 mK, T_cav = 274 mK. start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
 Aug. 18, 2019
-	 00:20 T_mc = 59.7 mK, T_cav = 76.8 mK. start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -10 dBm.
+	00:20 T_mc = 59.7 mK, T_cav = 76.8 mK. start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.63 and 3.72 GHz at power of -10 dBm.
 		 Note: Data at higher field range appears to have lower quality factor, suspected this has soame thing to do with the field scan rate, therefore will reduce the rate in the next scan to 0.015 T/min from the current 0.02 T/min.
-	 09:20 T_mc = 160 mK, start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
+	09:20 T_mc = 160 mK, start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -30 dBm.
 	 	Note: The data at lower fields didn't turn out, it appeared the field rapidly dropped zero after 2T, causing cavity temperature drastically rose due to eddy current. Reasons unknow. Suspecting the liquid helium level is low.
 Aug. 19, 2019
 	19:09 T_mc = 58.6 mK, T_cav = 77 mK,start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of -20 dBm.
@@ -212,3 +212,17 @@ Aug. 26, 2019
 	08:08 Set excitation power to -20 dBm.
 Aug. 27, 2019
 	18:28 Mount the sample (SC00000127) onto the side of the inner cone of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue. Air dry for one hour under low heat.
+Aug. 29, 2019
+	05:17 T_mc = 56.12 mK, T_cav = 77 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.59 and 3.71 GHz at power of -30 dBm.
+	12:35 T_mc = 58.7 mK, T_cav = 78 mK, Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of -20 dBm.
+	19:41 T_mc = 58.7 mK, T_cav = 78 mK, Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of -10 dBm.
+Aug. 30, 2019
+	02:45 T_mc = 70 mK, T_cav = 100 mK, Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of 0 dBm.
+	11:08 T_cav = 78 mK. Change excitation power to 10 dBm.
+	11:18 T_cav = 332 mK.
+	12:39 T_mc = 170 mK, T_cav = 329 mK.
+	12:49 T_mc = 168.2 mK, T_cav = 328 mK.
+		Note: Cavity temperature appears to be wrong, turning on and off the magnetic field somehow fixed the issue.
+	13:05 T_mc = 164 mK, T_cav = 220 mK.
+	13:23 T_mc = 200 mK, T_cav = 260 mK, Change excitation power to 15 dBm.
+	14:32 T_mc = 185 mK, T_cav = 316 mK.
