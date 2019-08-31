@@ -226,3 +226,18 @@ Aug. 30, 2019
 	13:05 T_mc = 164 mK, T_cav = 220 mK.
 	13:23 T_mc = 200 mK, T_cav = 260 mK, Change excitation power to 15 dBm.
 	14:32 T_mc = 185 mK, T_cav = 316 mK.
+	14:40 Change excitation power to -30 dBm, temperature quickly dropped down to 190 mK.
+	15:06 Change excitation power to 0 dBm.
+	15:12 T_cav = 200 mK, change excitation power to 7 dBm.
+	15:20 T_cav = 349 mK (T_mc = 170 mK, reset the setpoint to 150 mK).
+	15:44 T_cav = 280 mK, change excitation power to 10 dBm.
+	16:30 T_mc = 166 mK, T_cav = 346 mK, Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of +10 dBm.
+	23:38 Set excitation power to 7 dBm.
+	23:47 T_mc = 200 mK, T_cav = 227 mK, Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of +7 dBm.
+Aug. 31, 2019
+	06:28 T_cav = 222 mK, set excitation power to +13 dBm.
+	07:56 T_mc = 162 mK, T_cav - 275 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of +13 dBm.
+	15:02 Set excitation power to 0 dBm.
+	16:08 T_mc = 291 mK, T_cav = 268 mK (in 6T magnetic field). Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of 0 dBm.
+	18:42 B = 3.7435 T, Change magnetic field ramping rate to 0.02 T/min as the liquid helium in the cryostat is depleting (4He level = 22%).
+	20:01 B = 2.1445 T, change magnetic field ramping rate to 0.025 T/min.

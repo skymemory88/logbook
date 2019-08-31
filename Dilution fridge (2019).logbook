@@ -1499,3 +1499,18 @@ Aug. 30, 2019
 	13:05 T_mc = 164 mK, T_still = 899 mK, P4 = 0.53 mBar, set the mixing chamber temperature to 200 mK with closed loop heater control (PID = 10, 50, 20).
 	13:24 T_mc = 200 mK, switch off mixing chamber heater (Cavity excitation power changed to +15 dBm).
 	14:32 T_mc = 185 mK. Set mixing chamber temperature to 170 mK with closed loop heater control (PID = 10, 50, 20).
+	15:20 T_mc = 171.3 mK. Change mixing chamber temperature setpoint to 150 mK.
+	15:43 T_mc = 150 mK. Change mixing chamber temperature setpoint to 120 mK.
+	16:20 Turn off mixing chamber heater. Change still heater power to 270 uW.
+	16:29 T_mc = 166 mK, T_still = 895 mK, P4 = 0.5 mBar. 
+	23:32 T_mc = 125 mK, T_still = 889 mK, P4 = 0.48 mBar. Set mixing chamber temperature to 250 mK.
+	23:42 T_mc = 198 mK, T_cav = 222 mK (in 6T field), set mixing chamber temperature to 200 mK.
+Aug. 31, 2019
+	06:28 Turn off mixing chamber heater.
+	07:56 T_mc = 162 mK, T_still = 889 mK, P4 = 0.5 mBar. 
+	15:17 Set mixing chamber temperature to 290 mK.
+	15:56 T_mc = 282 mK, P4 = 0.52 mBar.
+	16:08 T_mc = 291 mK.
+	18:42 4He level = 22.1%.
+	22:13 T_mc = 290 mK, P4 = 0.50 mBar, switch off all heater and the turbo pump, and open V4 for safety.
+		Note: Taking safety measures as the helium is about to run below 20%.
