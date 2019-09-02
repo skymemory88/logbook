@@ -1514,3 +1514,23 @@ Aug. 31, 2019
 	18:42 4He level = 22.1%.
 	22:13 T_mc = 290 mK, P4 = 0.50 mBar, switch off all heater and the turbo pump, and open V4 for safety.
 		Note: Taking safety measures as the helium is about to run below 20%.
+Sept. 02, 2019
+	12:32 4He level = 2.2%, start transferring helium into the crostat.
+	13:35 T_1K = 1.35 K, close V4, and start condensing mixtures.
+	14:20 4He level = 91.9 %, stop the helium tranfer.
+	15:43 P1 = 0.004 Bar, P3 = 0.74 mBar. Turn on turbo pump.
+	16:50 P1 = 0.000 Bar, close V9 and open V4 to recollect some mixtures from circulation.
+	17:13 P1 = 0.017 Bar, T_still = 677 mK, P4 = 0.12 mBar. Turn of still heater at 100 uW.
+	17:22 P1 = 0.022 Bar, T_still = 707 mK, P4 = 0.15 mBar.
+	17:41 P1 = 0.030 Bar, T_still = 726 mK, turn down still heater to 80 uW.
+	18:14 P1 = 0.048 Bar, T_still = 731 mK, turn off still heater.
+	19:00 P1 = 0.058 Bar, T_still = 701 mK, P4 = 0.15 mBar.
+	19:19 P1 = 0.060 Bar, close V4.
+	20:03 T_still = 712 mK, turn on still heater at 150 uW.
+	20:18 T_still = 806 mK, change still heater power to 200 uW.
+	20:29 T_still = 801 mK, change still heater power to 250 uW.
+	20:40 T_still = 823 mK, change still heater power to 300 uW.
+	20:48 T_still = 851 mK, change still heater power to 350 uW.
+	21:30 T_still = 898 mK, T_mc = 86.7 mK. P4 = 0.58 mBar.
+	22:12 T_mc = 54.1 mK, T_still = 905 mK, P4 = 0.54 mBar. Set mixing chamber temperature to 300 mK.
+	23:15 T_mc = 299.5 mK, P4 = 0.67 mBar.

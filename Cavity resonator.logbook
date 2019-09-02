@@ -241,3 +241,5 @@ Aug. 31, 2019
 	16:08 T_mc = 291 mK, T_cav = 268 mK (in 6T magnetic field). Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of 0 dBm.
 	18:42 B = 3.7435 T, Change magnetic field ramping rate to 0.02 T/min as the liquid helium in the cryostat is depleting (4He level = 22%).
 	20:01 B = 2.1445 T, change magnetic field ramping rate to 0.025 T/min.
+Sept. 02, 2019
+	23:17 T_mc = 299.5 mK, T_cav = 293 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of -10 dBm.
