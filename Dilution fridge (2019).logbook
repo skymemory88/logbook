@@ -1534,3 +1534,8 @@ Sept. 02, 2019
 	21:30 T_still = 898 mK, T_mc = 86.7 mK. P4 = 0.58 mBar.
 	22:12 T_mc = 54.1 mK, T_still = 905 mK, P4 = 0.54 mBar. Set mixing chamber temperature to 300 mK.
 	23:15 T_mc = 299.5 mK, P4 = 0.67 mBar.
+Sept. 04, 2019
+	10:35 T_mc = 300 mK, switch off the mixing chamber heater.
+	11:43 T_mc = 200 mK, T_still = 915 mK, change still heater power from 350 uW to 300 uW.
+	12:18 T_mc = 203 mK, T_still = 894 mK, P4 = 0.57 mBar.
+	12:41 T_mc = 204.4 mK, T_still = 892 mK, P4 = 0.57 mBar, 4He level = 63.2%.
