@@ -1539,3 +1539,13 @@ Sept. 04, 2019
 	11:43 T_mc = 200 mK, T_still = 915 mK, change still heater power from 350 uW to 300 uW.
 	12:18 T_mc = 203 mK, T_still = 894 mK, P4 = 0.57 mBar.
 	12:41 T_mc = 204.4 mK, T_still = 892 mK, P4 = 0.57 mBar, 4He level = 63.2%.
+	19:49 T_still = 857 mK, change still heater power to 350 uW.
+		Note: The still temperature dropped as the excitation power of the cavity dropped from +15 dBm to -30 dBm and causing the mixing chamber to cool from 200 mK.
+	21:56 T_mc = 52.2 mK, T_still = 898 mK, P4 = 0.53 mBar. 
+Sept. 05, 2019
+	08:21 Turn off turbo pump, close V1 and open V4 to recollect all the mixtures back to the dump.
+	10:00 Close 1K pot pumping line and turn on sorb heater at 150 mW.
+	11:45 P1 = 778 mBar, turn on turbo pump to extract all the mixtures.
+	12:30 T_mc = 4.3 K, T_still = 4.3 K, T_sorb = 18.4 K, T_1K = 8.4 K. P5 = 0.000 Bar, close V12, SV3, SV1, and close V4. Turn off sorb heater. Switch off turbo pump and forepump.
+	17:17 Start to remove the fridge from the cyostat.
+	17;39 Removal complete.
