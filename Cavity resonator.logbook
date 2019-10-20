@@ -1,5 +1,5 @@
 Apr. 05, 2019
-	16:18 attached the LiHoF4 sample to the cavity resonator (d24mm_t5mm_g0.2mm) with GE vanish and ac plane facing upward.
+	16:18 attached the LiHoF4 sample (SC00000109) to the cavity resonator (d24mm_t5mm_g0.2mm) with GE vanish and ac plane facing upward, and c-axis perpendicular to both DC and AC magnetic fields.
 	17:49 Mount the cavity onto the mixing chamber plate, thermalize through copper wires (0.2 mm, unstripped). Connect the weaklink thermometer to connector No.1.
 	17:50 Detune (red-shift) the coupling between the cavity and antenna.
 	17:55 Mount the radiation shield onto the cold plate.
@@ -18,7 +18,7 @@ Apr. 09, 2019
 	17:47 T_cav = 0.575 K. Changet ramping rate to 0.02 T/min.
 		Note: Temperature reading at this field may be incorrect due to magnetoresistance.
 Apr. 10, 2019
-	14:20 Mount the cavity with the LiHoF4 inside onto the mixing chamber with th new holding rod. Under couple the antenna and the rest of the system. Close up the vacuum chamber and start pumping.
+	14:20 Mount the cavity with the LiHoF4 (SC00000109) inside onto the mixing chamber with th new holding rod. Under couple the antenna and the rest of the system. Close up the vacuum chamber and start pumping.
 	19:45 Pressure inside reaches 4E-5 mBar.
 Apr. 11, 2019
 	14:53 Could not get any resonating signal from the cavity. T_cav = 4.59 K. 
@@ -37,7 +37,7 @@ Apr. 16, 2019
 	10:46 T_cav = 159.6 mK.
 	20:09 T_mc = 77.8 mK, T_cold = 223.8 mK, T_still = 1.18 K, P4 = 0.89 mBar, T_cav = 154.3 mK. Start sweeping magnetic field from 0 to 5 T at 0.016 T/min. 4He level = 54.1%.
 Apr. 18, 2019
-	LiHoF4 sample secured inside a cylinder mould, which was then filled up with stycast, and cured together at 70C for two hours, the block was then cut and sanded down to fit the cavity tightly and GE varnish was applied at the top and bottom of the sample.
+	LiHoF4 sample (SC00000109) secured inside a cylinder mould, which was then filled up with stycast, and cured together at 70C for two hours, the block was then cut and sanded down to fit the cavity tightly and GE varnish was applied at the top and bottom of the sample. Sample was mounted with ac plane facing upward and c-axis perpendicular to both AC and DC magnetic fields.
 	14:40 The absorption peak on S11 disappeared around 50 K.
 	Note: Based on the last cool-down, it appears that waht matters is not just the coupling betweeen the antenna and the cavity but as well as the charateristics of the coax cable at low temperature. The absorption peak may be recovered should the circuit is tuned externally with additional LC components.
 	17:32 T_cav = 935 mK, the absorption peak on S11 recovered.
@@ -65,7 +65,7 @@ Apr. 30, 2019
 	08:45 T_cav = 118 mK, start sweeping magnetic field from 0 to 9 T at 0.01 T/min and frequency scan between 5.025 GHz and 5.045 GHz at -16 dBm.
 	Note: It is observed that the frequency range doesn't follow the setup, the cause is found to be that the ZVL network analyzer outputs 31 number of points (nop) per communication, and the frequency span of each communication is thus to be (31-1) * 0.1 MHz (steps: 0.1 MHz) = 3.0 MHz. Therefore, the total frequency span has to be an integer multile of 3.0 MHz.
 May. 01, 2019
-	18:30 Attach a LiHoF4 sample (SC00000108, a x a x c = 6 mm x 5 mm x 4.5 mm) to the bottom and the top of the cavity with c-axis (easy axis) along the direction of AC field (tangential direction of the circumference of the cavity). 
+	18:30 Attach a LiHoF4 sample (SC00000108, a x a x c = 6 mm x 5 mm x 4.5 mm) to the bottom and the top of the cavity with c-axis (easy axis) along the direction of AC field (tangential direction of the circumference of the cavity) but perpendicular to DC magnetic field. 
 	19:30 Detune the coupling between the antenna and the cavity and seal the vacuum chamber and start pumping on it.
 May. 03, 2019
 	12:00 T_mc = 54.2 mK, T_cav = 104.1 mK.
