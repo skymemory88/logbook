@@ -159,7 +159,7 @@ Aug. 14, 2019
 	08:41 T_mc = 58.0 mK, T_cav = 58.2 mK (in magnetic field, possibly is actually at 74.5 mK). Start measuring S11 while sweeping magnetic field from 9 to 0 T at 0.025 T/min and frequency between 3.525 and 3.555 GHz at power of -10 dBm.
 		Note: Sample (SC00000125) broke into pieces and is destroyed beyond salvage.
 Aug. 15, 2019
-	10:20  Mount the LiHoF4 sample (SC00000127) onto the bottom of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue, dry in air and low heat (from the lamp) for one hour.
+	10:20  Mount the LiHoF4 sample (SC00000127) onto the bottom of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue with c-axis along AC magnetic field but perpendicular to DC magnetic field, dry in air and low heat (from the lamp) for one hour.
 	12:23 Detune the coupling between the antenna and cavity, close and seal vacuum chamber.
 Aug. 16, 2019
 	22:30 T_mc = 58.1 mK, T_cav = 81 mK. start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.62 and 3.74 GHz at power of -30 dBm.
@@ -211,7 +211,7 @@ Aug. 26, 2019
 	01:14 T_mc = 227 mK, T_cav = 357 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of +15 dBm.
 	08:08 Set excitation power to -20 dBm.
 Aug. 27, 2019
-	18:28 Mount the sample (SC00000127) onto the side of the inner cone of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue. Air dry for one hour under low heat.
+	18:28 Mount the sample (SC00000127) onto the side of the inner cone of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue with c-axis along AC magnetic field but perpendicular to DC magnetic field. Air dry for one hour under low heat.
 Aug. 29, 2019
 	05:17 T_mc = 56.12 mK, T_cav = 77 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.59 and 3.71 GHz at power of -30 dBm.
 	12:35 T_mc = 58.7 mK, T_cav = 78 mK, Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of -20 dBm.
