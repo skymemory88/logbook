@@ -116,7 +116,7 @@ May. 13, 2019
 May. 14, 2019
 	09:20 T_mc = 200 mK, start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.015 T/min and frequency between 3.31 GHz and 3.55 GHz at -20 dBm and steps of 0.1 MHz with 31 datapoints per line.
 May. 15, 2019
-	11:33 Mount a LiHoF4 sample (SC00000107) onto the cavity (d24mm_t5mm_g0.6mm) against the wall of the inner protrusion using superglue, set at room temperature to cure. Apply GE varnish around it for security as well thermalization.
+	11:33 Mount a LiHoF4 sample (SC00000107) onto the cavity (d24mm_t5mm_g0.6mm) against the wall of the inner protrusion using superglue with c-axis along the AC magnetic field but perpendicular to DC magnetic field, set at room temperature to cure. Apply GE varnish around it for security as well thermalization.
 May. 16, 2019
 	17:38 T_mc = 59.3 mK, T_cav = 80 mK. Start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.755 GHz and 4.935 GHz at -30 dBm and steps of 0.1 MHz with 31 datapoints per line.
 May. 17, 2019
@@ -211,7 +211,7 @@ Aug. 26, 2019
 	01:14 T_mc = 227 mK, T_cav = 357 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.63 and 3.72 GHz at power of +15 dBm.
 	08:08 Set excitation power to -20 dBm.
 Aug. 27, 2019
-	18:28 Mount the sample (SC00000127) onto the side of the inner cone of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue with c-axis along AC magnetic field but perpendicular to DC magnetic field. Air dry for one hour under low heat.
+	18:28 Mount the sample (SC00000127) onto the side of the inner cone (3.6 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue with c-axis along AC magnetic field but perpendicular to DC magnetic field. Air dry for one hour under low heat.
 Aug. 29, 2019
 	05:17 T_mc = 56.12 mK, T_cav = 77 mK. Start measuring S11 while sweeping magnetic field from 0 to 6 T at 0.015 T/min and frequency between 3.59 and 3.71 GHz at power of -30 dBm.
 	12:35 T_mc = 58.7 mK, T_cav = 78 mK, Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of -20 dBm.
@@ -254,3 +254,10 @@ Sept. 04, 2019
 	12:40 T_mc = 204 mK, T_cav = 323 mK (in 6T magnetic field). Start measuring S11 while sweeping magnetic field from 6 to 0 T at 0.015 T/min and frequency between 3.63 and 3.69 GHz at power of +15 dBm.
 	20:23 T_cav = 76 mK.
 	21:55 T_mc = 52.24 mK, T_cav = 70 mK (in 1.5 T magnetic field), Start S11 measurement while sweeping magnetic field up and down between 1.5 and 4 T at 0.02 T/min and frequency between 3.63 and 3.69 GHz at power of -30 dBm, -20 dBm, -10 dBm and 0 dBm.
+Oct. 20, 2019
+	12:40 Note: The LiHoF4 (SC00000127) is broken into two pieces. Rinsed with Acetone and Isopropenol and recollected both pieces into a sample box.
+	15:14 Mount the cavity insert (cone, 4.7 mm) onto the cavity, attach a LiHoF4 (SC00000127) onto the wall of the inner cone of the cavity using superglue with c-axis along the AC magnetic field but perpendicular to DC magnetic field. Left under heating lamp to air dry.
+Oct. 21. 2019
+	10:40 Apply second layer of superglue to secure the sample on the inner cone of the cavity.
+	14:52 Attach the second piece of the sample (SC00000127) to the side of the inner cone (4.05 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field.
+	15:45 Mount the cavity onto the fridge detune the coupling.
