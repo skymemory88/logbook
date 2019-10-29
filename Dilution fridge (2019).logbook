@@ -1396,7 +1396,7 @@ Aug. 19, 2019
 	09:50 Start automatic condensing sequence.
 	10:37 P1 = 0.011 Bar, turn off still heater that automatically came on. Open V4 to completely empty the dump.
 	11:44 T_mc = 445 mK, T_still = 714 mK, P1 = 0.002 Bar.
-	12:05 T-mc = 445 mK, P1 = 0.001 Bar, T_still = 714 mK, open V4 and remove some mixture from circulation.
+	12:05 T_mc = 445 mK, P1 = 0.001 Bar, T_still = 714 mK, open V4 and remove some mixture from circulation.
 	13:58 P1 = 53 mBar, close V4.
 	17:14 T_mc = 72.28 mK, T_still = 814 mK, P4 = 0.32 mBar.
 	19:09 T_mc = 58.7 mK, T_still = 817 mK, T_1K = 1.44 K, P4 = 0.31 mBar.
@@ -1565,4 +1565,13 @@ Oct. 28, 2019
 	15:50 T_1K = 1.6 K, T_mc = 4.3 K. P_cryo = 44 mBar.
 	15:58 Open SV3, SV1, V12, and V5, close bypass valve. 4He level = 82.3%, P1 = 773 mBar. Start condensing sequence.
 	17:08 Turn off automatic still heater. Open V9 to completely empty the dump. P1 = 0.012 Bar. Turn down needle valve on the 1K pot.
-	17:30 T_mc = 433 mK. P1 = 0.005 Bar. 4He level = 80.7%.
+	17:30 T_1K = 1.45 K, T_mc = 433 mK. P1 = 0.005 Bar. 4He level = 80.7%.
+	18:15 T_mc = 392 mK, P1 = 0.001 Bar. T_still = 720 mK. Close V9 and open V4 to remove some 3He from the mixture to the dump.
+	20:16 T_mc = 241 mK. P1 = 0.065 Bar, close V4.
+	20:32 P1 = 0.065 Bar, open V9 to put some mixture into the circulation.
+	20:38 P1 = 0.052 Bar, close V9.
+	21:05 T_mc = 95 mK. T_still = 810 mK, turn on still heater at 200 uW.
+	21:45 T_mc = 54.6 mK, T_still = 878 mK, T_cold = 129 mK. P4 = 0.57 mBar, P2 = 159 mBar, P5 = 70 mBar.
+	22:43 T_mc = 51.9 mK, T_still = 879 mK. 
+Oct. 29, 2019
+	06:22 T_mc = 51.8 mK, T_still = 898 mK, P4 = 0.57 mBar.

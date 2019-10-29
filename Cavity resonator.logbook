@@ -261,3 +261,9 @@ Oct. 21. 2019
 	10:40 Apply second layer of superglue to secure the sample on the inner cone of the cavity.
 	14:52 Attach the second piece of the sample (SC00000127) to the side of the inner cone (4.05 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field.
 	15:45 Mount the cavity onto the fridge detune the coupling.
+Oct. 28, 2019
+	22:40 T_mc = 51.9 mK, T_cav = 254 mK. 
+		Note: The LS370 resistance bridge was out of range, therefore not showing correct temperature. re-adjust the range has heated and testing magnetic field scan has heated the temperature up to 300 mK.
+	22:45 T_mc = 300 mK, T_cav = 285 mK.
+Oct. 29, 2019
+	6:22 T_mc = 51.8 mK, T_cav = 79 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.010 GHz to 4.100 GHz at -10 dBm.
