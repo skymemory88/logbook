@@ -269,5 +269,9 @@ Oct. 29, 2019
 	6:22 T_mc = 51.8 mK, T_cav = 79 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.010 GHz to 4.100 GHz at -10 dBm.
 	17:12 T_mc = 53.8 mK, T_cav = 71 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at 0 dBm.
 Oct. 30, 2019
-	00:42 T_mc = , T_cav =.  Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.010 GHz to 4.100 GHz at -30 dBm.
-	
+	00:42 T_mc = 56 mK, T_cav = 88 mK.  Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.020 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.
+	08:55 T_mc = 112 mK, T_cav = 223 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.018 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at +10 dBm.
+	20:49 T_mc = 259.8 mK, T_cav = 255 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.
+	Note: measurement computer lost communication channel to the magnetic control, measurement aborted automatically (Oct. 11, 2019)
+Oct. 31, 2019
+	08:01 T_mc = 160.2 mK, T_cav = 154.8 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.

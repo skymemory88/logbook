@@ -1569,3 +1569,7 @@ Oct. 28, 2019
 	18:15 T_mc = 392 mK, P1 = 0.001 Bar. T_still = 720 mK. Close V9 and open V4 to remove some 3He from the mixture to the dump.
 Oct. 29, 2019
 	17:17 T_mc = 53.9 mK, T_still = 883 mK, T_1K = 1.45 K. P4 = 0.58 mBar, Still heater at 200 uW. 4He level = 72.9%.
+Oct. 30, 2019
+	08:56 T_mc = 112 mK, T_still = 890 mK, P4 = 0.61 mBar.
+	19:48 T_mc = 53.9 mK, T_still = 880 mK. Set mixing chamber temperature to 260 mK.
+	20:49 T_mc = 259.8 mK.
