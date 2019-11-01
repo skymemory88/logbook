@@ -132,7 +132,7 @@ May. 20, 2019
 	13:12 T_mc = 1.306 K, start S11 measurement while sweeping the magnetic field from 9 to 0 T at 0.018 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
 	22:36 T_mc = 1.607 K, start S11 measurement while sweeping the magnetic field from 0 to 9 T at 0.015 T/min and frequency between 4.780 GHz and 4.930 GHz at -30 dBm and steps of 0.1 MHz.
 Jul. 25, 2019
-	15:30 Mount LiHoF4 sample (SC? 4x2x2 mm) to the cavity with superglue flat to the bottom ring of the cavity. Air dried for one hour at room temperature.
+	15:30 Mount LiHoF4 sample (SC00000125_1 4x2x2 mm) to the cavity with superglue flat to the bottom ring of the cavity. Air dried for one hour at room temperature.
 Jul. 26, 2019
 	21:50 T_mc = 54 mK, T_cav = 146 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.015 T/min and frequency between 3.41 and 3.56 GHz at power of -30 dBm.
 		Note: The big temperature difference between the cavity and the mixing chamber suggests either a lack of cooling power or poor thermal connections between the two.
@@ -144,7 +144,7 @@ Jul. 28, 2019
 	01:20 T_cav = 396 mK (under 9T magnetic field), start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency range between 3.50 and 3.56 GHz at power of -30 dBm.
 	13:14 T_cav = 136 mK (Under 9T magnetic field), start S11 measurement while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency range between 3.50 and 3.56 GHz at power of -10 dBm.
 Aug. 06, 2019
-	17:11 Keep the same LiHoF4 sample from previous measurement (SC? 4x2x2 mm). Re-adjust the antenna position in the cavity and detune S11 signal at 300K, start evaculating the vacuum chamber.
+	17:11 Keep the same LiHoF4 sample from previous measurement (SC00000125_1 4x2x2 mm). Re-adjust the antenna position in the cavity and detune S11 signal at 300K, start evaculating the vacuum chamber.
 Aug. 07, 2019
 	07:12 T_mc = 61.5 mK, T_still = 792 mK. Start measuring S11 while sweeping magnetic field from 0 to 9 T at 0.02 T/min and frequency between 3.48 and 3.60 GHz at power of -30 dBm.
 		Note: The cavity thermometer mulfunctioned (suspecting short from exposed wires) and hence cannot read out cavity temperature, using mixing chamber temperature as reference.
@@ -267,11 +267,22 @@ Oct. 28, 2019
 	22:45 T_mc = 300 mK, T_cav = 285 mK.
 Oct. 29, 2019
 	6:22 T_mc = 51.8 mK, T_cav = 79 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.010 GHz to 4.100 GHz at -10 dBm.
-	17:12 T_mc = 53.8 mK, T_cav = 71 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at 0 dBm.
+	17:12 T_mc = 53.8 mK, T_cav = 71 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at 0 dBm.
 Oct. 30, 2019
-	00:42 T_mc = 56 mK, T_cav = 88 mK.  Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.020 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.
-	08:55 T_mc = 112 mK, T_cav = 223 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.018 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at +10 dBm.
-	20:49 T_mc = 259.8 mK, T_cav = 255 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.
+	00:42 T_mc = 56 mK, T_cav = 88 mK.  Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.020 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at -30 dBm.
+	08:55 T_mc = 112 mK, T_cav = 223 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.018 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at +10 dBm.
+	20:49 T_mc = 259.8 mK, T_cav = 255 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at -30 dBm.
 	Note: measurement computer lost communication channel to the magnetic control, measurement aborted automatically (Oct. 11, 2019)
 Oct. 31, 2019
 	08:01 T_mc = 160.2 mK, T_cav = 154.8 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm.
+	18:31 T_mc = 160 mK. T_cav = 228 mK (under 9T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.015 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -20 dBm.
+Nov. 01, 2019
+	11:02 T_mc = 260.1 mK, switch off mixing chamber heater to resettle to base temperature. Set b1 and b2 step attenuator to 30 dB and internal excitation power to +15 dBm (32 mW).
+	11:30 T_mc = 176 mK, T_cav = 360 mK.
+	12:16 T_mc = 171 mK, T_cav = 358.4 mK.
+	12:22 T_mc = 172.7 mK, T_cav = 358.6 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at +15 dBm (+30 dB attenuation on receiving).
+	22:18 T_mc = 350.2 mK, T_cav = 308.9 mK. Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -30 dBm (0 dB attenuation).
+	Note: Discovered that all the upward ramping data were unusually noisy because of accidental wrong setting of the frequency scanning zone (4.05-4.95 GHz instead of 4.050-4.095 GHz), which is an uncalibrated region.
+Nov. 02, 2019
+	06:00 Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 4.050 GHz to 4.95 GHz at -10 dBm (0 dB attenuation on receiving).
+	13:30 

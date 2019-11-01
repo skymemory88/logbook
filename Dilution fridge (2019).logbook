@@ -1573,3 +1573,12 @@ Oct. 30, 2019
 	08:56 T_mc = 112 mK, T_still = 890 mK, P4 = 0.61 mBar.
 	19:48 T_mc = 53.9 mK, T_still = 880 mK. Set mixing chamber temperature to 260 mK.
 	20:49 T_mc = 259.8 mK.
+Oct. 31, 2019
+	13:30 T_mc = 160 mK. 4He level = 57.6%.
+Nov. 01, 2019
+	10:45 4He level = 45.0%, start transferring helium into the cryostat.
+	11:02 Switch off mixing chamber heater to resettle to base temperature.
+	11:30 4He level = 70.1%, stop Helium tranfer.
+	12:15 T_1K = 1.42 K, T_still = 881 mK, T_mc = 171.8 mK, P4 = 0.55 mBar. Refill the nitrogen cold trap dewar.
+	21:28 T_mc = 58.6 mK. Set mixing chamber temperature to 350 mK.
+	22:17 T_mc = 350.2 mK, P4 = 0.67 mBar.
