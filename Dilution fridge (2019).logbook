@@ -1582,3 +1582,12 @@ Nov. 01, 2019
 	12:15 T_1K = 1.42 K, T_still = 881 mK, T_mc = 171.8 mK, P4 = 0.55 mBar. Refill the nitrogen cold trap dewar.
 	21:28 T_mc = 58.6 mK. Set mixing chamber temperature to 350 mK.
 	22:17 T_mc = 350.2 mK, P4 = 0.67 mBar.
+Nov. 02, 2019
+	13:25 T_mc = 350.1 mK, turn off mixing chamber heater.
+Nov. 03, 2019
+	00:10 T_mc = 56.5 mK.
+Nov. 04, 2019
+	08:28 T_mc = 53.9 mK, T_still = 868 mK, P4 = 0.53 mBar. Set mixing chamber temperature to 400 mK.
+Nov. 05, 2019
+	07:59 T_mc = 400 mK, set mixing chamber temperature to 380 mK (to compensate heating from higher excitation experiments).
+	09:49 T_mc = 380.05 mK. 4He level = 31.4%.
