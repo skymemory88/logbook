@@ -1591,3 +1591,10 @@ Nov. 04, 2019
 Nov. 05, 2019
 	07:59 T_mc = 400 mK, set mixing chamber temperature to 380 mK (to compensate heating from higher excitation experiments).
 	09:49 T_mc = 380.05 mK. 4He level = 31.4%.
+	10:49 T_mc = 380 mK, turn off mixing chamber heater.
+	11:43 4He level = 30.7%, start transferring helium into the cryostat.
+	12:00 T_mc = 209 mK, set mixing chamber temperature to 230 mK.
+	12:43 4He level = 61.8%. Stop transferring.
+	15:45 Set mixing chamber temperature to 250 mK.
+	15:53 Set mixing chamber temperature to 240 mK.
+	19:00 Set mixing chamber temperature to 390 mK.
