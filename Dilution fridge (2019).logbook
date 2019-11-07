@@ -1606,3 +1606,9 @@ Nov. 06, 2019
 	16:16 T_mc = 260 mK. Turn off mixing chamber heater.
 	16:41 T_mc = 189 mK, set mixing chamber temperature to 400 mK.
 	22:42 T_mc = 400 mK, set mixing chamber temperature to 250 mK.
+Nov. 07, 2019
+	08:39 T_mc = 145 mK. Set mixing chamber temperature to 110 mK.
+	09:24 T_mc = 130 mK. Set mixing chamber temeprature to 130 mK.
+	15:30 T_mc = 130 mK, turn off mixing chamber heater.
+	16:38 T_mc = 55.82 mK. Turn off still heater. switch off turbo pump, open V4, close V1, 1K pot pumping line, turn on sorb heater, open bypass valve, and start to collect the mixtures back into the dump.
+	18:22 T_mc = 4.3 K, P1 = 771 mBar, turn on turbo pump to remove the last bit of mixture from the dilution fridge.
