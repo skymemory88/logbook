@@ -259,7 +259,7 @@ Oct. 20, 2019
 	15:14 Mount the cavity insert (cone, 4.7 mm) onto the cavity, attach a LiHoF4 (SC00000127) onto the wall of the inner cone of the cavity using superglue with c-axis along the AC magnetic field but perpendicular to DC magnetic field. Left under heating lamp to air dry.
 Oct. 21. 2019
 	10:40 Apply second layer of superglue to secure the sample on the inner cone of the cavity.
-	14:52 Attach the second piece of the sample (SC00000127) to the side of the inner cone (4.05 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field.
+	14:52 Attach the triangle piece of the sample (SC00000127, 2.5 x 1.0 x 0.5 mm) to the side of the inner cone (4.05 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field.
 	15:45 Mount the cavity onto the fridge detune the coupling.
 Oct. 28, 2019
 	22:40 T_mc = 51.9 mK, T_cav = 254 mK. 
@@ -319,3 +319,8 @@ Nov. 07, 2019
 	01:30 Start taking measurement of S11 while sweeping the magnetic field from 1.5 to 3 T at 0.01 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at -20 dBm (0 dB attenuation on receiving).
 	09:28 T_cav = 254 mK. Start taking measurement of S11 while sweeping the magnetic field from 3 to 1.5 T at 0.01 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at 7 dBm (30 dB attenuation on receiving).
 	11:59 T_cav = 254 mK. Start taking measurement of S11 while sweeping the magnetic field from 3 to 1.5 T at 0.01 T/min, and AC frequency from 4.050 GHz to 4.095 GHz at 4 dBm (30 dB attenuation on receiving).
+Nov. 08, 2019
+	15:30 Attach four pieces of the sample (SC00000147, 3.0 x 1.6 x 0.3 mm x 4) side by side to the side of the inner cone 3.78 GHz) of the cavity (d24mm_t5mm_g0.8mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field. Left to dry in low heat in air.
+Nov. 12, 2019
+	10:35 Apply second coating of superglue to the samples on the resonator cone. Left to dry in air in low heat.
+	14:30 Attach the cavity to the fridge, and seal the vacuum chamber.

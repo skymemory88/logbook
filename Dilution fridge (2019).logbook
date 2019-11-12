@@ -1612,3 +1612,11 @@ Nov. 07, 2019
 	15:30 T_mc = 130 mK, turn off mixing chamber heater.
 	16:38 T_mc = 55.82 mK. Turn off still heater. switch off turbo pump, open V4, close V1, 1K pot pumping line, turn on sorb heater, open bypass valve, and start to collect the mixtures back into the dump.
 	18:22 T_mc = 4.3 K, P1 = 771 mBar, turn on turbo pump to remove the last bit of mixture from the dilution fridge.
+Nov. 08. 2019
+	11:49 Remove the helium cold trap from the cryostat.
+	12:05 4He level = 37.7%, start removing the fridge from the cryostat.
+Nov. 12, 2019
+	02:05 Close vacumm chamber and start evacuating it.
+	16:27 Pressure inside vacuum chamber reached 8.6E-5 mBar. Stop pumping.
+	16:40 Put in some helium-4 exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized helium for one minute.+
+	16:50 4He level = 26.5%, start inserting the fridge into the cryostat.
