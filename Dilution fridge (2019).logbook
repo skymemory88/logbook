@@ -1622,3 +1622,19 @@ Nov. 12, 2019
 	16:50 4He level = 26.5%, start inserting the fridge into the cryostat.
 	18:56 Insert complete. 4He level = 1.8%.
 		Note: most of the helium lost was due to readjustment of the fridge position relative to the sliding shield.
+Nov. 13, 2019
+	09:49 Load the helium cold trap.
+	09:58 4He level = 1.9%. Start transferring helium into the cryostat.
+	10:00 T_1K = 4.5 K, T_sorb = 4.9 K, T_still  = 4.3 K, T_mc = 4.5 K. Turn on sorb heater at 150 mW. and start extracting the exchange gas from the vacuum chamber.
+	10:28 Pressure inside the vacuum chamber reached 1.2E-5 mBar. stop pumping. Turn off sorb heater.
+	11:35 4He level = 72.4%, stop the helium transfer.
+	11:37 Start 1K pot and forepump.
+	11:38 T_1K = 1.6 K, close bypass valve, open V12, SV3, SV1, and V5.
+	11:42 Start condensing sequance.
+	12:46 Switch off still heater that was turned on automatically. Open V9 to completely empty the dump.
+	13:10 Turn down 1K pot needle valve and maintain T_1K = 1.45 K.
+	14:19 P1 = 0.000 Bar, close V9, and open V4 to remove some mixture from circulation.
+	17:17 P1 = 0.050 Bar, close V4.
+		Note: Had to readjust as I accidentally missed the window.
+	17:19 Turn on still heater at 200 uW.
+	19:07 T_mc = 50.6 mK, T_still = 903 mK, T_1K = 1.5 K. P4 = 0.9 mBar.
