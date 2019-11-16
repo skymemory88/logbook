@@ -1638,3 +1638,14 @@ Nov. 13, 2019
 		Note: Had to readjust as I accidentally missed the window.
 	17:19 Turn on still heater at 200 uW.
 	19:07 T_mc = 50.6 mK, T_still = 903 mK, T_1K = 1.5 K. P4 = 0.9 mBar.
+Nov. 14, 2019
+	16:01 4He level = 60.1%.
+	16:41 T_mc = 106.7 mK. T_still = 911 mK. P4 = 0.96 mBar.
+Nov. 15, 2019
+	08:11 T_mc = 55.6 mK, T_still = 901 mK, P4 = 0.92 mBar. Set mixing chamber temperature to 200 mK.
+	08:29 T_mc = 200 mK, set mixing chamber temperature to 250 mK.
+	17:00 T_mc = 250 mK. 4He level = 45.5%, start transferring helium into the cryostat.
+	17:44 4He level = 72.2%, stop the transfer.
+Nov. 16, 2019
+	10:14 T_mc = 250.1 mK, P4 = 0.82 mBar. Turn off mixing chamber heater.
+	19:34 T_mc = 154 mK, set mixing chamber termperature to 250 mK.
