@@ -1658,3 +1658,17 @@ Nov. 18, 2019
 	19:30 4He level = 37.1 %, start trransferring helium.
 	20:00 T_mc = 340 mK. Turn off mixing chamber heater.
 	20:11 4He level = 61.3 %, stop the transfer.
+Nov. 19, 2019
+	16:25 Refill nitrogen cold trap.
+	17:57 T_mc = 52 mK. Turn off turbo pump, close 1K pot pumping line, V1, and open V4 and bypass valve to start removing all mixture back to the dump.
+	18:09 T_1K = 3.1 K, turn on sorb heater at 150 mW.
+	20:30 P1 = 770 mBar, open turbo pump to remove the last bit of the mixture.
+	21:34 P1 = 770 mBar, close V4, turn off turbo pump and sorb heater.
+Nov. 20, 2019
+	09:45 Close V12, SV3, and remove helium cold trap. 4He level = 45.3 %.
+		Note: Pressure inside the 18T cryostat was really low, unsure when it started. Plug in cryostat heater.
+	10:05 Pressure inside the cryostat reached 20 mBar. close SV1, and V5, turn off forepump.
+	10:20 Start removing the dilution fridge unit from the cryostat.
+	11:05 Removal complte.
+	12:03 P_cryo = 40 mBar.
+	19:40 Seal the vacuum can and start evacuting it.

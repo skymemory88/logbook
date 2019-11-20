@@ -328,6 +328,8 @@ Nov. 13, 2019
 	19:08 T_mc = 50.7 mK, T_cav = 81.2 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 3.71 GHz to 3.83 GHz at -20 dBm (0 dB attenuation on receiving).
 Nov. 14, 2019
 	05:09 T_cav = 82 mK.  Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.015 T/min, and AC frequency from 3.71 GHz to 3.83 GHz at -10 dBm (0 dB attenuation on receiving).
+	Note: The data between the previous two scan appeared to have a hysteresis in resonant frequency, as the upward field scan yied a higher resonant frequency then that from the downward scan.
+	Note: The reason for the hysteresis appeared to be from the sample change as some of the sample broke during the first measurement and hence changes the effectiv dielectric constant of the cavity (20.11.2019)
 	15:58 Set excitation power to 10 dBm (30 dB attenuation on receiving).
 	16:03 T_cav = 191 mK.
 	16:22 T_cav = 208 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.76 GHz to 3.85 GHz at +10 dBm (30 dB attenuation on receiving).
@@ -349,6 +351,11 @@ Nov. 17, 2019
 	21:00 T_mc = 350 mK, T_cav = 310 mK (under 9 T field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.76 GHz to 3.85 GHz at -10 dBm (30 dB attenuation on receiving).
 Nov. 18, 2019
 	04:30 Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.76 GHz to 3.85 GHz at -20 dBm (30 dB attenuation on receiving).
+	14:00 Attach the sample (SC00000127_2, 2.1 x 1.0 x 0.5 mm) to the side of the cone insert (3.29 GHz) of the cavity (d24mm_t5mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field. Left to dry in low heat in air.
 	21:49 T_cav = 80.9 mK, Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.76 GHz to 3.85 GHz at -10 dBm (0 dB attenuation on receiving).
-Nov. 18, 2019
+Nov. 19, 2019
 	05:30 Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.76 GHz to 3.85 GHz at -10 dBm (0 dB attenuation on receiving).
+	16:31 T_cav = 80 mK. Set magnetic field to 2.535 T.
+	17:57 Test complete, set magnetic field to 0 T.
+Nov. 20, 2019
+	18:50 Mount the insert (3.29 GHz) with the sample (SC00000127_2, 2.5 x 1.0 x 0.5 mm triangle) onto the cavity. detun it at room temperature under atmospheric pressure.
