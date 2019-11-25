@@ -373,3 +373,9 @@ Nov. 24, 2019
 	11:26 T_mc = 300 mK, T_cav = 349 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +10 dBm (30 dB attenuation on receiving). 
 Nov. 25, 2019
 	07:00 Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +15 dBm (30 dB attenuation on receiving). 
+	16:30 Attach a sample (SC00000147, 3.0 x 1.0 x 0.3 mm) to the side of the inner cone (4.08 GHz) of the cavity (d24mm_t5mm_flex) with superglue and c-axis along AC magnetic field but perpendicular to DC magnetic field. Left to dry in low heat and low air flow.
+	20:16 Set excitation power to +7 dBm (30 dB attenuation on receving).
+	20:47 T_mc = 340 mK, T_cav = 343 mK, Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +7 dBm (30 dB attenuation on receiving). 
+Nov. 26, 2019
+	04:10 Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +4 dBm (30 dB attenuation on receiving). 
+	11:40 Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +2 dBm (30 dB attenuation on receiving). 

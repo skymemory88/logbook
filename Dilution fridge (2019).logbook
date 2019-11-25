@@ -1697,3 +1697,13 @@ Nov. 24, 2019
 	10:41 T_mc = 330 mK.
 	22:58 Set mixing chamber temperature to 150 mK.
 	23:30 Set mixing chamber temperature to 300 mK.
+Nov. 25, 2019
+	15:31 T_mc = 262.4 mK. P4 = 1 mBar. Close V1 and 1K pot, open V4, turn off turbo pump and open bypass valve to recollect mixtures back into the dump.
+	15:32 Turn on sorb heater at 150 mW.
+	15:36 4He level = 26.7 %, start transferring helium into the cryostat.
+	15:39 Abort collecting. Turn off sorb heater, restart 1K pot, restart 1K pot, close V4 and bypass valve, and open V9. 
+	16:15 4He level = 45.9%, stop transferring.
+	17:29 Turn on turbo pump. P1 = 0.002 Bar. 
+	19:25 P1 = 0.051 Bar. T_mc = 140.5 mK, T_still = 778 mK, T_cold = 282 mK, T_1K = 1.44 K. Close V4, turn on still heater at 200 uW.
+	20:17 P4 = 0.78 mBar, T_mc = 55.3 mK. Set mixing chamber temperature to 320 mK.
+	20:47 T_mc = 340 mK, P4 = 0.97 mBar.
