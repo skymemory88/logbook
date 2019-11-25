@@ -359,3 +359,17 @@ Nov. 19, 2019
 	17:57 Test complete, set magnetic field to 0 T.
 Nov. 20, 2019
 	18:50 Mount the insert (3.29 GHz) with the sample (SC00000127_2, 2.5 x 1.0 x 0.5 mm triangle) onto the cavity. detun it at room temperature under atmospheric pressure.
+Nov. 21, 2019
+	22:40 T_mc = 55.4 mK, T_cav = 88 mK.  Start taking measurement of S11 while sweeping the magnetic field from 0 to 12 T at 0.025 T/min, and AC frequency from 3.24 GHz to 3.36 GHz at -10 dBm (30 dB attenuation on receiving).
+Nov. 22, 2019
+	07:05 T_cav = 76 mK (under 12T magnetic field). Start taking measurement of S11 while sweeping the magnetic field from 12 to 0 T at 0.025 T/min, and AC frequency from 3.26 GHz to 3.32 GHz at 0 dBm (30 dB attenuation on receiving). 
+	16:12 T_cav = 88 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 17 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at -10 dBm (30 dB attenuation on receiving). 
+Nov. 23, 2019
+	08:34 T_cav = 71 mK (under 17T magnetic field). Set excitation power to +19 dBm (30 dB attenuation on receiving).
+	08:51 T_mc = 155 mK. T_cav = 325 mK (under 17T magnetic field). Start taking measurement of S11 while sweeping the magnetic field from 17 to 0 T at 0.025 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +19 dBm (30 dB attenuation on receiving). 
+	22:04 T_mc = 350.2 mK, T_cav = 344 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 17 T at 0.025 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at -10 dBm (30 dB attenuation on receiving). 
+Nov. 24, 2019
+	10:43 T_mc = 330 mK, T_cav = 285 mK (under 17T magnetic field). Start taking measurement of S11 while sweeping the magnetic field from 17 to 0 T at 0.025 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at 0 dBm (30 dB attenuation on receiving). 
+	11:26 T_mc = 300 mK, T_cav = 349 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +10 dBm (30 dB attenuation on receiving). 
+Nov. 25, 2019
+	07:00 Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +15 dBm (30 dB attenuation on receiving). 

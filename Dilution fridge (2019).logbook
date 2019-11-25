@@ -1672,3 +1672,28 @@ Nov. 20, 2019
 	11:05 Removal complte.
 	12:03 P_cryo = 40 mBar.
 	19:40 Seal the vacuum can and start evacuting it.
+Nov. 21, 2019
+	09:06 Pressure inside the vacuum chamber reached 7.5E-8 Bar. Turn off the pump and prepare to inser the fridge into the cryostat.
+	09:19 Put in some helium-4 exchange gas and flush the 1K pot pumping line with pressureized helium gas for 1 minute.
+	09:26 4He level = 38.1 %, start inserting the fridge into the cryostat.
+	15:19 4He level = 17.1%, start transferring helium into the cryostat.
+	15:58 T_1K = 3.8 K, T_still = 3.8 K, T_sorb = 4.1 K. T_mc = 4.4 K, turn on sorb heater at 150 mW and start to extract helium exchange gas from the vacuum chamber.
+	17:05 4He level = 87 %, stop the transfer.
+	17:20 Insert 4He cold trap.
+	17:30 Open V12, SV3, SV1, V5. Start 1K pot pumping line.
+	17:34 Start automatic condensing sequence.
+	18:40 Turn off still heater automatically turned on by the sequence. Open V9 to completely empty the dump. 
+	21:24 P1 = 51 mBar. Close V4 and turn on still heater at 200 uW.
+	22:27 T_mc = 55.6 mK, T_still = 890 mK, T_cold = 235 mK, T_1K = 1.49 K. P4 = 0.82 mBar.
+Nov. 22, 2019
+	07:07 T_mc = 54.7 mK, T_still = 898 mK, T_cold = 217.3 mK, T_1K = 1.49 K. P4 = 0.76 mBar. 
+	10:56 4He level = 76.5%.
+Nov. 23, 2019
+	21:24 T_mc = 53.7 mK. Set mixing chamber temperature to 350 mK.
+	22:03 T_mc =  350 mK, P4 = 1.0 mBar.
+Nov. 24, 2019
+	10:09 T_mc = 350 mK, set the mixing chamber temperature to 320 mK.
+	10:23 SEt mixing chamber temperatuer to 330 mK.
+	10:41 T_mc = 330 mK.
+	22:58 Set mixing chamber temperature to 150 mK.
+	23:30 Set mixing chamber temperature to 300 mK.
