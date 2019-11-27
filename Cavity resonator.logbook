@@ -378,4 +378,12 @@ Nov. 25, 2019
 	20:47 T_mc = 340 mK, T_cav = 343 mK, Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +7 dBm (30 dB attenuation on receiving). 
 Nov. 26, 2019
 	04:10 Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +4 dBm (30 dB attenuation on receiving). 
-	11:40 Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +2 dBm (30 dB attenuation on receiving). 
+	12:40 Set excitation power to 20 dBm.
+	13:08 T_cav = 348 mK. Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +20 dBm (30 dB attenuation on receiving). 
+	21:10 Set excitation power to 9 dBm.
+	21:35 T_cav = 327 mK (under 9T magnetic field). Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +9 dBm (30 dB attenuation on receiving). 
+Nov. 27, 2019
+	05:05 Start taking measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at +6 dBm (30 dB attenuation on receiving). 
+	14:30 T_cav = 4.0 K, Start taking measurement of S11 while sweeping the magnetic field from 9 to 0 T at 0.022 T/min, and AC frequency from 3.270 GHz to 3.315 GHz at -10 dBm (30 dB attenuation on receiving)
+	17:00 Attach a small amount of BDPA sample (dimensions unmeasureable, mixed and irregualr geometries) to the side of the cone insert (3.29 GHz) of the cavity (d24mm_t5mm_flex) with a thin layer of GE varnish
+	18:31 Apply superglue on top of the samples on the cone to secure it.

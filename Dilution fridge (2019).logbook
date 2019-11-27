@@ -1706,4 +1706,21 @@ Nov. 25, 2019
 	17:29 Turn on turbo pump. P1 = 0.002 Bar. 
 	19:25 P1 = 0.051 Bar. T_mc = 140.5 mK, T_still = 778 mK, T_cold = 282 mK, T_1K = 1.44 K. Close V4, turn on still heater at 200 uW.
 	20:17 P4 = 0.78 mBar, T_mc = 55.3 mK. Set mixing chamber temperature to 320 mK.
-	20:47 T_mc = 340 mK, P4 = 0.97 mBar.
+Nov. 26, 2019
+	11:03 T_mc = 340 mK, set mixing chamber temperature to 345 mK.
+	11:49 T_mc = 344 mK, set mixing chamber temperature to 350 mK.
+	12:04 Set mixing chamber temperature to 330 mK.
+	12:26 Set mixing chamber temperature to 320 mK.
+	12:40 Turn off mixing chamber heater.
+	12:50 T_mc = 196 mK. Set mixing chamber temperature to 220 mK.
+	21:09 T_mc = 219 mK, set mixing chamber temperature to 340 mK.
+	21:29 Set mixing chamber temrpature to 330 mK.
+Nov. 27, 2019
+	13:01 T_1K = 1.47 K, T_still = 867 mK, T_mc = 307 K. Turn off mixing chamber heater, still heater. Switch off turbo pump, close V1, open V4 and bypass valve to start collecting mixtures back into the dump.
+	13:04 Turn on sorb heater at 150 mW.
+	13:55 T_1K = 7 K, P1 = 774 mBar. Turn on turbo pump to extract the last bit of mixture.
+	14:10 Close V4, and turn off turbo pump. 
+	20:50 Remove the helium-4 cold trap.
+	21:00 Start removing the fridge from the cryostat.
+	21:35 Removal complete, 4He level = 22.8 %, P_cryo = 10 mBar.
+	21:47 Plug in cryostat heater, P_cryo = 25 mBar. 
