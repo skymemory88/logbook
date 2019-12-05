@@ -410,4 +410,15 @@ Dec. 02, 2019
 	18:03 Start a series of measurement of S11 while sweeping the magnetic field from 0.1 to 0.2 T at 0.005 T/min, and AC frequency from 3.518 GHz to 3.542 GHz at [-20, 0, +4, +7, +10, +15, +20] dBm (30 dB attenuation on receiving).
 	20:25 Start a series of measurement of S11 while sweeping the magnetic field from 0.1 to 0.2 T at 0.005 T/min, and AC frequency from 3.542 GHz to 3.518 GHz at [-20, -10, 0, +4, +7, +10, +15, +20] dBm (30 dB attenuation on receiving).
 		Note: Frequency down sweep didn't work as expected, need to look into the correct function of the network analyzer.
-	23:00 Start the a set of measurement of S11 while sweeping the magnetic field from 0.1 to 0.18 T at 0.002 T/min, and AC frequency from 3.518 GHz to 3.542 GHz at [0 +15] dBm (30 dB attenuation on receiving).
+	23:00 Start the a set of measurement of S11 while sweeping the magnetic field from 0.1 to 0.18 T at 0.001 T/min, and AC frequency from 3.518 GHz to 3.542 GHz at [0 +15] dBm (30 dB attenuation on receiving).
+Dec. 03, 2019
+	08:15 T_cav = 4.24 K, Start a series of measurement of S11 while sweeping the magnetic field from 0.12 to 0.16 T at 0.001 T/min, and AC frequency from 3.506 GHz to 3.554 GHz at [-10, 0, +4, +7, +10, +15, +20] dBm (30 dB attenuation on receiving).
+		Note: the lowest sweeping speed of the superconducting magnet is 0.001 T/min.
+	14:45 T_cav = 4.27 K, Start a series of measurement of S11 while sweeping the magnetic field from 0.13 to 0.15 T at 0.001 T/min, and AC frequency from 3.518 GHz to 3.542 GHz (0.005 GHz steps) at [-10, 0, +4, +7, +10, +15, +20] dBm (30 dB attenuation on receiving).
+	17:57 T_cav = 4.25 K, Start a series of measurement of S11 while sweeping the magnetic field from 0.1 to 0.18 T at 0.001 T/min, and AC frequency from 3.518 GHz to 3.542 GHz (0.005 GHz steps) at [20, 10, -10] dBm (30 dB attenuation on receiving).
+Dec. 04, 2019
+	12:40 Attach a LiHoF4 sample (SC00000136, 1.5 x 2.0 x 3.0 mm) to the bottom of the lid of the cavity with GE varnish and superglue, align c-axis along AC magnetic field and perpendicular to DC magnetic field.
+Dec. 05, 2019
+	14:00 Mount the cavity insert (2.37 GHz) with the LiHoF4 sample (SC00000147) onto the dilution fridge, detune it at room temperature under atmospheric pressure and seal the vacuum can.
+	17:38 Attach two hall probe to the sample (SC00000136), perpendicular to its c-axis and a(b)-axis respectively. Apply abundant super glue to secure the hall probes.
+	

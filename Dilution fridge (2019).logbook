@@ -1754,3 +1754,26 @@ Dec. 02, 2019
 	14:55 Put in some helium-4 exchange gas to the vacuum chamber, flush the 1K pot pumping line with pressurized helium for one minute.
 	15:05 Start to insert the dilution fridge into the 18T cryostat.
 	17:14 Insert complete. 4He level = 30.3%.
+Dec. 03, 2019
+	14:28 4He level = 21.0%, start transferring helium into the cryostat.
+	15:08 4He level = 37.1%, stop the transfer.
+Dec. 04, 2019
+	12:40 4He level = 32.9%, start to remove the dilution fridge from the cryostat.
+	13:10 Removal complete.
+	13:51 4He level = 29.6%.
+Dec. 05, 2019
+	14:10 Mount the cavity and seal the vacuum chamber, start to evacuating it. 
+	17:29 pressure inside the vacuum chamber reached 5.7E-5 mBar. Stop pumping and prepare to insert the fridge into the cryostat.
+	17:38 Put in some helium-4 exchange gas and flush the 1K pot with pressurized helium for one minute.
+	17:45 Start inserting the fridge into the cryostat. 4He level = 26.5%.
+	19:25 Insert complete. 4He level = 16.9%.
+	19:48 4He level = 13.6%, start transferring helium into the cryostat.
+	20:39 T_mc = 4.3 K, T_sorb = 4.7 K, start extracting helium exchange gas, turn on sorb heater at 150 mW.
+	20:46 Load helium cold trap.
+	20:58 Start 1K pot. 
+	21:01 T_1K = 1.48 K, open V12, SV3, SV1, and V5.
+	21:03 Start automatic condensing sequence.
+	21:08 P1 = 571 mBar, stop automatic condensing sequence.
+	21:11 4He level = 72.0%, stop the tranfer.
+	21:16 T_mc = 802 mK, restart automatic condensing sequence.
+	21:34 P1 = 50 mBar, stop automatic condensing sequence. Turn down needle valve.
