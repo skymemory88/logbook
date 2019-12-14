@@ -421,4 +421,24 @@ Dec. 04, 2019
 Dec. 05, 2019
 	14:00 Mount the cavity insert (2.37 GHz) with the LiHoF4 sample (SC00000147) onto the dilution fridge, detune it at room temperature under atmospheric pressure and seal the vacuum can.
 	17:38 Attach two hall probe to the sample (SC00000136), perpendicular to its c-axis and a(b)-axis respectively. Apply abundant super glue to secure the hall probes.
-	
+	22:54 T_mc = 599.4 mK. T_cav = 601.8 mK. Start a measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 2.355 GHz to 2.415 GHz (0.1 GHz steps) at -10 dBm (30 dB attenuation on receiving).
+Dec. 06, 2019
+	18:14 T_mc = 54 mK, T_cav = 86 mK. Start a measurement of S11 while sweeping the magnetic field from 0 to 17 T at 0.02 T/min, and AC frequency from 2.375 GHz to 2.390 GHz (0.1 GHz steps) at -10 dBm (30 dB attenuation on receiving).
+		Note: Sample broke during the fieldscan at 10T. 
+Dec. 07, 2019
+	09:27 T_cav = 326 mK (under 17 T magnetic field), Start to measurement S11 while sweeping the magnetic field from 17 to 0 T at 0.03 T/min, and AC frequency from 2.375 GHz to 2.390 GHz (0.1 GHz steps) at +20 dBm (30 dB attenuation on receiving).
+Dec. 10, 2019
+	14:50 Mount a piece of GGG sample (3.0 x 2.0 x 0.5 mm, 110 face cut) onto the ceiling of the cavity (d24mm_t5mm_flex) with GE varnish at the base and then two layers of superglue on top as coats. 
+	18:40 Mount 2.5 GHz insert and close the cavity. Deturn the S11 signal at room temperature under atmospheric pressure.
+Dec. 11, 2019
+	Note: Detunning failed, attemped to adjust the impedence also failed. Signal appears to be weak
+	18:45 T_cav = 4.16 K,  Start to measurement S11 while sweeping the magnetic field from 0 to 1 T at 0.015 T/min, and AC frequency from 2.455 GHz to 2.545 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+	20:18 Start to measurement S11 while sweeping the magnetic field from 1 to 3 T at 0.03 T/min, and AC frequency from 2.485 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+	21:37 T_cav = 4.15 K. Start to measurement S11 while sweeping the magnetic field from 3 to 17 T at 0.03 T/min, and AC frequency from 2.485 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+Dec. 12, 2019
+	13:05 Mount two additional piece of GGG sample (3.0 x 4.0 x 0.5 mm, 5.0 x 4.0 x 0.5 mm, 110 cut) onto the ceiling of the cavity (d24mm_t5mm_flex) with superglue. Left to dry in air at low heat using a heat gun at low blowing power setting.
+	17:04 Mount the cavity and detune it slightly at room temperature under atmospheric pressure.
+Dec. 13, 2019
+	21:17 T_mc = 54.3 mK, T_cav = 85 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+Dec. 14, 2019
+	09:30 T_mc = 174.5 mK, T_cav = 153 mK (under 9T field). Start to measurement S11 while sweeping the magnetic field from 9 to 0 T at 0.025 T/min, and AC frequency from 2.470 GHz to 2.503 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
