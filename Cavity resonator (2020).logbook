@@ -1,0 +1,11 @@
+Dec. 05, 2019
+	14:00 Mount the cavity insert (2.37 GHz) with the LiHoF4 sample (SC00000147) onto the dilution fridge, detune it at room temperature under atmospheric pressure and seal the vacuum can.
+	17:38 Attach two hall probe to the sample (SC00000136), perpendicular to its c-axis and a(b)-axis respectively. Apply abundant super glue to secure the hall probes.
+	22:54 T_mc = 599.4 mK. T_cav = 601.8 mK. Start a measurement of S11 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 2.355 GHz to 2.415 GHz (0.1 GHz steps) at -10 dBm (30 dB attenuation on receiving).
+Dec. 15, 2019
+	07:39 T_cav = 600 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 5 T at 0.02 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+	17:04 T_mc = 846 mK, T_cav = 804 mK (under 5T field). Start to measurement S11 while sweeping the magnetic field from 5 to 0 T at 0.02 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
+	21:20 T_mc = 4.3 K, T_cav = 4.17 K. Start to measurement S11 while sweeping the magnetic field from 0 to 17 T at 0.03 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving). 
+Feb. 19, 2020
+	16:45 mount the cavity (d24mm_t5mm_g0.2mm) onto the mixing chamber and detune the coupling with the antenna. Connect the two hall probes to the fridge "custom" line. One of the hall probe appears to have a broken wire (lower connector), the other Hall probe-1 (upper connector) is connected to fisher connector  13-16. Lock-in arrangement -- Oscillator+ --> 16, Oscillator- --> 15, A+ --> 14, B+ --> 13.
+	17:15 Seal the vacuum can and start to evacuate it.
