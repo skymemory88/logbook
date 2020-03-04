@@ -18,3 +18,8 @@ Mar. 02, 2020
 	14:00 Mount the sample along with the hall sensor onto the sample holder using Loctite A330 epoxy. Left to cure in air at room temperature.
 	16:30 Mount the cavity (d24mm_t5mm_g0.2mm_3.5 GHz) onto the cold finger attached to the mixing chamber, detune at room temperature in air.
 	19:19 Connect the hall sensor to fisher connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.9 kOhm, R(13-16) = 2.7 kOhm, R(14-15) = 1.5 kOhm.
+Mar. 04, 2020
+	14:10 Apply excitation current to fisher connector (14 & 15) connected in serial with a 51 kOhm resistor, measure hall voltage on (13 & 16).
+	18:29 Remove 51 kOhm resistor in series with the hall probe, change excitation voltage to 2 V, interchange the hall probe connectors, apply excitation current to (13 & 16), and measure hall voltage on (14 & 15).
+	18:30 T_mc = 56 mK, T_cav = 118 mK. Start a testing S11 measurement from 0 to 0.2 T at a rate of 0.02 T/min.
+	19:00 T_mc = 55.15 mK. Change excitation power on hall sensor to 5.000 V. T_cav = 110 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 17 T at 0.025 T/min, and AC frequency from 3.480 GHz to 3.570 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 5 V.

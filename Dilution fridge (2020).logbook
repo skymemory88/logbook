@@ -65,4 +65,18 @@ Mar. 04, 2020
 	11:19 Insert the helium cold trap.
 	11:28 Turn on forepump, open V5 and SV1, open V1 to circulate the gas mixtures in the pumping line throught the cold traps.
 	11:35 Open SV1, V12, close bypass valve, and start 1K pot. Start condensing sequence.
-	12:07 T_mc = 894 mK, P1 = 0.035 Bar, turn down needle valve, stop automated condensing sequence. Keep V4 open to completely empty the dump. 4He level = 62.5%.
+	12:07 T_mc = 894 mK, P1 = 0.035 Bar, turn down needle valve, stop automated condensing sequence. Keep V9 open to completely empty the dump. 4He level = 62.5%.
+	12:50 P1 = 0.006 Bar, turn on turbo pump.
+	13:50 Refill nitrogen cold trap dewar.
+	13:58 P1 = 0.001 Bar, close V9, open V4 shortly after to remove some mixtures.
+	14:00 P1 = 0.001 Bar, T_still = 678 mK.
+	14:08 T_still = 663 mK, turn on still heater at 100 uW.
+	14:16 T_still = 701 mK, change still heater to 150 uW.
+	14:21 T_still = 730 mK, change still heater to 180 uW.
+	14:31 T_still = 755 mK, change still heater to 200 uW.
+	15:31 P1 = 0.052 Bar, close V9.
+	16:02 T_still = 787 mK, change still heater power to 250 uW.
+	16:12 T_still = 831 mK, change still heater power to 280 uW.
+	17:44 T_mc = 58 mK, T_still = 849 mK, P4 = 0.42 mBar. Change still heater to 300 uW.
+	18:33 T_mc = 55.6 mK, T_still = 862 mK, P4 = 0.45 mBar.
+	18:59 T_mc = 55.15 mK, T_still = 864 mK, P4 = 0.44 mBar. 4He level = 61.5%. T_1K = 1.37 K, Still heater power = 300 uW.
