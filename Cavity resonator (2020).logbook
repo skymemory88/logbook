@@ -9,3 +9,12 @@ Dec. 15, 2019
 Feb. 19, 2020
 	16:45 mount the cavity (d24mm_t5mm_g0.2mm) onto the mixing chamber and detune the coupling with the antenna. Connect the two hall probes to the fridge "custom" line. One of the hall probe appears to have a broken wire (lower connector), the other Hall probe-1 (upper connector) is connected to fisher connector  13-16. Lock-in arrangement -- Oscillator+ --> 16, Oscillator- --> 15, A+ --> 14, B+ --> 13.
 	17:15 Seal the vacuum can and start to evacuate it.
+Feb. 21, 2020
+	14:46 T_mc = 57.5 mK, T_cav = 127 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 3.38 GHz to 3.50 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 2 V with 51 kOhm serial resistor.
+Feb. 22, 2020
+	00:45 Start to measurement S11 while sweeping the magnetic field from 9 to 0 T at 0.03 T/min, and AC frequency from 2.99 GHz to 3.89 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 2 V with 51 kOhm serial resistor.
+Mar. 02, 2020
+	10:30 Mount the a hall probe (CYSJ166A) onto a piece of LiHoF4 sample (SC00000138) using Loctite-401 adhesive (IDH No. 195905). Hall probe connected to a 4-pin-lemo-connector with 0.10 mm coated copper wires.
+	14:00 Mount the sample along with the hall sensor onto the sample holder using Loctite A330 epoxy. Left to cure in air at room temperature.
+	16:30 Mount the cavity (d24mm_t5mm_g0.2mm_3.5 GHz) onto the cold finger attached to the mixing chamber, detune at room temperature in air.
+	19:19 Connect the hall sensor to fisher connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.9 kOhm, R(13-16) = 2.7 kOhm, R(14-15) = 1.5 kOhm.

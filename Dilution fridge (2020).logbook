@@ -37,3 +37,32 @@ Feb. 20, 2020
 	20:46 P1 = 0.016 Bar, T_mc = 423 mK, T_still = 686 mK, T_1K = 1.44 K. Turn on still heater at 100 uW.
 	22:01 P1 = 0.051 Bar, close V4. and turn on still heater at 150 mW.
 	23:22 T_still = 757 mK, Change still heater to 180 mW.
+Feb. 21, 2020
+	08:32 T_mc = 68 mK, T_still = 798 mK, T_1K = 1.43 K. Change still heater power to 200 mW.
+	08:47 T_mc = 67 mK, T_still = 804 mK. P4 = 0.32 mBar, change still heater power to 220 mW.
+	08:58 T_mc = 66 mK, T_still = 815 mK. P4 = 0.36 mBar, Change still heater power to 259 mW.
+	09:21 T_mc = 64 mK, T_still = 825 mK, P4 = 0.37 mBar. Change still heater power to 300 mW.
+	10:15 4He level = 80.0%.
+	14:45 T_mc = 57.5 mK. T_still = 850 mK. P4 = 0.43 mBar.
+	18:06 T_mc = 59.02 mK, T_still = 848 mK, T_1K = 1.37 K. P4 = 0.43 mBar.
+Feb. 28, 2020
+	17:23 T_mc = 56.91 mK, T_still = 847 mK, T_cold = 127 mK. P4 = 0.44 mBar. Stop turbo pump, close V1, open V4 and bypass valve, turn on sorb heater at 150 mW, and change still heater to 300 uW. Start to recollect all the mixtures.
+	18:22 P1 = 772 mBar, turn on turbo pump. Completely close needle valve.
+	18:38 P1 = 774 mBar. Close V4, V12, SV3, V5, turn off turbo pump and all heaters.
+	18:45 Start to extract the fridge unit from the cryostat.
+Mar. 03, 2020
+	09:23 Pressure inside the vacuum chamber reached 1.5E-5 mBar, stop evacuating, and prepare to insert the fridge into the cryostat.
+	09:30 Put some helium-4 exchange gas into the vacuum chamber and flush the 1K pot pumping line for one minute.
+	09:39 P_cryo = 40 mBar. Start to insert the fridge into the crysotat, 4He level = 27.5%.
+	11:21 Insert complete, 4He level = 18.7%.
+	12:11 4He level = 18.7%, start transferring liquid helium into the cryostat.
+	12:26 Start to extract helium exchange gas from the vacuum can.
+	13:15 4He level = 10.5%.
+	13:19 4He level = 13.9%.
+Mar. 04, 2020
+	10:13 P_cryo = 40 mBar. 4He level = 11.7%, start transferring helium into the cryostat.
+	11:13 4He level = 65.5%, stop the transfer.
+	11:19 Insert the helium cold trap.
+	11:28 Turn on forepump, open V5 and SV1, open V1 to circulate the gas mixtures in the pumping line throught the cold traps.
+	11:35 Open SV1, V12, close bypass valve, and start 1K pot. Start condensing sequence.
+	12:07 T_mc = 894 mK, P1 = 0.035 Bar, turn down needle valve, stop automated condensing sequence. Keep V4 open to completely empty the dump. 4He level = 62.5%.
