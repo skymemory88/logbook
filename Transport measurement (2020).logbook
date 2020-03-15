@@ -1,0 +1,17 @@
+Feb. 28, 2020
+	14:35 Use stycast (STYCAST 2850 FT, batch_O26G996520) to mount four electrodes made from 0.500 mm copper wires onto a sapphire substrate (5 mm x 5 mm), cure at 100 C for two hours.
+Mar. 05, 2020
+	12:24 Use GE varnish to mount the saphire substrate onto the copper sample stage, solder it to the 0.500 mm contracts attached to the sample stage with a 4-pin-lemo-connector on the other end.
+	13:44 mount a Hall probe (CYSH12AF) onto the copper sample stage next to the substrate, solder to connect four 0.100 mm copper wires to it with a 4-pin-lemo-connector on the other end.
+Mar. 06, 2020
+	11:32 Attach the sample stage to the secondary stage (top lid of a D24mm cavity) and mount it onto the cold finger.
+	11:33 Attach the sample wires to the fisher connector (9-12), R(9-10) = R(11-12) = R(9-11) = R (10-12) = 340 Ohm, R(9-12) = 320 Ohm, R(10-11) = 360 Ohm.
+	11:45 Attach the hall probe (CYSH12AF) to fisher connector (13-16), R(13-14) = R(14-16) = R(15-16) = R(13-15) = 620 Ohm, R(13-16) = R(14-15) = 650 Ohm.
+	11:55 Mount the radiation shield and seal the vacuum can.
+Mar. 10, 2020
+	18:12 T_mc = 650 mK, start a resistivity measurement using Van de pauw meathod. Scan field at fixed temperatures with temperatures between 650 mK and 1.2 K (at step of 50 mK) and field between 0 and 2 T at rate of 0.03 T/min.
+Mar. 13, 2020
+	18:55 T_mc = 1.48 K, T_samp = 1.45 K. STart a resistivity measurement using four probe methods. Scan field at fixed temperatures ranging from 2 K to 4 K at steps of 0.1 K (0.05 K tolerance) and field between 0 and 3 T at rate of 0.05 T/min.
+Mar. 14, 2020
+	16:13 Abort experiment as the signal is too small.
+		Note: The sample size was too small and the conductivity is sufficiently high to make itself negligible comparing to the resistive twisted pairs of wires inside the dilution fridge. Tried both using current source and nanovoltmeter to measure the signal as well as a lock-in amplifier, neigher worked well to show the superconducting transition points.
