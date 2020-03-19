@@ -1831,3 +1831,17 @@ Dec. 13, 2019
 	23:03 T_mc = 57.1 mK, T_still = 821 mK, turn on still heater at 200 uW.
 Dec. 14, 2019
 	08:55 T_mc = 54 mK, set mixing chamber temperature to 175 mK.
+	15:29 Set mixing chamber temperature to 300 mK.
+	20:46 Set mixing chamber temperature to 400 mK.
+Dec. 15, 2019
+	07:30 Set mixing chamber temperature to 600 mK.
+	12:25 Turn off turbo pump and still heater, close V1, open V4 to start recollect most mixtures from circulation. Turn on sorb heater at 150 mW.
+	13:00 P1 = 690 mBar, turn off sorb heater.
+	13:43 P1 = 733 mBar, turn on sorb heater at 150 mW again. Switch off turbo pump.
+	14:11 P1 = 772 mBar, turn off sorb heater and close V4. Open V1.
+	16:13 P1 = 772 mBar, pulse open V9 to put in some mixture into the circulation.
+	16:14 P1 = 743 mBar. Close V9.
+	16:39 T_mc = 871 mK, T_1K = 1.47 K.
+	21:19 T_mc = 862 mK. Close V1, open V4 and turn on sorb heater at 150 mW to recollect all the mixture into the dump.
+	21:32 Turn on turbo pump.
+	21:35 P1 = 772 mBar. close V4. Turn off sorb heater, close V5 and switch off turbo pump.
