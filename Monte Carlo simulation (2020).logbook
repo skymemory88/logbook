@@ -1,0 +1,95 @@
+Apr. 28, 2020
+	08:45 Create initial file (init_20200428.mat) for field scan, run MCscriptEQ() for thermalization.
+	09:30 Made revision (iteration index) to the energy0() code along with comments.
+	09:30 Run MCscriptEQ() for thermalization with revised energy0().
+Apr. 29, 2020
+	11:30 Run MCmeasurefieldscan() using both revised and original energy0().
+	Note: The revision to energy0() appeared to have made no difference in the results, they only differ from each other slightly, most likely from the stochastic nature of the simulation than the code.
+May. 01, 2020
+	17:14 Create initial file (init_20200501) for temperature scan, run MCscriptEQ() with both revised and original energy0 () for thermalization.
+May. 02, 2020
+	14:00 Run MCmeasuretempscan() using both revised and original energy0().
+	Note: Again the revision to energy0() made no difference, and the specific heat data took on correct shape yet wrong location at ~100 mK.
+May. 06, 2020
+	11:30 Made revision to Tloop.m and TloopEQ.m to match the coding pattern in fieldloop.m and fieldloopEQ.m. Create initial file and run MCscriptEQ() with both revised and original energy0().
+May. 07, 2020
+	08:15 Run MCmeasuretempscan() with both revised and original energy0() and Tloop().
+	14:50 Run both temperature and field scan using revised Mean Field simulation (ik_LiHoF4_energy_absorption_Yikai.m) for comparison.
+May. 08, 2020
+	09:10 Spot potential major coding problem in TloopEQ(), line 20, after the execution of LiIonsF4_MCEQ(), parameter 'params' is not updated for the next step. Such problem isn't present in fieldloop.
+	10:45 Spot another potential major error in both MCmeasuretempscan() and MCmeasurefieldscan(), both appears to have duplicated loops, calling Tloop()/fieldloop() inside a iterating loop of the scanning parameter while loop the same scanning parameter inside Tloop()/fieldloop() again.
+	Note: Though this error may not affect the result, it could affect the efficiency.
+	11:25 Run MCmeasuretempscan() with revised Tloop() on Windows debugger computer for temperature scan using resultEQ_20200506.mat. 
+	11:40 Create initial files for both field scan and temperature scan, run MCscriptEQ() with revised energy0() and fieldloopEQ() on COMSOL computer for field scan. Run MCscriptEQ() with revised energy0() and TloopEQ() on Kelvinox-400 control computer for temperature scan.
+	15:25 Run MCmeasurefieldscan() with revised fieldloop() on the work laptop using resultEQ_20200429.mat
+	18:45 Results appear to be correct from the inline checkpoitn output (up until 0.4 T). Abort the simulation on the work laptop, revise LiIonF4_MC() by uncommenting calculations of phase_x and phase_y. Restart the simulation on 18T magnet control computer.
+	19:52 Run MCmeasurefieldscan(20200508001,01) on COMSOL computer with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation.
+	11:50 Run MCmeasuretempscan(20200508,000) on Kelvinox-400 computer with revised Tloop(), Ising_basis(), and energy0() for temperature scan simulation.
+May. 09, 2020
+	12:29 Run MCmeasurefieldscan(20200508001,01) on windows debugger with revised fieldloop(), Ising_basis(), and energy0() for fields scan simulation.
+	16:28 Run MCscriptEQ(20200510) on COMSOL computer with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation at 0.05 K.
+	19:40 Create initial file and run MCscriptEQ(202005101) on Kelvinox-400 computer with revised fieldloop(), Ising_basis(), and energy0() for temperature scan simulation at 0.001 T.
+May. 10, 2020
+	08:20 Change the outdated function calls (3 incidences) 'mxGetPr()' in metropolis.c to 'mxGetDoubles()'. Changed all (14 incidences) 'mxGetPr()' in energy_update.c to 'mxGetDoubles()'
+	16:45 Change the temperature setting in the init_20200510.mat from 0.05 K to 0.2 K. Run MCscriptEQ(20200510).
+	22:08 Change the scan type in init_202005101.mat to field scan and set the temperature to 0.1 K. Run MCscript(202005102) on Kelvinox-400 computer.
+May. 11, 2020
+	07:47 Start MCmeasurefieldscan(202005101,0) on Kelvinox-400 computer for fieldscan simulation from 0 to 0.9 T at 0.1 K.
+	07:54 Start MCmeasurefieldscan(20200510,1) on Windows debugger for fieldscan simulation form 0 to 0.9 T at 0.2 K.
+	14:01 Change all (4 incidences) the mxGetPr() in dipole_direct.c to mxGetDoubles().
+May. 12, 2020
+	12:14 Change the execution of FieldloopEQ() and TloopEQ() inside MCscript() to parallel using parfeval() and that of Fieldloop(), TloopEQ() in MCmeasurefieldscan() by the same function.
+	12:24 Noticing the convergence is usually reached within 5E5 cycles in the thermalization process, adjust the thermalization iteration number as well as sampling iteration number to 5E5 cycles.
+	13:06 Create initial file, and run MCscriptEQ(20200512) on Kelvinox-400 computer for field scan at 5 mK.
+	16:30 Run the serial MCmeasurefieldscan(20200512,01) on Kelvinox-400 computer for field scan at 5 mK.
+	19:24 Test and run parallel version (4 workers) of MCscriptEQ(202005120) on Windows debugger for the thermalization step of the field scan at 10 mK. 
+	19:30 Test and run parallel version (8 workers) of MCscript(20200512) on 18T contrl computer for the thermalization steps of the field scan at 5 mK.
+May. 13, 2020
+	14:59 Test and run parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	Note: failed with an error (output dimension mismatch).
+	19:08 Test and run revised parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	Note: failed again
+	22:04 Test and run again revised parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	Note: failed again
+May. 14, 2020
+	16:19 Finished debugging the parallelized version of Mcmeasurefieldscan, run MCmeasurefieldscan(20200512,00) on 18T computer for field scan at 5 mK.
+	16:25 Run the serial MCmeasurefieldscan(20200512,00) on Kelvinox-400 using EQ results from the parallel version of MCscriptEQ(20200512) to generate results for field scan simulation at 5 mK.
+	Note: Parallel version appears to take longer than serial version, suspect race conditions.
+	Note: Parallalized code works as expected except for the lack of efficiency gain.
+May. 20, 2020
+	09:10 Create initial file for temperature scans with different supercell size (L = 5, 9, 11, 13). Run MCscriptEQ() on various computers using 10 replicates of supercell in each dimension for dipole interaciton calculation.
+	09:12 Create initial file for temperature scan with supercell size L = 7. Run McscriptEQ('20200520L7R5') using 5 replicates of supercell in each dimension for dipole interaction calculation.
+	12:30 Run parallelized MCmeasuretempscan() for the temperature scan at different supercell size (L = 5, 7, 9).
+	15:24 Create initial file for temperature scan with a supercell size (L = 10). Run MCscriptEQ() using 5 replicates of supercell in each dimension for dipole interaction calculation.
+	16:40 Create initial file for temperature scan with a supercell size (L = 10). Run MCscriptEQ() using 10 replicates of supercell in each dimension for dipole interaction calculation.
+May. 21, 2020
+	05:23 Run parallelized MCmeasuretempscan(20200520L11) for temperature scan with supercell size L = 11.
+	05:40 Run parallelized MCmeasuretempscan(20200520L10R5) for temperature scan with supercell size L = 10 using 5 replicates of supercell in each dimension.
+	05:44 Run parallelized MCmeasuretempscan(20200520L10R10) for temperature scan with supercell size L = 10 using 10 replicates of supercell in each dimension.
+	05:47 Run MCscriptEQ('20200520L20R5') using 5 replicates of supercell in each dimension for dipole interaction calculation.
+	Note: The program for unknow reason didn't save the file. Re-run on May. 22, 2020
+	05:51 Run MCscriptEQ('20200520L13') using 10 replicates of supercell in each dimension for dioile interaciton calculation.
+	05:52 Create initial file for temperature scan with supercell size L = 30. Run MCscriptEQ('20200520L30R2') using 2 replicates of supercell in each dimension for dipole calculation.
+	Note: Aborted on May, 22, 2020, 12:15 as it is taking too long
+	15:27 Create initial file for temperature scan with supercell size L = 7. run MCscriptEQ('20200520L7') using 10 replicates of supercell in each dimension for dipole interaction calculation.
+	15:33 Create initial file for temperature can with supercell size L = 50. Run McscriptEQ('20200520L50R0') using 0 replicates of supercell in each dimension for dipole calculation.
+	21:00 Create initial file for temperature can with supercell size L = 7. Run McscriptEQ('20200521L7R10') using 10 replicates of supercell in each dimension for dipole calculation. Set iteration limit from 5E5 to 1E6 for both thermalization stage and measurement stage.
+	21:08 Run MCmeasuretempscan('20200520L13') with supercell size L = 13 using 10 replicates of supercell in each dimension.
+May. 22, 2020
+	16:40 Run MCscriptEQ('20200520L20R5') for temperature scan with supercell size L = 20, and 5 replicates of supercell in each dimension.
+	Note: Simulation aborted.
+	21:33 Stop all simulations as a bug was found in LiIonsF4_MCEQ().
+	21:34 Run MCscriptEQ('20200520L13R10') on windows debugger.
+	21:35 Run MCscriptEQ('20200520L11R10') on Kelvinox-25.
+	21:36 Run MCscriptEQ('20200520L9R10') on CUDA machine-1.
+	21:40 Run MCscriptEQ('20200520L7R10') on 18T control computer.
+	21:44 Run MCscriptEQ('20200520L20R5') on COMSOL computer.
+May. 23, 2020
+	03:20 Run MCscriptEQ('20200520L5R10') on 18T control computer.
+	05:30 Run MCmeasuretempscan('20200520L5') on CUDA machine-1
+	05:36 Run MCmeasuretempscan('20200520L9') on Kelvinox-400 computer.
+	07:24 Run MCmeasurefieldscan('20200520L7') on CUDA machine-1.
+	12:41 Run MCmeasuretempscan('20200520L11') on Kelvinox-25.
+	12:45 Found a major bug in Ising_basis() where the truncation of the basis was done without ranking, hence was done not using the lowest two levels. Revise the code and run MCscriptEQ('20200520L7R10') on Kelvinox-400 computer.
+	13:18 Run MCscriptEQ('20200520L11R10') on 18T control computer with revised Ising_basis() funciton.
+	13:28 Run MCscriptEQ('20200520L13R10') on CUDA machine-1 with revised Ising_basis() funciton.
