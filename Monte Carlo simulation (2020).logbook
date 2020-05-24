@@ -80,16 +80,30 @@ May. 22, 2020
 	Note: Simulation aborted.
 	21:33 Stop all simulations as a bug was found in LiIonsF4_MCEQ().
 	21:34 Run MCscriptEQ('20200520L13R10') on windows debugger.
+	Note: simulation crushed due to version clash.
 	21:35 Run MCscriptEQ('20200520L11R10') on Kelvinox-25.
 	21:36 Run MCscriptEQ('20200520L9R10') on CUDA machine-1.
 	21:40 Run MCscriptEQ('20200520L7R10') on 18T control computer.
 	21:44 Run MCscriptEQ('20200520L20R5') on COMSOL computer.
+	Note: Aborted on May. 23, 2020 14:48.
 May. 23, 2020
 	03:20 Run MCscriptEQ('20200520L5R10') on 18T control computer.
 	05:30 Run MCmeasuretempscan('20200520L5') on CUDA machine-1
 	05:36 Run MCmeasuretempscan('20200520L9') on Kelvinox-400 computer.
 	07:24 Run MCmeasurefieldscan('20200520L7') on CUDA machine-1.
 	12:41 Run MCmeasuretempscan('20200520L11') on Kelvinox-25.
-	12:45 Found a major bug in Ising_basis() where the truncation of the basis was done without ranking, hence was done not using the lowest two levels. Revise the code and run MCscriptEQ('20200520L7R10') on Kelvinox-400 computer.
+	12:45 Found a major bug in Ising_basis() where the truncation of the basis was done without ranking, hence was done not using the lowest two levels. 
+	12:48 Revise the code and run MCscriptEQ('20200520L7R10') on Kelvinox-400 computer.
 	13:18 Run MCscriptEQ('20200520L11R10') on 18T control computer with revised Ising_basis() funciton.
 	13:28 Run MCscriptEQ('20200520L13R10') on CUDA machine-1 with revised Ising_basis() funciton.
+	14:44 Run MCscriptEQ('20200520L5R10') on windows debugger with revised Ising_basis() funciton.
+	14:49 Run MCscriptEQ('20200520L9R10') on COMSOL computer with revised Ising_basis() funciton.
+	15:56 Run MCmeasurefieldscan2('20200520L5') on windows debugger with revised Ising_basis() function.
+	16:01 Run Mcmeasurefieldscan2('20200520L7') on Kelvinox-400 computer with revised Ising_basis() funciton.
+May. 24, 2020
+	06:00 Run MCmeasurefieldscan2('20200520L9') on COMSOL computer with revised Ising_basis() function.
+	06:02 Run MCmeasurefieldscan2('20200520L11') on Kelvinox-400 computer with revised Ising_basis() function.
+	06:04 Run MCmeasurefieldscan2('20200520L13') on 18T control computer with revised Ising_basis() function.
+	06:09 Run MCscriptEQ('20200520L30R2') on windows debugger with revised Ising_basis() function.
+	06:22 Run MCscriptEQ('20200520L20R5') on CUDA machine-1 with revised Ising_basis() funciton.
+	06:32 Run MCscriptEQ('20200520L50R0') on Kelvinox-25 with revised Ising_basis() function.
