@@ -219,6 +219,9 @@ May. 22, 2020
 	15:20 T_1K = 1.7 K. Start automatic condensing sequence.
 	16:03 T_1K = 2.1 K, T_mc = 1.7 K, T_still = 2.2 K. Suspect there is some helium exchange gas remain in the vacuum chamber, stop automated condensing sequence, close V1, open V4, stop 1K pot.
 	16:17 Turn on sorb heater at 180 mW and start to extract the helium exchange gas.
+	16:55 Pressure inside the vacuum chamber reached 9.3E-6 mBar. Close the top valve and stop pumping.
+	17:00 Start the automatic condensing sequence.
+	17:38 P1 = 0.030 Bar. Stop automatic condensing sequence, adjust needle valve to have P_1K = 0.25 mBar. Turn on turbo pump.
 	19:57 T_mc = 420 mK. P1 = 0.000 Bar. T_still = 673 mK. Close V9 and open V4 to remove some mixtures.
 	21:16 Turn on still heater at 150 uW.
 	21:53 P1 = 0.05 Bar. close V4, and change still heater power to 200 uW.
@@ -247,3 +250,10 @@ May. 24, 2020
 	16:54 T_1K = 2.1 K, T_mc = 581 mK. Close V4 and open V1.
 	17:03 Close V1 and open V4, turn on still heater at 200 uW and recollect all the mixtures.
 	18:27 T_1K = 2.52 K, T_mc = 457 mK. Turn off still heater. Close V4 and open V1.
+May. 25, 2020
+	05:57 T_1K = 2.94 K, T_mc = 221 mK.
+	06:02 Palse pen V9 to put mixtures back into circulation.
+	07:37 Turn up the needle valve and open V9 to completely empty the dump.
+	07:41 T_1K = 1.85 K, T_mc = 773 mK. 4He level = 48.7%.
+	07:57 P1 = 70 mBar, T_1K = 1.48 K. run the automatic condensing sequence.
+	08:40 Stop automatic condensing sequence, keep V9 open and turn on turbo pump. Adjust the needle valve so that P_1K = 0.35 mBar.
