@@ -107,3 +107,12 @@ May. 24, 2020
 	06:09 Run MCscriptEQ('20200520L30R2') on windows debugger with revised Ising_basis() function.
 	06:22 Run MCscriptEQ('20200520L20R5') on CUDA machine-1 with revised Ising_basis() funciton.
 	06:32 Run MCscriptEQ('20200520L50R0') on Kelvinox-25 with revised Ising_basis() function.
+	Note: Aborted on May. 25, 2020 at 14:42. Calculation too slow to resolve.
+May. 25, 2020
+	09:32 Create initial file and run MCscriptEQ('20200525L7R5') on 18T control computer for temperature scan with revised Ising_basis() function, using 5 replicates of the supercell (L = 7) in each dimension.
+	09:36 Create initial file and run MCscriptEQ('20200525L7R30') on Kelvinox-25 computer for temperature scan with revised Ising_basis() function, using 30 replicates of the supercell (L = 7) in each dimension.
+	09:37 Create initial file and run MCscriptEQ('20200525L7R20') on Kelvinox-400 computer for temperature scan with revised Ising_basis() function, using 20 replicates of the supercell (L = 7) in each dimension.
+	13:30 Run MCmeasurefieldscan2('20200525L7R5') on 18T control computer for temperature scan with revised Ising_basis() funciton.
+	13:32 Run MCmeasurefieldscan2('20200525L7R20') on Kelvinox-400 computer for temperature scan with revised Ising_basis() funciton.
+	16:47 Run MCmeasurefieldscan2('20200525L7R30') on Kelvinox-25 computer for temperature scan with revised Ising_basis() funciton.
+	16:47 Run MCmeasurefieldscan2('20200525L7R10') on COMSOL computer for temperature scan with revised Ising_basis() funciton.

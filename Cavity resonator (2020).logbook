@@ -68,4 +68,9 @@ May. 24, 2020
 	13:20 Start to measure S11 while sweeping the magnetic field from 6 to 2 T at 0.05 T/min, and AC frequency from 3.595 GHz to 3.655 GHz (0.025 GHz steps) at +0 dBm (10 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
 	19:05 T_mc = 435 mK. Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.05 T/min, and AC frequency from 3.595 GHz to 3.655 GHz (0.025 GHz steps) at -20 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
 May. 25, 2020
-	
+	13:20 T_mc = 59 mK. T_cav = 128 mK. Set excitation power to +20 dBm with 30 dB attenuation on receiving.
+	14:05 T_cav = 500 mK, T_cav = 250 mK. Start to measure S11 while sweeping the magnetic field from 2 to 6 T at 0.05 T/min, and AC frequency from 3.595 GHz to 3.655 GHz (0.025 GHz steps) at +20 dBm (30 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
+	15:26 T_mc = 345 mK, T_cav = 712 mK. Set excitation power to +10 dBm with 30 dB attenuation on receiving.
+	16:12 T_cav = 521 mK. Start to measure S11 while sweeping the magnetic field from 6 to 0 T at 0.03 T/min, and AC frequency from 3.595 GHz to 3.655 GHz (0.025 GHz steps) at +10 dBm (20 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
+	Note: 0.05T/min appears to cause a lot of heating, revised to 0.03 T/min
+	16:30 Mount sample SC00000102-1 () onto a hall probe (CYSH12AF-SSF) with adhesive loctite-401 (IDH No. 195905), and then subsequently mount the assembly onto the sample holder using the same adhesive.

@@ -257,3 +257,9 @@ May. 25, 2020
 	07:41 T_1K = 1.85 K, T_mc = 773 mK. 4He level = 48.7%.
 	07:57 P1 = 70 mBar, T_1K = 1.48 K. run the automatic condensing sequence.
 	08:40 Stop automatic condensing sequence, keep V9 open and turn on turbo pump. Adjust the needle valve so that P_1K = 0.35 mBar.
+	09:48 P1 = 0.001 Bar. Close V9 and open V4 to recollect some mixtures. T_still = 687 mK. Turn on still heater at 100 uW.
+	10:02 T_still = 712 mK. Change still heater power to 150 uW.
+	10:52 P1 = 50 mBar. Close V9, change still heater power to 200 uW.
+	11:06 T_still = 757 mK, change still heater power to 250 uW.
+	13:20 Change still power to 300 uW.
+	15:32 T_still = 840 mK, change still heater power to 350 uW.
