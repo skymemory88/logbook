@@ -263,3 +263,9 @@ May. 25, 2020
 	11:06 T_still = 757 mK, change still heater power to 250 uW.
 	13:20 Change still power to 300 uW.
 	15:32 T_still = 840 mK, change still heater power to 350 uW.
+May. 26, 2020
+	07:27 T_mc = 154 mK, T_still = 941 mK. Change still heater power to 300 uW.
+	07:31 T_still = 920 mK, change still heater power to 250 uW.
+	15:29 4He level = 33.7%, start the helium transfer to the 18T cryostat.
+	17:00 4He level = 79.1%, stop the transfer.
+	17:14 Set still heater power to 200 uW and then set mixing chamber temperature to 470 mK.
