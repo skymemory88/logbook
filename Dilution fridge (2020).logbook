@@ -269,3 +269,20 @@ May. 26, 2020
 	15:29 4He level = 33.7%, start the helium transfer to the 18T cryostat.
 	17:00 4He level = 79.1%, stop the transfer.
 	17:14 Set still heater power to 200 uW and then set mixing chamber temperature to 470 mK.
+May. 27, 2020
+	12:47 Turn off mixing chamber heater.
+	14:04 Set mixing chamber temperature to 250 mK.
+	14:22 T_mc = 250 mK, set the mixing chamber temperature to 270 mK.
+	14:25 Set mixing chamber temperature to 280 mK.
+May. 28, 2020
+	09:10 Turn off mixing chamber heater, open V4 and close V1 to recollect some mixtures.
+	Note: 1K pot temperature went up to 2.4 K for no apparent reason, turbo pump shut off automatically due to self-protection.
+	09:12 Turn on sorb heater at 150 mW, turn off still heater. Open bypass valve.
+	09:15 Close 1K pot, change sorb heater power to 100 mW.
+	09:22 T_sorb = 27 K, change sorb heater power to 50 mW.
+	09:36 Turn on mixing chamber heater, set the mixing chamber temperature to 600 mK.
+	Note: The high temperature at sorb with low heating power and huge temperature gap between mixing chamber temperature and that of the sorb suggest a lack of helium exchange gas inside the vacuum can.
+	09:55 T_mc = 1.4 K. Turn off mixing chamber heater.
+	10:37 P1 = 770 mBar. Turn off Sorb heater.
+	10:48 Close bypass valve, and start 1K pot. Close V9 and open V1, palse open V4 to start condensing prcedure again.
+	10:55 P1 = 700 mBar, stop injecting mixtures.
