@@ -286,3 +286,11 @@ May. 28, 2020
 	10:37 P1 = 770 mBar. Turn off Sorb heater.
 	10:48 Close bypass valve, and start 1K pot. Close V9 and open V1, palse open V4 to start condensing prcedure again.
 	10:55 P1 = 700 mBar, stop injecting mixtures.
+May. 29, 2020
+	06:18 Turn off mixing chamber heater, open V4 and close V1 to recollect all mixtures.
+	07:41 Turn on sorb heater at 200 mW and open bypass valve. Close 1K pot pumping line. 4He level = 49.8%.
+	07:52 P1 = 768 mBar, turn on turbo pump to extract the last bit of the mixture.
+	08:00 Close V12, SV3, SV1, and then V4. Switch off turbo pump and sorb heater.
+	08:08 Close V1, switch off forepump, remove helium cold trap.
+	08:15 Start to extract the fridge from the cryostat. 4He level = 46.9%.
+	09:32 Extraction complete. 4He level = 44.7%.

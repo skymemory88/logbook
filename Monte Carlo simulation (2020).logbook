@@ -38,7 +38,7 @@ May. 11, 2020
 	07:54 Start MCmeasurefieldscan(20200510,1) on Windows debugger for fieldscan simulation form 0 to 0.9 T at 0.2 K.
 	14:01 Change all (4 incidences) the mxGetPr() in dipole_direct.c to mxGetDoubles().
 May. 12, 2020
-	12:14 Change the execution of FieldloopEQ() and TloopEQ() inside MCscript() to parallel using parfeval() and that of Fieldloop(), TloopEQ() in MCmeasurefieldscan() by the same function.
+	12:14 Change the execution of FieldloopEQ() and TloopEQ() inside MCscript() to parallel using 'parfor' and that of Fieldloop(), TloopEQ() in MCmeasurefieldscan() by the same function.
 	12:24 Noticing the convergence is usually reached within 5E5 cycles in the thermalization process, adjust the thermalization iteration number as well as sampling iteration number to 5E5 cycles.
 	13:06 Create initial file, and run MCscriptEQ(20200512) on Kelvinox-400 computer for field scan at 5 mK.
 	16:30 Run the serial MCmeasurefieldscan(20200512,01) on Kelvinox-400 computer for field scan at 5 mK.
@@ -120,4 +120,26 @@ May. 25, 2020
 May. 27, 2020
 	09:09 Run MCscriptEQ('20200527L10R5') on CUDA machine-1.
 May. 28, 2020
-	08:30 Run MCmeasurefieldscan('20200527L10R5') on CUDA machine-1.
+	08:30 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+	Note: an error occured, the program was forced to quit
+May. 29, 2020
+	07:45 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+May. 31, 2020
+	09:15 Revise and run single core thermalization program MCscriptEQ('20200530L10R5') on 18T control computer.
+Jun. 01, 2020
+	10:16 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+Jun. 02, 2020
+	09:20 Run MCmeasurefieldscan('20200530L10R5') on 18T control computer.
+	15:17 Run MCmeasurefieldscan('20200530L10R5') on 18T control computer.
+Jun. 03, 2020
+	08:30 Revise the crystal field function and run create initial file using create_init_file('20200603L10R5') and run MCscriptEQ('20200603L10R5') on 18T control computer.
+	Note: Terminated due to the discovery of a bug.
+	08:50 Create initial file and run MCscriptEQ('20200603L7R5') on Kelvinox-25 computer.
+	10:30 Correct the bug in LiIonsF4_MCEQ() and rerun MCscriptEQ('20200530L10R5') on CUDA machine-1.
+	10:33 Run MCscriptEQ('20200603L10R5') on 18T control computer.
+	13:40 Run MCmeasuretempscan('20200603L7R5') on Kelvinox-25 computer.
+	14:13 Run MCmeasurefieldscan('20200603L10R5') on 18T control computer.
+	17:26 Revise the convergence test criteria to moving window variance method and run MCscriptEQ('20200603L7R5') on Kelvinox-25.
+	20:33 Run MCmeasuretempscan('20200603L7R5') on Kelvinox-25 computer.
+Jun. 04, 2020
+	08:53 Run MCmeasuretempscan('20200603L10R5') on Kelvinox-400 computer.
