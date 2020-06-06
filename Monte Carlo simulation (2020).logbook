@@ -143,3 +143,11 @@ Jun. 03, 2020
 	20:33 Run MCmeasuretempscan('20200603L7R5') on Kelvinox-25 computer.
 Jun. 04, 2020
 	08:53 Run MCmeasuretempscan('20200603L10R5') on Kelvinox-400 computer.
+	22:52 Revise convergence criteria and create initial file, run MCscriptEQ('20200605L16R5') on Windows debugger.
+	23:00 Run MCscriptEQ('20200605L10R5') on 18T control computer with the new convergence criteria.
+Jun. 05, 2020
+	13:18 Run MCmeasuretempscan('20200605L10R5') on 18T control computer.
+Jun. 06, 2020
+	20:37 Change measurement points on temperature axis. Create initial file and run MCscriptEQ('20200606L10R5') on 18T control computer.
+	21:32 Create initial file and run McscriptEQ('202006060L14R5') on CUDA machine-1.
+	21:37 Create initial file and run McscriptEQ('202006060L16R5') on Kelvinox-25.
