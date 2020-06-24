@@ -294,3 +294,24 @@ May. 29, 2020
 	08:08 Close V1, switch off forepump, remove helium cold trap.
 	08:15 Start to extract the fridge from the cryostat. 4He level = 46.9%.
 	09:32 Extraction complete. 4He level = 44.7%.
+Jun. 17, 2020
+	08:50 Pressure inside the vacuum can reached 1.3E-5 mBar. Stop evacuation and prepare to insert the fridge into the cryostat. Put in some helium-4 exchange gas and flush the 1K pot pumping line for one minute using pressurized helium gas.
+	11:49 4He level = 2.2%, start transferring helium into 18T cryostat.
+	12:03 T_sorb = 4.37 K, T_mc = 4.33 K. 
+	12:14 Turn on sorb heater at 200 mW and start to extract exchange gas.
+	12:57 Pressure inside the vacuum can reached 6.1E-6 mBar. Stop evacuation.
+	13:13 4He level = 68.8%. stop the transfer.
+	14:23 Start 1K pot and cool down procedure. Pulse open V4 to let in 10% of mixture.
+Jun. 19, 2020
+	16:40 Start automatic condensing sequence.
+	17:01 Stop automatic condensing sequence. Start manually pulse open V9 to condense.
+Jun. 20, 2020
+	11:20 Continue to pulse open V9 to condense.
+	16:37 P1 = 0.004 Bar, T_mc = 318 mK. Start turbo pump.
+	18:46 P1 = 0.000 Bar. T_still = 718 mK. Close V9 and open V4 to remove some mixture from circulation.
+	19:22 T_still = 687 mK. Turn on still heater at 150 uW. 
+	19:48 P1 = 0.049 Bar. Close V4.
+	20:34 T_mc = 96.8 mK, T_still = 794 mK. Change still heater power to 200 uW.
+	21:22 T_mc = 66 mK, T_still = 821 mK, change still heater power to 250 uW.
+Jun. 22, 2020
+	08:41 T_mc = 59 mK, T_1K = 1.42 K, turn down needle valve on 1K pot to reduce the pressure to 0.5 mBar. 4He level = 30.9%, start transferring helium into the cryostat.

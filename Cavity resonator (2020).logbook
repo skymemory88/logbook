@@ -101,3 +101,22 @@ May. 28, 2020
 	17:53 T_mc = 1.92 K, set the mixing chamber temperature to 2.5 K.
 	18:05 T_mc = 1.96 K, Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.580 GHz to 3.670 GHz (0.025 GHz steps) at -20 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
 	23:05 Start to measure S11 while sweeping the magnetic field from 9 to 0 T at 0.03 T/min, and AC frequency from 3.580 GHz to 3.670 GHz (0.025 GHz steps) at -20 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
+Jun. 15, 2020
+	15:17 Mount a LiHoF4 sample (SC00000126, 2.6 x 1.3 x 0.5 mm) on to the bottom of the cavity immediately next to the outter wall (d24mm_t5mm_flex) using loctite-401 adhesive (IDH No. 195905).
+	17:32 Mount two hall probes (CYSJ166A, CYSH12AF) onto a sample holder using black stycast (STYCAST 2850 FT, batch_O26G996520). Both face the direction of magnetic polarization of the cavity field. CYSH12AF sits higher in position than CYSJ166A.
+Jun. 16, 2020
+	09:27 Conncet the cavity thermometer to fisher connector (5-8), R56 = R78 = 323 Ohm, R57 = R68 = 2.53 KOhm, Hall probe CYSJ166A to fisher connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.92 KOhm, R(13-16) = 1.48 kOhm, R(14-15) = 2.67 kOhm., Hall probe CYSH12AF to fisher connector (17-20), R(17-18) = R(19-20) = R(17-19) = R(18-20) = 609 Ohm, R(17-20) = R(18-19) = 645 Ohm.
+Jun. 19, 2020
+	17:47 Connect CYSJ166A to lock-in-1 (Hall-1 in data) and connect CYSH12AF to lock-in-2 (Hall-2 in data).
+Jun. 20, 2020
+	21:49 T_mc = 61.5 mK. Start to ramp magnetic field from 0 to 1 T at 0.02 T/min and record the hall sensors data inside the cavity.
+	Note: Program didn't excute properly. Reinitiate on Jun 21, 2020.
+Jun. 21, 2020
+	11:27 T_mc = 59.5 mK, T_cav = 124 mK. Start to ramp magnetic field from 0 to 1 T at 0.02 T/min and record the hall sensors data inside the cavity.
+	Note: Restart the program at 12:31 as the lockin signals went out of sensitivity range.
+	11:50 Start to ramp magnetic field from 0 to 9 T at 0.02 T/min and record the hall sensors data inside the cavity.
+	Note: parts of the data unuseable due to the lockin signals moved out of sensitivity range.
+	19:10 Start to ramp magnetic field from 9 to 0 T at 0.03 T/min and record the hall sensors data inside the cavity.
+Jun. 22, 2020
+	09:12 Connect the hall sensor (CYSH12AF-fisher 1-4) facing the magnetic field to lock-in-1 (GPIB 12).
+	09:45 Start field scan from 0 to 9 T and collect hall sensors (CYSH12AF-fisher-1-4-lockin-1-GPIB12, CYSH12AF-fisher-17-20-lockin-2-GPIB14) data.

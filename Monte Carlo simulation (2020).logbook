@@ -144,6 +144,7 @@ Jun. 03, 2020
 Jun. 04, 2020
 	08:53 Run MCmeasuretempscan('20200603L10R5') on Kelvinox-400 computer.
 	22:52 Revise convergence criteria and create initial file, run MCscriptEQ('20200605L16R5') on Windows debugger.
+	Note: Terminated the program as it runs for too long.
 	23:00 Run MCscriptEQ('20200605L10R5') on 18T control computer with the new convergence criteria.
 Jun. 05, 2020
 	13:18 Run MCmeasuretempscan('20200605L10R5') on 18T control computer.
@@ -151,3 +152,27 @@ Jun. 06, 2020
 	20:37 Change measurement points on temperature axis. Create initial file and run MCscriptEQ('20200606L10R5') on 18T control computer.
 	21:32 Create initial file and run McscriptEQ('202006060L14R5') on CUDA machine-1.
 	21:37 Create initial file and run McscriptEQ('202006060L16R5') on Kelvinox-25.
+Jun. 07, 2020
+	14:02 Run MCmeasuretempscan('20200606L10R5') on 18T control computer.
+	14:07 Create initial file and run MCscriptEQ('20200607L7R5') on windows debugger.
+	18:37 Run MCmeasuretempscan('20200607L7R5') on windows debugger.
+	Note: data appeared to be very noisy with the new choice of temperature points and MC sampling size. Close inspection of the data reveals that the the sample wasn't properly thermalized
+Jun. 08, 2020
+	09:31 Create initial file and run MCscriptEQ('20200608L10R5') on windows debugger.
+	Note: Aborte and reran with more strict convergence test (delta_estm = 0.0025)
+	18:00 Run MCmeasuretempscan('20200608L7R10') on windows debugger.
+	Note: With 500 MC sampling points in phase space at measurement stage.
+Jun. 11, 2020
+	11:27 Create initial file and run MCscriptEQ('20200611L7R10') on windows debugger without convergence test.
+Jun. 19, 2020
+	20:57 Run MCmeasuretempscan('20200606R14L5') on CUDA machine-1.
+	21:06 RUn MCmeasuretempscan('20200611L7R10') on AMD machine.
+Jun. 20, 2020
+	10:19 Create initial file and run MCscriptEQ('20200620L10R10') on windows debugger with 500*N thermalization steps and 1000*N measurement steps.
+	Note: Stop the process to rewrite paraTloopEQ() function to ensre ergodicity.
+	19:00 Revise paraTloopEQ() to use thermalize at each temperature in parallel and then pick the configuration with the lowest final global energy.
+	20:20 Run MCscriptEQ('20200620L10R10') on windows debugger with revised paraTloopEQ().
+	Note: Stopped the process due to a bug in LiIonsF4_MCEQ(). Fixed and restarted the calculation on Jun 21, 2020.
+Jun. 21, 2020
+	20:50 Run MCscriptEQ('20200611L7R19') on AMD machine with revised paraTloopEQ().
+	21:00 Run McscriptEQ('20200620L10R10') on windows debugger with revised paraTloopEQ().
