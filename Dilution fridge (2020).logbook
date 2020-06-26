@@ -315,3 +315,6 @@ Jun. 20, 2020
 	21:22 T_mc = 66 mK, T_still = 821 mK, change still heater power to 250 uW.
 Jun. 22, 2020
 	08:41 T_mc = 59 mK, T_1K = 1.42 K, turn down needle valve on 1K pot to reduce the pressure to 0.5 mBar. 4He level = 30.9%, start transferring helium into the cryostat.
+Jun. 26, 2020
+	17:16 4He level = 35.1%, start transferring helium into the cryostat.
+	17:56 4He level = 56.2%, stop transferring.

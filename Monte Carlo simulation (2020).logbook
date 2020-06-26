@@ -176,3 +176,16 @@ Jun. 20, 2020
 Jun. 21, 2020
 	20:50 Run MCscriptEQ('20200611L7R19') on AMD machine with revised paraTloopEQ().
 	21:00 Run McscriptEQ('20200620L10R10') on windows debugger with revised paraTloopEQ().
+Jun. 22, 2020
+	14:30 Revise the MCscriptEQ() to have the simulation at each temperature relax simultaneously on parallel threads and keep only the configuration with the lowest energy in the end.
+	20:30 Run MCmeasuretempscan('20200620L7R10') on AMD machine.
+Jun. 23, 2020
+	20:20 Run MCmeasuretempscan('20200620L7R10') on AMD machine with trimmed down data saving scheme.
+Jun. 25, 2020
+	07:20 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 3rd continuation to the 4th.
+	12:55 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 4th contiuation to the 5th at only temperature points between 100 mK and 148 mK.
+	20:30 RUn ContMCtempscan on AMD machine to continue calculation from the 4th continuation to the 5th at all temperature points.
+Jun. 26, 2020
+	07:20 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 5rd continuation to the 6th.
+	11:56 Revise and debug, introducing parallel tempering procedure in LiIonsF4_MC().
+	18:34 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 6th continuation to the 7th.
