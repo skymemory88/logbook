@@ -318,3 +318,84 @@ Jun. 22, 2020
 Jun. 26, 2020
 	17:16 4He level = 35.1%, start transferring helium into the cryostat.
 	17:56 4He level = 56.2%, stop transferring.
+Jun. 30, 2020
+	16:00 4He level = 31.3%. Start transferring helium into the cryostat.
+	17:15 4HE level = 65%, stop the transfer.
+Jul. 01, 2020
+	12:53 Turn off still heater and turbo pump, open V4, close V1. Turn on sorb heater at 200 mW. Close bypass valve and 1K pot pumping line.
+	13:05 Turn down the sorb heater to 150 mW. Turn on mixing chamber heater using setpoint (at 2K).
+	16:00 P1 = 775 mBar, turn on turbo pump.
+	16:10 P1 = 776 mBar. Turn off turbo pump, close V4, V5, SV3, V12 and start to extract the fridge from the cryostat.
+	16:49 Extraction complete.
+Jul. 02, 2020
+	17:30 Start evacuating the vacuum chamber.
+Jul. 03, 2020
+	08:10 Pressure inside the vacuum chamber reached 1.1E-5 mBar, stop pumping.
+	08:23 Put in some helium exchange gas into the vacuum chamber. Flush the 1K pot pumping line with pressurzied helium gas for one minute.
+	08:30 4He level = 46.5%, start inserting the fridge into the cryostat.
+	10:20 Insert complete, 4He level = 36.5%, start to transfer liquid helium into the cryostat.
+	11:02 T_mc = 4.39 K, T_cav = 4.33 K, T_still = 5.81 K, T_sorb = 17.8 K.
+	11:31 Start to extract exchange gas from the vacuum chamber. Turn on sorb heater at 180 mW.
+	12:14 4He level = 68%, stop the transfer. Pressure inside the vacuum chamber reached 7.1E-6 mbar. Stop evacuation.
+	12:26 Load the helium cold trap.
+	12:36 T_1K = 4.3 K, start 1K pot, open V12, SV3, SV1, close bypass valve.
+	12:40 T_1K = 1.4 K, start condensing.
+	12:44 P1 = 699 mBar. Stop condensing.
+	17:40 Start automatic condensing sequence.
+	18:30 Stop condensing sequence, leave V9 open.
+	20:21 P1 = 0.000 Bar. Close V9, and open V4 to remove some mixtures.
+	20:56 P1 = 0.021 Bar, T_still = 788 mK. Turn on still heater at 120 uW.
+Jul. 05, 2020
+	20:45 Turn off turbo pump.
+Jul. 06, 2020
+	21:51 T_mc = 700 mK. Turn on still heater at 200 uW, close V1 and open V4, stat to recollect the mixtures.
+	21:56 Turn on sorb heater at 200 mW for 30 s.
+Jul. 07, 2020
+	07:20 Turn on sorb heater at 200 mW.
+	08:10 P1 = 0.700 Bar, turn off sorb and still heaters. Close V4 and open V1 to start circulation.
+	08:32 Turn on turbo pump.
+	08:45 Turn off turbo pump, open V4, close V1, and turn on sorb heater at 200 mW.
+	09:10 P1 = 768 mBar. Turn off sorb heater, close V4, and open V1.
+	09:13 Start to pulse open V9 to let in some mixtures into circulation.
+	09:20 P1 = 700 mBar, stop injecting mixtures.
+	09:48 T_mc = 648 mK, turn on mixing chamber heater and set the temperature to 750 mK.
+	14:33 4He level = 29.7% start transferring helium into the cryostat.
+Jul. 08, 2020
+	17:15 Turn off mixing chamber heater and turbo pump. Turn on sorb heater at 200 mW. open V4 and close V1 to collect all the mixtures.
+	17:43 P1 = 773 mBar. Turn on turbo pump.
+	17:53 Close 1K pot pumping line and open bypass valve.
+Jul. 09, 2020
+	15:40 Open SV3, V12, and V1, close bypass valve. Refill nitrogen cold trap, start 1K pot. P
+	15:45 Pulse open V4 to start condensing mixtures.
+	15:50 P1 = 0.700 mBar. Close V4.
+Jul. 10, 2020
+	14:11 4He level = 29.3%, start transferring helium into the cryostat.
+	15:28 4He level = 57.2%, stop the transfer.
+Jul. 14, 2020
+	10:10 Turn on sorb heater at 200 mW, open bypass valve and V4, close v1. Start to collect all mixtures. 4He level = 25.6%.
+	10:40 Turn on turbo pump.
+	10:50 P1 = 775 mBar. Close V4, SV3, V12, turn off sorb heater and turbo pump.
+Jul. 21, 2020
+	12:05 Start to evacuate the vacuum chamber.
+	15:00 Pressure inside the vacuum chamber reached 9.4E-5 mBar. Stop pumping.
+	15:05 Put in some helium-4 exchange gas and flush the 1K pot for 1 minute.
+	15:10 Start to insert the fridge into the cryostat.
+	16:10 4He level = 5.6%, start to transfer helium into the cryostat.
+	17:56 4He level = 58.0%. Stop transferring.
+Jul. 22, 2020
+	11:06 4He level = 46.0%, start to tranfer helium into the cryostat.
+	13:49 4He level = 87.9%, stop the tranfer.
+Jul. 23, 2020
+	10:30 Re-evacuate the vacuum chamber as automatic cool down failed.
+	14:20 Start automatic condensing sequence.
+	16:10 Turn off automatic condensing sequence, keep V4 open to completely empty the dump.
+	19:10 P1 = 0.000 Bar, close V4, and open V9 to put in some mixture.
+	22:00 P1 = 0.050 Bar, close V9. Turn on turbo pump.
+Jul. 28, 2020
+	08:25 Turn off turbo pump, close V1, and open V9 to recollect all the mixtures.
+Aug. 03, 2020
+	09:45 4He level = 13.6%, start to transfer liquid helium into the cryostat.
+Aug. 05, 2020
+	10:40 Mount an additional semi rigid coax cable onto the fridge.
+Aug. 06, 2020
+	11:53 Start to evacuate the vacuum chamber.

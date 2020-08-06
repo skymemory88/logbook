@@ -150,8 +150,8 @@ Jun. 05, 2020
 	13:18 Run MCmeasuretempscan('20200605L10R5') on 18T control computer.
 Jun. 06, 2020
 	20:37 Change measurement points on temperature axis. Create initial file and run MCscriptEQ('20200606L10R5') on 18T control computer.
-	21:32 Create initial file and run McscriptEQ('202006060L14R5') on CUDA machine-1.
-	21:37 Create initial file and run McscriptEQ('202006060L16R5') on Kelvinox-25.
+	21:32 Create initial file and run McscriptEQ('20200606L14R5') on CUDA machine-1.
+	21:37 Create initial file and run McscriptEQ('20200606L16R5') on Kelvinox-25.
 Jun. 07, 2020
 	14:02 Run MCmeasuretempscan('20200606L10R5') on 18T control computer.
 	14:07 Create initial file and run MCscriptEQ('20200607L7R5') on windows debugger.
@@ -189,3 +189,20 @@ Jun. 26, 2020
 	07:20 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 5rd continuation to the 6th.
 	11:56 Revise and debug, introducing parallel tempering procedure in LiIonsF4_MC().
 	18:34 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 6th continuation to the 7th.
+Jun. 27, 2020
+	15:00 Revise and debug parallel tempering procedure to alternate swapping attempt with left and right thread. Run Mcmeasurefieldscan('20200620L7R10') on 18T control computer.
+	16:33 Create initial file and run MCscriptEQ('20200627L10R10') on Kelvinox-400.
+Jun. 28, 2020
+	10:15 Revice the parallel tempering procedure to have left and right swapping attempts back to back and run MCmeasuretempscan('20200620L7R10') on 18T control.
+	Note: rerun the program due to a bug.
+	11:28 Create initial file and run MCscriptEQ('20200628L5R10') on windows debugger.
+	16:15 Create initial file and run MCscriptEQ('20200628L7R10') on AMD machine with evenly spaced temperature points between 0.065 and 0.220 K.
+	16:20 Run MCmeasuretempscan('20200628L5R10') on windows debugger.
+Jun. 30, 2020
+	10:38 Create initial file and run MCscriptEQ('20200630L15R10') on CUDA machine.
+Jul. 11, 2020
+	11:30 Correct and revise parallel tempering scheme in LiIonF4_MC() and run MCmeasuretempscan('20200628L7R10') on AMD machine, and MCmeasuretempscan('20200628L5R10') on windows debugger.
+Jul. 13, 2020
+	00:13 Run MCmeasuretempscan('20200627L10R10') on Kelvinox-25 with paraTloop() implementing parallel tempering scheme.
+Jul. 17, 2020
+	10:05 Run Mcmeasurefieldscan('20200628L5R10') on office computer using parallel tempering scheme between next nearest neighbouring cores/workers.

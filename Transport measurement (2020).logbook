@@ -5,8 +5,8 @@ Mar. 05, 2020
 	13:44 mount a Hall probe (CYSH12AF) onto the copper sample stage next to the substrate, solder to connect four 0.100 mm copper wires to it with a 4-pin-lemo-connector on the other end.
 Mar. 06, 2020
 	11:32 Attach the sample stage to the secondary stage (top lid of a D24mm cavity) and mount it onto the cold finger.
-	11:33 Attach the sample wires to the fisher connector (9-12), R(9-10) = R(11-12) = R(9-11) = R (10-12) = 340 Ohm, R(9-12) = 320 Ohm, R(10-11) = 360 Ohm.
-	11:45 Attach the hall probe (CYSH12AF) to fisher connector (13-16), R(13-14) = R(14-16) = R(15-16) = R(13-15) = 620 Ohm, R(13-16) = R(14-15) = 650 Ohm.
+	11:33 Attach the sample wires to the fischer connector (9-12), R(9-10) = R(11-12) = R(9-11) = R (10-12) = 340 Ohm, R(9-12) = 320 Ohm, R(10-11) = 360 Ohm.
+	11:45 Attach the hall probe (CYSH12AF) to fischer connector (13-16), R(13-14) = R(14-16) = R(15-16) = R(13-15) = 620 Ohm, R(13-16) = R(14-15) = 650 Ohm.
 	11:55 Mount the radiation shield and seal the vacuum can.
 Mar. 10, 2020
 	18:12 T_mc = 650 mK, start a resistivity measurement using Van de pauw meathod. Scan field at fixed temperatures with temperatures between 650 mK and 1.2 K (at step of 50 mK) and field between 0 and 2 T at rate of 0.03 T/min.
@@ -16,14 +16,37 @@ Mar. 14, 2020
 	16:13 Abort experiment as the signal is too small.
 		Note: The sample size was too small and the conductivity is sufficiently high to make itself negligible comparing to the resistive twisted pairs of wires inside the dilution fridge. Tried both using current source and nanovoltmeter to measure the signal as well as a lock-in amplifier, neigher worked well to show the superconducting transition points.
 Jun. 16, 2020
-	16:00 Mount the sample to the bottom of a resonator cavity on the outside with four contacts conected to fisher connector (21-24), R(21-22) = 326 Ohm, R(23-24) = 356 Ohm, R(21-23) = 335 Ohm, R(22-24) = 348 Ohm, R(22-23) = 337 Ohm, R(21-24) = 346 Ohm.
-	16:35 Mount a Hall probe (CYSH12AF) onto the copper sample stage next to the substrate, connect to fisher connector (1-4), R(1-2) = R(3-4) = R(1-3) = R(2-4) = 612 Ohm, R(1-4) = R(2-3) = 650 Ohm
+	16:00 Mount the sample to the bottom of a resonator cavity on the outside with four contacts conected to fischer connector (21-24), R(21-22) = 326 Ohm, R(23-24) = 356 Ohm, R(21-23) = 335 Ohm, R(22-24) = 348 Ohm, R(22-23) = 337 Ohm, R(21-24) = 346 Ohm.
+	16:35 Mount a Hall probe (CYSH12AF) onto the copper sample stage next to the substrate, connect to fischer connector (1-4), R(1-2) = R(3-4) = R(1-3) = R(2-4) = 612 Ohm, R(1-4) = R(2-3) = 650 Ohm
 	18:00 Start ramping the temperature from 4.5 K to 0.5 K using mixing chamber heater at 0.02 K/min. Measure zero-field resisttivity measurement using Van der Pauw method.
 Jun. 22, 2020
-	16:10 Connect the sample (fisher 21-24) to lock-in-2 (GPIB 14), apply 5 V with 51 kOhm serial resistor. Time constant set to 2s, oscillator frequency to 79 Hz.
-	16:15 T_samp = 113 mK. Start to ramp the field fropm 9 T to 0 at 0.04 T/min, and taking resistance measurement using four probe method and collect Hall sensor (fisher 1-4-lockin-1-GPIB12) data at the same time.
-	23:00 Start to ramp the field fropm 0 T to 0.2 at 0.02 T/min, and taking resistance measurement using four probe method (lock-in-2-GPIB14) and collect Hall sensor (fisher 1-4-lockin-1-GPIB12) data at the same time.
+	16:10 Connect the sample (fischer 21-24) to lock-in-2 (GPIB 14), apply 5 V with 51 kOhm serial resistor. Time constant set to 2s, oscillator frequency to 79 Hz.
+	16:15 T_samp = 113 mK. Start to ramp the field fropm 9 T to 0 at 0.04 T/min, and taking resistance measurement using four probe method and collect Hall sensor (fischer 1-4-lockin-1-GPIB12) data at the same time.
+	23:00 Start to ramp the field fropm 0 T to 0.2 at 0.02 T/min, and taking resistance measurement using four probe method (lock-in-2-GPIB14) and collect Hall sensor (fischer 1-4-lockin-1-GPIB12) data at the same time.
 Jun. 23, 2020
-	09:32 Ramp field from 0 to 1 T at 0.02 T/min, taking resistance measurement using four proble method(lock-in-2-GPIB14) and collect Hall sensor (fisher 1-4-lockin-1-GPIB12) data at the same time.
+	09:32 Ramp field from 0 to 1 T at 0.02 T/min, taking resistance measurement using four proble method(lock-in-2-GPIB14) and collect Hall sensor (fischer 1-4-lockin-1-GPIB12) data at the same time.
 	Note: Still no clear signal.
-	10:49 Set Oscillator amplitude on lockin-1-GPIB12 to 50 mA and remove 51 kOhm serial resistor. Ramp field from 1 to 0 T at 0.02 T/min, taking resistance measurement using four proble method(lock-in-2-GPIB14) and collect Hall sensor (fisher 1-4-lockin-1-GPIB12) data at the same time.
+	10:49 Set Oscillator amplitude on lockin-1-GPIB12 to 50 mA and remove 51 kOhm serial resistor. Ramp field from 1 to 0 T at 0.02 T/min, taking resistance measurement using four proble method(lock-in-2-GPIB14) and collect Hall sensor (fischer 1-4-lockin-1-GPIB12) data at the same time.
+Jul. 02, 2020
+	15:40 Mount two elogated thin slices of BaNi2P2 sample onto the sample stage, connect sample 1 to fischer connector 13-16, and sample 2 to 17-20. R(13-14) = 331 Ohm, R(15-16) = 327 Ohm, R(14-15) = 330 Ohm, R(14-16) = R(13-15) = 329 Ohm, R(13-16) = 328 Ohm. R(17-18) = R(18-19) = 331 Ohm, R(19-20) = R(17-19) = R(17-20) = 315 Ohm, R(18-20) = 332 Ohm.
+Jul. 03, 2020
+	09:05 Connect the current source, thorugh 51 kOhm serial resistors, to fischer connector 13-14 for sample 1, and 18-20 for sample 2.
+Jul. 04, 2020
+	06:46 Start to ramp the field fropm 0 T to 1 T at 0.02 T/min, and taking resistance measurement using four probe method (current source + nanovoltmeter).
+	07:31 T_mc = 58 mK, T_samp = 140 mK. Start to ramp the field fropm 1 T to 0 T at 0.05 T/min, and taking resistance measurement using four probe method (current source + nanovoltmeter).
+	08:20 T_mc = 58 mK. Start to ramp the field fropm 0 T to 9 T at 0.03 T/min, and taking resistance measurement using four probe method (current source + nanovoltmeter).
+Jul. 05, 2020
+	12:51 Start phase diagram measurement using current source (Ts = 1s, I = 1mA) between 150 mK and 600 mK at 50 mK temperature stemp and field scan between 0 and 0.3 T.
+Jul. 06, 2020
+	18:10 Start phase diagram measurement using current source (Ts = 1s, I = 1mA) between 600 mK and 700 mK at 50 mK temperature stemp and field scan between 0 and 0.3 T.
+Jul. 07, 2020
+	09:49 Start phase diagram measurement using current source (Ts = 1s, I = 1mA) between 750 mK and 2.50 K at 50 mK temperature stemp and field scan between 0 and 0.3 T.
+Jul. 10, 2020
+	16:00 Start phase diagram measurement using current sourece (Ts = 1s, I = 1mA) by field-cool measurement between 800 mK and 2.80 K at 100 mK/min while holding magnetic field constant between 0 and 0.06 T with uneven spacing.
+Jul. 11, 2020
+	08:40 Start phase diagram measurement using current sourece (Ts = 1s, I = 1mA) by field-warm measurement between 1.00 K and 2.80 K at 100 mK/min while holding magnetic field constant between 0 and 0.03 T with 0.001 T spacing.
+Jul. 21, 2020
+	15:39 Mount two samples onto the sample stage and connect one (big) of them to fischer connector 1-4, and the other (small) to 13-16. Wire configured for current at 2-4, 14-16, and voltage leads at 1-3, 13-15.
+Jul. 22, 2020
+	10:10 Start field-warm measurement at 11 T from 4.0 K to 7.5 K at 0.1 K/min using four (colinear) probe measurement.
+	11:51 Start field-warm measurement at 13 T from 4.0 K to 7.5 K at 0.1 K/min using four (colinear) probe measurement.

@@ -7,7 +7,7 @@ Dec. 15, 2019
 	17:04 T_mc = 846 mK, T_cav = 804 mK (under 5T field). Start to measurement S11 while sweeping the magnetic field from 5 to 0 T at 0.02 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving).
 	21:20 T_mc = 4.3 K, T_cav = 4.17 K. Start to measurement S11 while sweeping the magnetic field from 0 to 17 T at 0.03 T/min, and AC frequency from 2.455 GHz to 2.515 GHz (0.1 GHz steps) at -10 dBm (10 dB attenuation on receiving). 
 Feb. 19, 2020
-	16:45 mount the cavity (d24mm_t5mm_g0.2mm) onto the mixing chamber and detune the coupling with the antenna. Connect the two hall probes to the fridge "custom" line. One of the hall probe appears to have a broken wire (lower connector), the other Hall probe-1 (upper connector) is connected to fisher connector  13-16. Lock-in arrangement -- Oscillator+ --> 16, Oscillator- --> 15, A+ --> 14, B+ --> 13.
+	16:45 mount the cavity (d24mm_t5mm_g0.2mm) onto the mixing chamber and detune the coupling with the antenna. Connect the two hall probes to the fridge "custom" line. One of the hall probe appears to have a broken wire (lower connector), the other Hall probe-1 (upper connector) is connected to fischer connector  13-16. Lock-in arrangement -- Oscillator+ --> 16, Oscillator- --> 15, A+ --> 14, B+ --> 13.
 	17:15 Seal the vacuum can and start to evacuate it.
 Feb. 21, 2020
 	14:46 T_mc = 57.5 mK, T_cav = 127 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 9 T at 0.015 T/min, and AC frequency from 3.38 GHz to 3.50 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 2 V with 51 kOhm serial resistor.
@@ -17,9 +17,9 @@ Mar. 02, 2020
 	10:30 Mount the a hall probe (CYSJ166A) onto a piece of LiHoF4 sample (SC00000138) using Loctite-401 adhesive (IDH No. 195905). Hall probe connected to a 4-pin-lemo-connector with 0.10 mm coated copper wires.
 	14:00 Mount the sample along with the hall sensor onto the sample holder using Loctite A330 epoxy. Left to cure in air at room temperature.
 	16:30 Mount the cavity (d24mm_t5mm_g0.2mm_3.5 GHz) onto the cold finger attached to the mixing chamber, detune at room temperature in air.
-	19:19 Connect the hall sensor to fisher connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.9 kOhm, R(13-16) = 2.7 kOhm, R(14-15) = 1.5 kOhm.
+	19:19 Connect the hall sensor to fischer connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.9 kOhm, R(13-16) = 2.7 kOhm, R(14-15) = 1.5 kOhm.
 Mar. 04, 2020
-	14:10 Apply excitation current to fisher connector (14 & 15) connected in serial with a 51 kOhm resistor, measure hall voltage on (13 & 16).
+	14:10 Apply excitation current to fischer connector (14 & 15) connected in serial with a 51 kOhm resistor, measure hall voltage on (13 & 16).
 	18:29 Remove 51 kOhm resistor in series with the hall probe, change excitation voltage to 2 V, interchange the hall probe connectors, apply excitation current to (13 & 16), and measure hall voltage on (14 & 15).
 	18:30 T_mc = 56 mK, T_cav = 118 mK. Start a testing S11 measurement from 0 to 0.2 T at a rate of 0.02 T/min.
 	19:00 T_mc = 55.15 mK. Change excitation power on hall sensor to 5.000 V. T_cav = 110 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 17 T at 0.025 T/min, and AC frequency from 3.480 GHz to 3.570 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 5 V.
@@ -29,7 +29,7 @@ Mar. 05, 2020
 Mar. 13, 2020
 	15:30 Mount a LiHoF4 sample (SC00000163, 3x2x1 mm) onto a copper sample holder with superglue (loctite-401) and attach a Hall sensor (CYSH12AF-SSF) to it using the same adhesive. Reinforce it with stycast (STYCAST 2850 FT, batch_O26G996520), cure the assembly in an oven at ambient atmosphere at 65 degrees for one hour.
 Mar. 15, 2020
-	08:18 Mount the cavity to the cold finger attached to the mixng chamber, the Hall probe attached to the sample is connected to the fisher connector (13-16), R(13-14) = R(15-16) = 649 Ohm, R(13-16) = R(14-15) = R(13-15) = R(14-16) = 618 Ohm. Detune the coupling between the microwave feed and the cavity. Mount the radiation shield, and seal the vacuum can.
+	08:18 Mount the cavity to the cold finger attached to the mixng chamber, the Hall probe attached to the sample is connected to the fischer connector (13-16), R(13-14) = R(15-16) = 649 Ohm, R(13-16) = R(14-15) = R(13-15) = R(14-16) = 618 Ohm. Detune the coupling between the microwave feed and the cavity. Mount the radiation shield, and seal the vacuum can.
 	18:40 Test S11 measurement from 0 to 0.1 T at 0.05 T/min with -20 dBm excitation power and 10 dB attenuation on receiving port. 
 Mar. 16, 2020
 	00:44 T_mc = 134 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.595 GHz to 3.685 GHz (0.1 GHz steps) at -15 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 5 V with 51 kOhm serial resistor.
@@ -55,8 +55,8 @@ May. 20, 2020
 	11:20 Dice sample SC00000162 into three pieces, mount the smallest one (2.2 x 1.9 x 0.9 mm) onto a hall probe (CYSH12AF-SSF), and then subsequently mount the assembly onto the sample holder using adhesive loctite-401 (IDH No. 195905).
 	16:20 Capsulate the sample and hall sensor on the holder using stycast (STYCAST 2850 FT, batch_O26G996520), left in oven at 65 degrees to cure.
 May. 22, 2020
-	07:30 Attach the cavity onto the cold finger, connect the thermometer and hall sensor to the fisher connector (thermometer 1-4, hall sensor 5-8). R(5-6) = R(7-8) = R(5-8) = R(6-7) = 482 Ohm, R(5-7) = R(6-8) = 200 Ohm
-		Note: suspect two shorts between fisher connector 5-7 and 6-8.
+	07:30 Attach the cavity onto the cold finger, connect the thermometer and hall sensor to the fischer connector (thermometer 1-4, hall sensor 5-8). R(5-6) = R(7-8) = R(5-8) = R(6-7) = 482 Ohm, R(5-7) = R(6-8) = 200 Ohm
+		Note: suspect two shorts between fischer connector 5-7 and 6-8.
 May. 23, 2020
 	05:16 T_mc = 57 mK, T_cav = 120 mK. Start to measurement S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.580 GHz to 3.670 GHz (0.05 GHz steps) at -20 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51 kOhm serial resistor.
 	10:15 T_mc = 58 mK. Start to measurement S11 while sweeping the magnetic field from 9 to 0 T at 0.03 T/min, and AC frequency from 3.595 GHz to 3.655 GHz (0.05 GHz steps) at -10 dBm (0 dB attenuation on receiving). 
@@ -105,7 +105,7 @@ Jun. 15, 2020
 	15:17 Mount a LiHoF4 sample (SC00000126, 2.6 x 1.3 x 0.5 mm) on to the bottom of the cavity immediately next to the outter wall (d24mm_t5mm_flex) using loctite-401 adhesive (IDH No. 195905).
 	17:32 Mount two hall probes (CYSJ166A, CYSH12AF) onto a sample holder using black stycast (STYCAST 2850 FT, batch_O26G996520). Both face the direction of magnetic polarization of the cavity field. CYSH12AF sits higher in position than CYSJ166A.
 Jun. 16, 2020
-	09:27 Conncet the cavity thermometer to fisher connector (5-8), R56 = R78 = 323 Ohm, R57 = R68 = 2.53 KOhm, Hall probe CYSJ166A to fisher connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.92 KOhm, R(13-16) = 1.48 kOhm, R(14-15) = 2.67 kOhm., Hall probe CYSH12AF to fisher connector (17-20), R(17-18) = R(19-20) = R(17-19) = R(18-20) = 609 Ohm, R(17-20) = R(18-19) = 645 Ohm.
+	09:27 Conncet the cavity thermometer to fischer connector (5-8), R56 = R78 = 323 Ohm, R57 = R68 = 2.53 KOhm, Hall probe CYSJ166A to fischer connector (13-16), R(13-14) = R(15-16) = R(13-15) = R(14-16) = 1.92 KOhm, R(13-16) = 1.48 kOhm, R(14-15) = 2.67 kOhm., Hall probe CYSH12AF to fischer connector (17-20), R(17-18) = R(19-20) = R(17-19) = R(18-20) = 609 Ohm, R(17-20) = R(18-19) = 645 Ohm.
 Jun. 19, 2020
 	17:47 Connect CYSJ166A to lock-in-1 (Hall-1 in data) and connect CYSH12AF to lock-in-2 (Hall-2 in data).
 Jun. 20, 2020
@@ -118,5 +118,30 @@ Jun. 21, 2020
 	Note: parts of the data unuseable due to the lockin signals moved out of sensitivity range.
 	19:10 Start to ramp magnetic field from 9 to 0 T at 0.03 T/min and record the hall sensors data inside the cavity.
 Jun. 22, 2020
-	09:12 Connect the hall sensor (CYSH12AF-fisher 1-4) facing the magnetic field to lock-in-1 (GPIB 12).
-	09:45 Start field scan from 0 to 9 T and collect hall sensors (CYSH12AF-fisher-1-4-lockin-1-GPIB12, CYSH12AF-fisher-17-20-lockin-2-GPIB14) data.
+	09:12 Connect the hall sensor (CYSH12AF-fischer 1-4) facing the magnetic field to lock-in-1 (GPIB 12).
+	09:45 Start field scan from 0 to 9 T and collect hall sensors (CYSH12AF-fischer-1-4-lockin-1-GPIB12, CYSH12AF-fischer-17-20-lockin-2-GPIB14) data.
+Jun. 30, 2020
+	17:21 T_mc = 56 mK, T_cav = 120 mK.  Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.535 GHz to 3.645 GHz (0.01 GHz steps) at -20 dBm (0 dB attenuation on receiving). Lock-in amplifier set to 3 V with 51k kOhm serial resistor.
+Jul. 02, 2020
+	11:05 Remove sample SC0000126 from the cavity, the same appears to be intact, however, a small piece chipped off during removal.
+	11:44 Mount sample (SC00000197-01, 3 x 1.6 x 0.7 mm) onto the bottom of the cavity roughly equadistance from the wall and the insert using loctite-401 adhesive (IDH No. 195905).
+	16:30 Connect the thermometer to fischer connector 5-8.
+Jul. 04, 2020
+	06:40 T_mc = 58 mK. Start to measure S11 while sweeping the magnetic field from 0 to 1 T at 0.02 T/min, and AC frequency from 3.605 GHz to 3.665 GHz (0.05 GHz steps) at -10 dBm (0 dB attenuation on receiving).
+	07:52 T_mc = 58 mK. Start to measure S11 while sweeping the magnetic field from 1 to 0 T at 0.01 T/min, and AC frequency from 3.605 GHz to 3.695 GHz (0.05 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+	08:20 T_mc = 58 mK. Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.665 GHz (0.05 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+	Note: the cusp in the data suggest that the sample dislocated and possibly broke.
+	13:46 T_mc = 58.7 mK. continue to measure S11 while sweeping the magnetic field from 9 to 16 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.665 GHz (0.1 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+Jul. 20, 2020
+	15:38 Mount the inner cone (58 degrees, 3.66GHz) with the sample (SC00000127) attached to its side on to the resonator cavity (d24mm_t5mm_flex) then to the cold finger. Mount a heater onto the cold finger (ground touching coax cable), R(17-18) = R(19-20) = 898 Ohm, R(17-20) = R(18-19) = 321 Ohm.
+Jul. 24, 2020
+	11:45 T_mc = 69 mK. Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.660 GHz to 3.720 GHz (0.1 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+Jul. 25, 2020
+	00:24 T_mc = 59 mK. Start to measure S11 while sweeping the magnetic field from 9 to 0 T at 0.03 T/min, and AC frequency from 3.680 GHz to 3.710 GHz (0.05 GHz steps) at -10 dBm (0 dB attenuation on receiving).
+Aug. 04, 2020
+	14:20 Mount a small rectangle (1.8 x 2.1 x 0.5 mm) LiHoF4 sample (SC00000199) between two pieces of 0.5 mm thick sapphire substrate and inside a single-loop-antenna. Apply GE varnish on one side and fill the gap with loctite-401 adhesive (IDH No. 195905). Left in air at room temperature to cure.
+Aug. 05, 2020
+	10:20 Wrap the sapphire-sample-sapphire sandwich structure with kevlar wires and apply loctite-401 adhesive (IDH No, 195905) to it. Left in air and room temperature to cure.
+	14:45 Mount the sample along with the antenna onto the cavty with ab plane perpendicular to AC magnetic field and c-axis perpendicular to DC magnetic field.	
+Aug. 06, 2020
+	11:00 Mount the cavity onto the cold finger and attached both sample antenna and cavity antenna, calibrate the assembly for S11 and S21 measurement at room temperature. Detune the cavity antenna.
