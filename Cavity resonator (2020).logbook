@@ -134,6 +134,7 @@ Jul. 04, 2020
 	13:46 T_mc = 58.7 mK. continue to measure S11 while sweeping the magnetic field from 9 to 16 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.665 GHz (0.1 GHz steps) at -20 dBm (0 dB attenuation on receiving).
 Jul. 20, 2020
 	15:38 Mount the inner cone (58 degrees, 3.66GHz) with the sample (SC00000127) attached to its side on to the resonator cavity (d24mm_t5mm_flex) then to the cold finger. Mount a heater onto the cold finger (ground touching coax cable), R(17-18) = R(19-20) = 898 Ohm, R(17-20) = R(18-19) = 321 Ohm.
+	Note: Sample broke in the subsequent measurement (2020.08.06).
 Jul. 24, 2020
 	11:45 T_mc = 69 mK. Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.660 GHz to 3.720 GHz (0.1 GHz steps) at -20 dBm (0 dB attenuation on receiving).
 Jul. 25, 2020

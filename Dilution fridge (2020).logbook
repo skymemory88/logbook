@@ -399,3 +399,64 @@ Aug. 05, 2020
 	10:40 Mount an additional semi rigid coax cable onto the fridge.
 Aug. 06, 2020
 	11:53 Start to evacuate the vacuum chamber.
+	15:34 Pressure inside the vacuum chamber reached 1.3E-4 mbar, stop pumping and prepare to insert the fridge into the crysotat
+	15:41 Put some helium exchange gas into the vacuum chamber and flush the 1K pot with pressurized helium gas for 1 minute.
+	15:50 4He level = 32.5%, start to insert the fridge.
+	17:30 Insert complete.
+	18:16 4He level = 18.1%, start to tranfer helium into the cryostat.
+	19:13 4He level = 78.2%, stop the transfer. Start to evacuate the vacuum chamber with sorb heater set to 150 mW.
+	19:22 4He level = 77.7%. Insert the helium cold trap.
+Aug. 07, 2020
+	09:54 4He level = 74.1%. Evacuate the vacuum chamber again with sorb heater set to 150 mW.
+	10:18 Pressure inside the vacuum chamber reached 1.3E-5 mBar, stop pumping. Refill nitrogen cold trap.
+	10:24 Open V12, SV3, close bypass valve. Start 1K pot.
+	10:26 1K pot = 1.7 K, start automatic condensing sequence.
+	Note: The fridge failed to cool down.
+	10:57 Start to Re-evacuate the vacuum chamber with sorb heater at 150 mW. 
+	11:35 Pressure inside the vacuum chamber reached 6.5E-6 mBar. Stop evacuation. Close bypass valve, start 1K pot.
+	11:36 Re-start automatic condensing sequence.
+	Note: Fridge failed to cool down, suspect a blockage.
+	11:47 Open bypass valve and recollect all the mixtures.
+Aug. 10, 2020
+	09:40 Pressure inside the condensing line in the dilution fridge unit reached 4.6E-6 mBar. Stop evacuation and start to evacuate the vacuum chamber.
+	10:15 Pressure inside the vacuum chamber reached 2.5E-5 mBar. Stop evacuation and prepare to insert the fridge into the cryostat.
+	10:40 Put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line for 1 minute. 
+	10:45 start to insert the fridge into the cryostat. 4He level = 61.9%.
+	12:40 Insert complete, 4He level = 47.4%.
+	13:26 T_sorb = 4.34 K, T_cav = 4.26 K. 4He level = 44.1%.
+	13:43 Start to evacuate the vacuum chamber with sorb heater at 150 mW.
+	14:24 Change sorb heater power to 170 mW. Load the 4He cold trap.
+	14:27 Stop evacuating the vacuum chamber and circulate the remaining mixtures in the condensing line throught the cold traps.
+	14:30 Open V12, SV3, V1 and V5. Start automatic condensing sequence.
+	Note: The fridge had trouble cooling down, however appears to have no blockage.
+	14:52 Stop automatic condensing sequence, open V4 and close V1 to collect all the mixtures back into the dump.
+	14:54 open bypass valve, turn on sorb heater at 190 mW and Re-evacuate the vacuum chamber.
+	14:58 4He level = 43.3%, start to tranfer helium into the cryostat.
+	16:04 4He level = 80.9%, stop the transfer.
+Aug. 11, 2020
+	08:18 Pressure inside the vacuum chamber reached 1.5E-4 mBar. Stop evacuation and start 1K pot.
+	08:20 Start automatic condensing sequence.
+	Note: cool down failed due to heat load, suspect there is still too much exchange gas.
+	08:30 Turn on heaters at sorb at 200 mW, mixing chamber at 18 mW, still at 20 mW, and sample holder set to 6.0 K. Collect al the mixtures and at the same time evacuate the vacuum chamber at the same time.
+	10:20 Stop evacuation and start 1K pot.
+	10:25 Start automatic condensing sequence.
+	Note: Cool-donw failed.
+	10:56 Collect all the mixtures.
+	11:40 Raise the fridge up to warm up inside the vacuum chamber to 70 K and re-evacuate the vacuum chamber.
+	13:20 Pressure inside vacuum chamber reached 8.6E-6 mBar. stop evacuation and lower the fridge back into the cryostat.
+	15:08 Load the helium-4 cold trap.
+	16:00 Start 1K pot and then automatic condensing sequence.
+	16:20 Stop the condensing sequence. Close V1, V4, and open V9 to collect all the mixtures. Stop 1K pot.
+	16:50 Start to remove the fridge from the cryostat. Evacuate the vacuum chamber as the fridge being raised.
+	Note: Suspect a leak to the vacuum chamber as the pressure inside the vacuum chamber went dramatically up as the fridge submerged in the helium bath. The pressure went down again as the fridge rised over the helium bath surface.
+	17:55 Removal complete.
+	18:00 Put in some helium exchange gas into the vacuum chamber to slowly warm it up.
+Aug. 12, 2020
+	09:50 Re-seal the vacuum chamber with a new indium ring and start to evacuate the vacuum chamber.
+	10:30 Perform leak test with L200 leak detector.
+	Note: results: Negative.
+	10:40 Continue to evacuate the vacuum chamber.
+	13:18 Pressure inside the vacuum chamber reached 8.6E-5 mBar. Stop evacuation.
+	13:25 Put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized helium gas for 1 minute.
+	13:30 Start to inser the fridge into the cryostat.
+	15:41 insert complete, 4He level = 40.3 %.
