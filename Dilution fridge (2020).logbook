@@ -460,3 +460,36 @@ Aug. 12, 2020
 	13:25 Put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized helium gas for 1 minute.
 	13:30 Start to inser the fridge into the cryostat.
 	15:41 insert complete, 4He level = 40.3 %.
+	16:45 T_sorb = 17 K, T_1K = 15 K, T_mc = 4.3 K. Load helium-4 cold trap. Refill the nitrogen cold trap.
+	16:53 T_sorvb = 4.3 K, T_1K = 4.2 K. Turn on sorb heater at 200 mW and start to evacuate the vacuum chamber.
+	17:10 Start fore pump.
+	17:12 Close the valve to stop evacuation of the vacuum chamber, turn off sorb heater.
+	17:13 Circulate the remaining mixtures inside the external condensing line through the cold traps.
+	17:20 Start 1K pot. 
+	17:21 Open SV3 and V12, start automatic condensing sequence.
+Aug. 14, 2020
+	10:38 4He level = 23.3%, start transferring liquid helium into the cryostat.
+	11:46 4He level = 64.0 %, stop the transfer.
+Aug. 17, 2020
+	12:40 Open V9, close V1, turn off turbo pump, turn on sorb heater at 200 mW and recollect all the mixtures.
+	15:20 Remove the fridge from the cryostat.
+Aug. 19, 2020
+	10:00 Heat up the vacuum chamber sorb in the oven at 120 C for 20 minutes, cool down in vacuum (2E-5 mBar) for 20 min.
+	10:30 Start to evacuate the vacuum chamber.
+	14:30 Pressure inside the vacuum chamber reached 2.4E-4 mbar, stop pumping.
+	14:32 Put in some helium-4 exchange gas in to the vacuum chamber and flush the 1K pot pumping line with pressurized helium gas for 1 minute.
+	14:40 Start to insert the fridge into the cryostat.
+	16:10 4He level = 13.6%. Start to transfer helium into the cryostat.
+	17:20 Turn on sorb heater at 200 mW and evacuate the vacuum chamber.
+	17:40 Load helium cold trap.
+	17:48 Start 1K pot, open SV3, V12, SV1, V1, and V5.
+	17:50 Stop evacuateion of the exchange gas, start automatic condensing sequence.
+	20:30 Stop automatic condensing sequence and keep V4 open to completely empty the dump.
+	21:00 P1 = 0.001 Bar, close V4, and open V9 to remove some mixtures from circulation.
+	21:40 P1 = 51 mBar, close V9. Turn on still heater at 2 mW.
+	Note: Internals etting of the still heater resistance has been corrected and hence the heating power computered has changed
+Aug. 20, 2020
+	09:20 Turn off still heater.
+	09:40 T_still = 784 mK. Open V9 and remove some mixtures from circulation. 
+Aug. 21, 2020
+	09:55 Turn on still heater at 1.5 mW.

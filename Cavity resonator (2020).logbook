@@ -146,3 +146,27 @@ Aug. 05, 2020
 	14:45 Mount the sample along with the antenna onto the cavty with ab plane perpendicular to AC magnetic field and c-axis perpendicular to DC magnetic field.	
 Aug. 06, 2020
 	11:00 Mount the cavity onto the cold finger and attached both sample antenna and cavity antenna, calibrate the assembly for S11 and S21 measurement at room temperature. Detune the cavity antenna.
+Aug. 13, 2020
+	08:40 T_cav = 236 mK. Start to measure S11 and S21 while sweeping the magnetic field from 0 to 9 T at 0.03 T/min, and AC frequency from 3.490 GHz to 3.700 GHz (0.1 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+Aug. 13, 2020
+	20:30 T_mc = 332 mK. Start to measure S21 while sweeping the magnetic field from 9 to 0 T at 0.02 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.1 GHz steps) at -10 dBm (0 dB attenuation on receiving).
+Aug. 14, 2020
+	21:30 T_mc = 298 mK. Start to measure S11 and S21 while sweeping the magnetic field from 0 to 9 T at 0.02 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.05 GHz steps) at -20 dBm (0 dB attenuation on receiving).
+Aug. 15, 2020
+	15:05 T_mc = 388 mK. Start to measure S11 and S21 while sweeping the magnetic field from 4 to 2 T at 0.03 T/min, and AC frequency from 3.680 GHz to 3.710 GHz (0.05 GHz steps) at -10 dBm (0 dB attenuation on receiving).
+	19:40 T_cav = 385 mK, Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.02 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.1 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	23:39 T_cav = 406 mK, Start to measure S21 while sweeping the magnetic field from 2 to 4 T at 0.02 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Aug. 16, 2020
+	08:43 T_cav = 420 mK. Start to measure S21 while sweeping the magnetic field from 3.6 to 2.4 T at 0.01 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.025 GHz steps) at -10 dBm (0 dB attenuation on receiving).
+Aug. 18, 2020
+	10:30 Mount a LiHoF4 sample (SC00000200) in between two sapphire substarte (0.5 mm thick) on the new rectangular shaped sample holder using GE varnish. Wrap kavlar twine around the substrate with superglue applied (IDH No, 195905). Left in air to cure.
+	14:30 Remove the second coax cable, polish all the copper surface at thermal anchor point, apply vacuum grease between the coax cable and the thermal anchors.
+	17:40 Tighten the thermal anchors.
+Aug. 20, 2020
+	11:05 T_cav = 204 mK. Start to measure S11 while sweeping the magnetic field from 6 to 0 T at 0.03 T/min, and AC frequency from 4.700 GHz to 4.790 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	14:25 T_cav = 204 mK. Start to measure S11 while sweeping the magnetic field from 3 to 6 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	11:05 T_cav = 204 mK. Start to measure S11 while sweeping the magnetic field from 6 to 3 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Aug. 21, 2020
+	07:30 Set temperature to 500 mK, Start to measure S11 while sweeping the magnetic field from 6 to 3 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	10:30 T_mc = 400 mK, Start to measure S11 while sweeping the magnetic field from 6 to 3 T at 0.03 T/min, and AC frequency from 4.710 GHz to 4.740 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	13:19 T_mc = 350 mK, Start to measure S11 while sweeping the magnetic field from 3 to 5 T at 0.03 T/min, and AC frequency from 4.705 GHz to 4.720 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
