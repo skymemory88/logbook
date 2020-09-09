@@ -493,3 +493,29 @@ Aug. 20, 2020
 	09:40 T_still = 784 mK. Open V9 and remove some mixtures from circulation. 
 Aug. 21, 2020
 	09:55 Turn on still heater at 1.5 mW.
+Aug. 22, 2020
+	22:32 Close V1, open V4, turn off turbo pump, and turn on still heater at 1.5 mW to start recollecting all the mixtures.
+Sept. 07, 2020
+	13:50 Close the vacuum chamber and start evacuation.
+	16:20 Pressure inside the vacuum chamber reached 2.0E-4 mBar. Stop evacuation.
+	16:40 Put some helium-4 exchange gas into the vacuum chamber, and flush the 1K pot pumping line of 1 minute.
+	16:45 4He level = 34.0%, start to insert the dilution fridge into the cryostat.
+	17:40 Start to evacuate the nitrogen cold trap at room temperature over night.
+Sept. 08, 2020
+	09:15 Load helium-4 cold trap. Refill nitrogen cold trap.
+	09:24 4He level = 16.6%, start to transfer helium into the cryostat.
+	09:26 Set the sorb heater at 200 mW and start to evacuate the exchange gas from the vacuum chamber.
+	10:00 Stop exchange gas evacuation. Turn off sorb heater
+	10:20 4He level = 55.0%, stop the transfer.
+	10:29 Start 1K pot. Turn needle valve to adjust the pressure to 120 mBar. Open SV1, V1, and V5 and circulate the remaining mixtures inside through the cold traps.
+	10:32 Open V12, SV3, and close bypass valve. Start to pulse open V4 to partially condense the mixture.
+	10:39 P1 = 0.700 Bar. Stop putting in more mixtures. Turn down the needle valve to reduce the pressure to ~0.3 mBar.
+	15:41 Close V1, open bypass valve, V9, and V2. Close 1K pot pumping line, turn on sorb heater at 180 mW, and start to recollect mixtures.
+Sept. 09, 2020
+	11:31 Start evacuating the vacuum chamber.
+	13:31 Pressure inside the vacuum chamber reached 1.5E-4 mBar. Stop evacuation.
+	13:32 Put in some helium exchange gas to the vacuum chamber, flush the 1K pot pumping line for one minute.
+	13:36 4He level = 44.2%. Start to insert the fridge into the cryostat.
+	15:11 Insert complete. 4He level = 34.5%.
+	16:30 Turn on sorb heater at 180 mW and start to extract helium exchange gas.
+	16:38 4He level = 27.2%.
