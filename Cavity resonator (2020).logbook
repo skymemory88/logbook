@@ -170,3 +170,48 @@ Aug. 21, 2020
 	07:30 Set temperature to 500 mK, Start to measure S11 while sweeping the magnetic field from 6 to 3 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
 	10:30 T_mc = 400 mK, Start to measure S11 while sweeping the magnetic field from 6 to 3 T at 0.03 T/min, and AC frequency from 4.710 GHz to 4.740 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
 	13:19 T_mc = 350 mK, Start to measure S11 while sweeping the magnetic field from 3 to 5 T at 0.03 T/min, and AC frequency from 4.705 GHz to 4.720 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Sept. 08, 2020
+	11:00 T_cav = 600 mK. Start to measure S11 while sweeping the magnetic field from 0 to 6 T at 0.03 T/min, and AC frequency from 3.265 GHz to 3.355 GHz (0.1 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Sept. 09, 2020
+	17:10 T_cav = 672 mK. Start to measure S11 while sweeping the magnetic field from 0 to 6 T at 0.03 T/min, and AC frequency from 3.265 GHz to 3.355 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	21:49 T_cav = 599 mK. Start to measure S11 while sweeping the magnetic field from 6 to 0 T at 0.03 T/min, and AC frequency from 3.220 GHz to 3.400 GHz (0.1 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Sept. 22, 2020
+	16:00 Mount the LiHoF4 sample (SC00000200) on holder inside the cavity (d24mm_t5mm_flex, 4.7 GHz). Detune and start to evacuate the vacuum chamber.
+	Note: the amount of detune for off-resonance cavity appears to be different from on-resonance cavities.
+Oct. 01, 2020
+	16:25 Mount the LiHoF4 sample (SC00000200) on holder inside the cavity (d24mm_t5mm_flex, 4.7 GHz). Detune and start to evacuate the vacuum chamber.
+Oct. 02, 2020
+	17:46 T_cav = 1.47 K. Start to measure S11 while sweeping the magnetic field from 0 to 2.5 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	18:24 Start to measure S11 while sweeping the magnetic field from 3 to 1 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	22:04 T_cav = 1.49 K. Start to measure S11 while sweeping the magnetic field from 1 to 3 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 08, 2020
+	11:20 T_cav = 1.53 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	13:23 T_cav = 1.55 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	15:16 T_cav = 1.57 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	17:18 T_cav = 1.60 K, Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.680 GHz to 4.770 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 09, 2020
+	11:00 T_cav = 255 mK (111 mK), Start to measure S11 while sweeping the magnetic field from 0 to 6 T at 0.03 T/min, and AC frequency from 4.700 GHz to 4.790 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+		Note: The lakeshore autorange setting was off, causing the temperature reading incorrect for the most of the measurement, the actual temperature, after setting correction, was 111 mK @ 5.9 T.
+	14:26 T_cav = 110 mK (@ 6 T), Start to measure S11 while sweeping the magnetic field from 6 to 0 T at 0.05 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	17:19 T_cav = 450 mK, Start to measure S11 while sweeping the magnetic field from 0 to 4.5 T at 0.05 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	19:03 T_cav = 486 mK. Start to measure S11 while sweeping the magnetic field from 4.5 to 3 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	21:40 T_cav = 400 mK. Start to measure S11 while sweeping the magnetic field from 3 to 4.5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 10, 2020
+	00:40 T_cav = 380 mK. Start to measure S11 while sweeping the magnetic field from 3 to 4.5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	05:40 T_cav = 280 mK. Start to measure S11 while sweeping the magnetic field from 4.5 to 3.5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	11:08 T_cav = 150 mK. Start to measure S11 while sweeping the magnetic field from 3.5 to 5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	12:42 T_cav = 170 mK. Start to measure S11 while sweeping the magnetic field from 5 to 3.5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.03 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	14:55 T_cav = 120 mK. Start to measure S11 while sweeping the magnetic field from 3.5 to 5 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.775 GHz (0.05 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	17:57 T_cav = 295 mK. Start to measure S11 while sweeping the magnetic field from 5 to 3.5 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	18:40 T_cav = 320 mK. Start to measure S11 while sweeping the magnetic field from 3.5 to 4.5 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	19:34 T_cav = 389 mK. Start to measure S11 while sweeping the magnetic field from 4.5 to 3.5 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	21:48 T_mc = 450 mK. Start to measure S11 while sweeping the magnetic field from 3.5 to 4.5 T at 0.03 T/min, and AC frequency from 4.725 GHz to 4.755 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 11, 2020
+	17:29 T_mc = 950 mK. Start to measure S11 while sweeping the magnetic field from 4 to 3 T at 0.03 T/min, and AC frequency from 4.715 GHz to 4.745 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+	20:06 T_cav = 1.58 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.72 GHz to 4.76 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 12, 2020
+	17:45 T_cav = 4.23 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving).
+Oct. 13, 2020
+	17:09 T_mc = 1.5 K ,T_cav = 1.48 K, Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at 0 dBm (10 dB attenuation on receiving).
+	21:50 T_mc = 1.52 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at +10 dBm (20 dB attenuation on receiving).
+	23:27 T_mc = 1.58 K, T_cav = 1.57 L. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at 0 dBm (10 dB attenuation on receiving).

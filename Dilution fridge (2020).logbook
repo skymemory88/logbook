@@ -518,4 +518,96 @@ Sept. 09, 2020
 	13:36 4He level = 44.2%. Start to insert the fridge into the cryostat.
 	15:11 Insert complete. 4He level = 34.5%.
 	16:30 Turn on sorb heater at 180 mW and start to extract helium exchange gas.
-	16:38 4He level = 27.2%.
+	16:38 4He level = 27.2%. Start circulating the remaining mixtures through the cold traps.
+	17:21 Stop evacuation. Turn off sorb heater. Start 1K pot. Close bypass valve and open V12, SV3, and start pulse opening V9 for partial condensing.
+	17:28 P1 = 700 mBar. Stop injecting more mixtures.
+	17:51 T_mc = 670 mK. 
+Sept. 10, 2020
+	08:40 Close V1, turn on sorb heater at 180 mW, open V2 and V5 to recollect all mixtures.
+Sept. 22, 2020
+	17:30 Start evacuate the vacuum chamber.
+Sept. 23, 2020
+	12:30 Pressure inside the vacuum chamber reached 3.5E-5 mBar.
+	13:20 Pressure inside the vacuum chamber reached 1.6E-5 mBar. Stop evacuation and put in some helium exchange gas, flush the 1K pot pumping line with pressurized helium gas for 1 minute.
+	13:30 Start to insert the fridge into the cryostat.
+	17:15 T_1K = 6.45 K, T_sorb = 7.13 K, T_mc = 4.42 K, turn on sorb heater at 180 mW and start to extract the exchange gas.
+Sept. 24, 2020
+	09:05 4He level = 15.2%, start to transfer helium into the cryostat.
+Sept. 29, 2020
+	09:25 Pressure inside the vacuum chamber reached 2E-5 mBar, stop evacuation.
+	09:30 Put some helium-4 exchange gas into the vacuum chamber and flush the 1K pot pumping line for 1 minute with pressurized helium gas.
+	09:45 Start to insert the DFU into the cryostat.
+Sept. 30, 2020
+	08:35 Stop evacuating the vacuum chamber and start 1K pot..
+	08:40 Palse open V9 to start partial condensing.
+	08:48 Close V1, open v4 and bypass valve to recollect all mixtures.
+	09:11 P1 = 0.770 mBar, close V4, V5, MV14 and switch off pumps. Start to partially remove the fridge to evacuate the condensing line in the fridge unit.
+		Note: Large pressure increase as the fridge unit slowly warms up, indicating trapped gases.
+	09:40 Star to evacuate the nitrogen cold trap while it is in the nitrogen bath.
+	11:30 Pressure inside the condensing line reached 1.6E-5 mBar. Close V12 and SV3, and slowly reinsert the fridge into the cryostat.
+	13:00 Turn on forepump, open V5, V1 and bypas valve to circulate the mixtures throught the cold traps.
+	13:14 Start 1K pot.
+	13:20 T_1K = 2.15 K. Open MV14, V12, SV3, close bypass valve, and start to partially condense the mixtures.
+	13:27 Close 1K pot pumping line. Close V1, open V4 and bypass valve to recollect all the mixture.
+		Note: The fridge is again experiencing difficulties cooling down, though the still temperature dropped more than before. Suspecting excessive exchange gas.
+	13:30 Turn on sorb heater at 200 mW and start to evacuate the vacuum chamber.
+	15:00 P1 = 771 mBar. Close V4, V5, MV12, SV3. Switch off turbo and fore pumps.
+	15:25 Raise the fridge position as continuously evacuating the vacuum chamber.
+		Note: Pressure is consistently above 1E0 mBar, indicating massive leak to the vacuum chamber from the helium bath.
+	16:30 Pressure inside the vacuum chamber reached 5.3E-3 mBar. Stop evacuating and completely remove the fridge unit from the cryostat.
+Oct. 01, 2020
+	16:43 Close the vacuum chamber and start to evacuate it.
+Oct. 02, 2020
+	07:55 Pressure inside the vacuum chamber reached 1E-5 mBar. Stop evacuation and put in some helium exchange gas. Flush the 1K pot pumping line with pressurized helium gas for one minute.
+	08:06 4He level = 35.5%. Start to insert the fridge into the cryostat.
+	11:05 T_mc = 4.3 K, T_sorb = 15 K, 4He level = 23.4%.
+	11:55 T_sorb = 4.2 K, turn on sorb heater at 200 mW and start to evacuate the exchange gas.
+	12:39 Insert the helium cold trap.
+	12:45 Start forepump and circulating the mixtures through the bypass valve and the cold traps.
+	13:22 Start 1K pot.
+	13:26 Open V12, SV3, and start partial condensing procedure.
+	13:40 T_mc = 950 mK, T_1K = 1.5 K. P1 = 699 mBar. Stop condensing.
+	13:43 4He level = 22.2%, start to transfer liquid helium into the cryostat.
+	17:40 4He level = 97.3%, stop transferring.
+	21:25 Set mixing chamber temperature at 1.49 K.
+Oct. 05, 2020
+	09:30 Remove the fridge from the cryostat.
+	Note: The condensing line is once again blocked. Suspect a leakage in the exterior condensing line.
+	10:30 Evacuate the interior condensing line and vacuum chamber.
+Oct. 06, 2020
+	09:08 Pressure inside the vacuum chamber and interior condensing line reached 1.6E-6 mBar. Close the valves and put some exchange gas into the vacuum chamber.
+	09:10 Flush the 1K pot pumping line with preossurized helium gas for 1 minute.
+	09:15 4He level = 70.3%. Start inserting the fridge into the cryostat.
+	12:04 Insert complete 4He level = 58.2%.
+	14:48 4He level = 57.9%, start to remove the fridge.
+		Note: There appears to be a leak from the helium bath to the vacuum chamber.
+Oct. 07, 2020
+	13:36 Close the vacuum chamber and start to evacuate it.
+	16:40 Vacuum inside the vacuum chamber reached 1.5E-5 mBar. Stop evacuation. Put some helium exchange gas into it.
+	16:50 Flush the 1K pot pumping line for 1 min.
+	16:55 Start to insert the fridge into the cryostat.
+	18:03 Insert complete. 4He level = 31.5%.
+Oct. 08, 2020
+	08:40 T_sorb = 4.2 K, turn on sorb heater at 200 mW and start to evacuate the exchange gas.
+	10:02 Stop evacuation and turn off sorb heater.
+	10:10 Circulate some mixture through the cold traps through bypass valve.
+	10:12 Start forepump.
+	10:15 Close bypass valve, open SV3, V12, V5, V1, and start partial condensing.
+	10:40 P1 = 700 mBar. Turn on turbo pump.
+	10:41 Turn off turbo pump, close V1, and open V4 to remove some mixture.
+	10:45 P1 = 720 mBar. 
+	17:10 4He level = 25%. Start to transfer helium.
+	18:53 4He level = 82.4%, stop the transfer.
+	19:00 Start automatic condensing sequence.
+Oct. 09, 2020
+	11:20 T_mc = 71.6 mK.
+	16:51 Turn off turbo pump and set mixing chamber temperature to 430 mK.
+Oct. 10, 2020
+	17:07 T_mc = 71.8 mK, T_cav = 118 mK. Turn off turbo pump.
+	22:27 T_mc = 450 mK. Open V4, V2, and close V1 to recollect the mixtures. TUrn on still heater at 2 mW.
+Oct. 11,2020
+	16:05 T_mc = 4.08 K. P1 = 766 mK. Close V2, V4, turn off turbo pump, and restart partial condensing.
+	16:40 P1 = 726 mBar. Stop condensing.
+Oct. 13, 2020
+	09:12 Open up needle valve to the 1K pot. Start partial condensing.
+	09:19 P1 = 725 mBar. Stop condensing.

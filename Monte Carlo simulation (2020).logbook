@@ -19,41 +19,41 @@ May. 08, 2020
 	09:10 Spot potential major coding problem in TloopEQ(), line 20, after the execution of LiIonsF4_MCEQ(), parameter 'params' is not updated for the next step. Such problem isn't present in fieldloop.
 	10:45 Spot another potential major error in both MCmeasuretempscan() and MCmeasurefieldscan(), both appears to have duplicated loops, calling Tloop()/fieldloop() inside a iterating loop of the scanning parameter while loop the same scanning parameter inside Tloop()/fieldloop() again.
 	Note: Though this error may not affect the result, it could affect the efficiency.
-	11:25 Run MCmeasuretempscan() with revised Tloop() on Windows debugger computer for temperature scan using resultEQ_20200506.mat. 
-	11:40 Create initial files for both field scan and temperature scan, run MCscriptEQ() with revised energy0() and fieldloopEQ() on COMSOL computer for field scan. Run MCscriptEQ() with revised energy0() and TloopEQ() on Kelvinox-400 control computer for temperature scan.
+	11:25 Run MCmeasuretempscan() with revised Tloop() on "windows debugger" computer for temperature scan using resultEQ_20200506.mat. 
+	11:40 Create initial files for both field scan and temperature scan, run MCscriptEQ() with revised energy0() and fieldloopEQ() on "COMSOL computer" for field scan. Run MCscriptEQ() with revised energy0() and TloopEQ() on "Kelvinox-400" control computer for temperature scan.
 	15:25 Run MCmeasurefieldscan() with revised fieldloop() on the work laptop using resultEQ_20200429.mat
 	18:45 Results appear to be correct from the inline checkpoitn output (up until 0.4 T). Abort the simulation on the work laptop, revise LiIonF4_MC() by uncommenting calculations of phase_x and phase_y. Restart the simulation on 18T magnet control computer.
-	19:52 Run MCmeasurefieldscan(20200508001,01) on COMSOL computer with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation.
-	11:50 Run MCmeasuretempscan(20200508,000) on Kelvinox-400 computer with revised Tloop(), Ising_basis(), and energy0() for temperature scan simulation.
+	19:52 Run MCmeasurefieldscan(20200508001,01) on "COMSOL computer" with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation.
+	11:50 Run MCmeasuretempscan(20200508,000) on "Kelvinox-400" computer with revised Tloop(), Ising_basis(), and energy0() for temperature scan simulation.
 May. 09, 2020
-	12:29 Run MCmeasurefieldscan(20200508001,01) on windows debugger with revised fieldloop(), Ising_basis(), and energy0() for fields scan simulation.
-	16:28 Run MCscriptEQ(20200510) on COMSOL computer with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation at 0.05 K.
-	19:40 Create initial file and run MCscriptEQ(202005101) on Kelvinox-400 computer with revised fieldloop(), Ising_basis(), and energy0() for temperature scan simulation at 0.001 T.
+	12:29 Run MCmeasurefieldscan(20200508001,01) on "windows debugger" with revised fieldloop(), Ising_basis(), and energy0() for fields scan simulation.
+	16:28 Run MCscriptEQ(20200510) on "COMSOL computer" with revised fieldloop(), Ising_basis(), and energy0() for field scan simulation at 0.05 K.
+	19:40 Create initial file and run MCscriptEQ(202005101) on "Kelvinox-400" computer with revised fieldloop(), Ising_basis(), and energy0() for temperature scan simulation at 0.001 T.
 May. 10, 2020
 	08:20 Change the outdated function calls (3 incidences) 'mxGetPr()' in metropolis.c to 'mxGetDoubles()'. Changed all (14 incidences) 'mxGetPr()' in energy_update.c to 'mxGetDoubles()'
 	16:45 Change the temperature setting in the init_20200510.mat from 0.05 K to 0.2 K. Run MCscriptEQ(20200510).
-	22:08 Change the scan type in init_202005101.mat to field scan and set the temperature to 0.1 K. Run MCscript(202005102) on Kelvinox-400 computer.
+	22:08 Change the scan type in init_202005101.mat to field scan and set the temperature to 0.1 K. Run MCscript(202005102) on "Kelvinox-400" computer.
 May. 11, 2020
-	07:47 Start MCmeasurefieldscan(202005101,0) on Kelvinox-400 computer for fieldscan simulation from 0 to 0.9 T at 0.1 K.
-	07:54 Start MCmeasurefieldscan(20200510,1) on Windows debugger for fieldscan simulation form 0 to 0.9 T at 0.2 K.
+	07:47 Start MCmeasurefieldscan(202005101,0) on "Kelvinox-400" computer for fieldscan simulation from 0 to 0.9 T at 0.1 K.
+	07:54 Start MCmeasurefieldscan(20200510,1) on "windows debugger" for fieldscan simulation form 0 to 0.9 T at 0.2 K.
 	14:01 Change all (4 incidences) the mxGetPr() in dipole_direct.c to mxGetDoubles().
 May. 12, 2020
 	12:14 Change the execution of FieldloopEQ() and TloopEQ() inside MCscript() to parallel using 'parfor' and that of Fieldloop(), TloopEQ() in MCmeasurefieldscan() by the same function.
 	12:24 Noticing the convergence is usually reached within 5E5 cycles in the thermalization process, adjust the thermalization iteration number as well as sampling iteration number to 5E5 cycles.
-	13:06 Create initial file, and run MCscriptEQ(20200512) on Kelvinox-400 computer for field scan at 5 mK.
-	16:30 Run the serial MCmeasurefieldscan(20200512,01) on Kelvinox-400 computer for field scan at 5 mK.
-	19:24 Test and run parallel version (4 workers) of MCscriptEQ(202005120) on Windows debugger for the thermalization step of the field scan at 10 mK. 
+	13:06 Create initial file, and run MCscriptEQ(20200512) on "Kelvinox-400" computer for field scan at 5 mK.
+	16:30 Run the serial MCmeasurefieldscan(20200512,01) on "Kelvinox-400" computer for field scan at 5 mK.
+	19:24 Test and run parallel version (4 workers) of MCscriptEQ(202005120) on "windows debugger" for the thermalization step of the field scan at 10 mK. 
 	19:30 Test and run parallel version (8 workers) of MCscript(20200512) on 18T contrl computer for the thermalization steps of the field scan at 5 mK.
 May. 13, 2020
-	14:59 Test and run parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	14:59 Test and run parallelized MCmeasurefieldscan(20200512,00) on "18T control" computer for field scan at 5 mK.
 	Note: failed with an error (output dimension mismatch).
-	19:08 Test and run revised parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	19:08 Test and run revised parallelized MCmeasurefieldscan(20200512,00) on "18T control" computer for field scan at 5 mK.
 	Note: failed again
-	22:04 Test and run again revised parallelized MCmeasurefieldscan(20200512,00) on 18T control computer for field scan at 5 mK.
+	22:04 Test and run again revised parallelized MCmeasurefieldscan(20200512,00) on "18T control" computer for field scan at 5 mK.
 	Note: failed again
 May. 14, 2020
 	16:19 Finished debugging the parallelized version of Mcmeasurefieldscan, run MCmeasurefieldscan(20200512,00) on 18T computer for field scan at 5 mK.
-	16:25 Run the serial MCmeasurefieldscan(20200512,00) on Kelvinox-400 using EQ results from the parallel version of MCscriptEQ(20200512) to generate results for field scan simulation at 5 mK.
+	16:25 Run the serial MCmeasurefieldscan(20200512,00) on "Kelvinox-400" using EQ results from the parallel version of MCscriptEQ(20200512) to generate results for field scan simulation at 5 mK.
 	Note: Parallel version appears to take longer than serial version, suspect race conditions.
 	Note: Parallalized code works as expected except for the lack of efficiency gain.
 May. 20, 2020
@@ -79,130 +79,136 @@ May. 22, 2020
 	16:40 Run MCscriptEQ('20200520L20R5') for temperature scan with supercell size L = 20, and 5 replicates of supercell in each dimension.
 	Note: Simulation aborted.
 	21:33 Stop all simulations as a bug was found in LiIonsF4_MCEQ().
-	21:34 Run MCscriptEQ('20200520L13R10') on windows debugger.
+	21:34 Run MCscriptEQ('20200520L13R10') on "windows debugger".
 	Note: simulation crushed due to version clash.
-	21:35 Run MCscriptEQ('20200520L11R10') on Kelvinox-25.
-	21:36 Run MCscriptEQ('20200520L9R10') on CUDA machine-1.
-	21:40 Run MCscriptEQ('20200520L7R10') on 18T control computer.
-	21:44 Run MCscriptEQ('20200520L20R5') on COMSOL computer.
+	21:35 Run MCscriptEQ('20200520L11R10') on "Kelvinox-25".
+	21:36 Run MCscriptEQ('20200520L9R10') on "CUDA machine-1".
+	21:40 Run MCscriptEQ('20200520L7R10') on "18T control" computer.
+	21:44 Run MCscriptEQ('20200520L20R5') on "COMSOL computer".
 	Note: Aborted on May. 23, 2020 14:48.
 May. 23, 2020
-	03:20 Run MCscriptEQ('20200520L5R10') on 18T control computer.
-	05:30 Run MCmeasuretempscan('20200520L5') on CUDA machine-1
-	05:36 Run MCmeasuretempscan('20200520L9') on Kelvinox-400 computer.
-	07:24 Run MCmeasuretempscan('20200520L7') on CUDA machine-1.
-	12:41 Run MCmeasuretempscan('20200520L11') on Kelvinox-25.
+	03:20 Run MCscriptEQ('20200520L5R10') on "18T control" computer.
+	05:30 Run MCmeasuretempscan('20200520L5') on "CUDA machine-1"
+	05:36 Run MCmeasuretempscan('20200520L9') on "Kelvinox-400" computer.
+	07:24 Run MCmeasuretempscan('20200520L7') on "CUDA machine-1".
+	12:41 Run MCmeasuretempscan('20200520L11') on "Kelvinox-25".
 	12:45 Found a major bug in Ising_basis() where the truncation of the basis was done without ranking, hence was done not using the lowest two levels. 
-	12:48 Revise the code and run MCscriptEQ('20200520L7R10') on Kelvinox-400 computer.
-	13:18 Run MCscriptEQ('20200520L11R10') on 18T control computer with revised Ising_basis() funciton.
-	13:28 Run MCscriptEQ('20200520L13R10') on CUDA machine-1 with revised Ising_basis() funciton.
-	14:44 Run MCscriptEQ('20200520L5R10') on windows debugger with revised Ising_basis() funciton.
-	14:49 Run MCscriptEQ('20200520L9R10') on COMSOL computer with revised Ising_basis() funciton.
-	15:56 Run MCmeasuretempscan2('20200520L5') on windows debugger with revised Ising_basis() function.
-	16:01 Run MCmeasuretempscan2('20200520L7') on Kelvinox-400 computer with revised Ising_basis() funciton.
+	12:48 Revise the code and run MCscriptEQ('20200520L7R10') on "Kelvinox-400" computer.
+	13:18 Run MCscriptEQ('20200520L11R10') on "18T control" computer with revised Ising_basis() funciton.
+	13:28 Run MCscriptEQ('20200520L13R10') on "CUDA machine-1" with revised Ising_basis() funciton.
+	14:44 Run MCscriptEQ('20200520L5R10') on "windows debugger" with revised Ising_basis() funciton.
+	14:49 Run MCscriptEQ('20200520L9R10') on "COMSOL computer" with revised Ising_basis() funciton.
+	15:56 Run MCmeasuretempscan2('20200520L5') on "windows debugger" with revised Ising_basis() function.
+	16:01 Run MCmeasuretempscan2('20200520L7') on "Kelvinox-400" computer with revised Ising_basis() funciton.
 May. 24, 2020
-	06:00 Run MCmeasuretempscan2('20200520L9') on COMSOL computer with revised Ising_basis() function.
-	06:02 Run MCmeasuretempscan2('20200520L11') on Kelvinox-400 computer with revised Ising_basis() function.
-	06:04 Run MCmeasuretempscan2('20200520L13') on 18T control computer with revised Ising_basis() function.
-	06:09 Run MCscriptEQ('20200520L30R2') on windows debugger with revised Ising_basis() function.
-	06:22 Run MCscriptEQ('20200520L20R5') on CUDA machine-1 with revised Ising_basis() funciton.
-	06:32 Run MCscriptEQ('20200520L50R0') on Kelvinox-25 with revised Ising_basis() function.
+	06:00 Run MCmeasuretempscan2('20200520L9') on "COMSOL computer" with revised Ising_basis() function.
+	06:02 Run MCmeasuretempscan2('20200520L11') on "Kelvinox-400" computer with revised Ising_basis() function.
+	06:04 Run MCmeasuretempscan2('20200520L13') on "18T control" computer with revised Ising_basis() function.
+	06:09 Run MCscriptEQ('20200520L30R2') on "windows debugger" with revised Ising_basis() function.
+	06:22 Run MCscriptEQ('20200520L20R5') on "CUDA machine-1" with revised Ising_basis() funciton.
+	06:32 Run MCscriptEQ('20200520L50R0') on "Kelvinox-25" with revised Ising_basis() function.
 	Note: Aborted on May. 25, 2020 at 14:42. Calculation too slow to resolve.
 May. 25, 2020
-	09:32 Create initial file and run MCscriptEQ('20200525L7R5') on 18T control computer for temperature scan with revised Ising_basis() function, using 5 replicates of the supercell (L = 7) in each dimension.
-	09:36 Create initial file and run MCscriptEQ('20200525L7R30') on Kelvinox-25 computer for temperature scan with revised Ising_basis() function, using 30 replicates of the supercell (L = 7) in each dimension.
-	09:37 Create initial file and run MCscriptEQ('20200525L7R20') on Kelvinox-400 computer for temperature scan with revised Ising_basis() function, using 20 replicates of the supercell (L = 7) in each dimension.
-	13:30 Run MCmeasuretempscan2('20200525L7R5') on 18T control computer for temperature scan with revised Ising_basis() funciton.
-	13:32 Run MCmeasuretempscan2('20200525L7R20') on Kelvinox-400 computer for temperature scan with revised Ising_basis() funciton.
-	16:47 Run MCmeasuretempscan2('20200525L7R30') on Kelvinox-25 computer for temperature scan with revised Ising_basis() funciton.
-	16:47 Run MCmeasuretempscan2('20200525L7R10') on COMSOL computer for temperature scan with revised Ising_basis() funciton.
+	09:32 Create initial file and run MCscriptEQ('20200525L7R5') on "18T control" computer for temperature scan with revised Ising_basis() function, using 5 replicates of the supercell (L = 7) in each dimension.
+	09:36 Create initial file and run MCscriptEQ('20200525L7R30') on "Kelvinox-25" computer for temperature scan with revised Ising_basis() function, using 30 replicates of the supercell (L = 7) in each dimension.
+	09:37 Create initial file and run MCscriptEQ('20200525L7R20') on "Kelvinox-400" computer for temperature scan with revised Ising_basis() function, using 20 replicates of the supercell (L = 7) in each dimension.
+	13:30 Run MCmeasuretempscan2('20200525L7R5') on "18T control" computer for temperature scan with revised Ising_basis() funciton.
+	13:32 Run MCmeasuretempscan2('20200525L7R20') on "Kelvinox-400" computer for temperature scan with revised Ising_basis() funciton.
+	16:47 Run MCmeasuretempscan2('20200525L7R30') on "Kelvinox-25" computer for temperature scan with revised Ising_basis() funciton.
+	16:47 Run MCmeasuretempscan2('20200525L7R10') on "COMSOL computer" for temperature scan with revised Ising_basis() funciton.
 	Note: revise all MCmeasurefieldscan
 May. 27, 2020
-	09:09 Run MCscriptEQ('20200527L10R5') on CUDA machine-1.
+	09:09 Run MCscriptEQ('20200527L10R5') on "CUDA machine-1".
 May. 28, 2020
-	08:30 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+	08:30 Run MCmeasuretempscan('20200527L10R5') on "CUDA machine-1".
 	Note: an error occured, the program was forced to quit
 May. 29, 2020
-	07:45 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+	07:45 Run MCmeasuretempscan('20200527L10R5') on "CUDA machine-1".
 May. 31, 2020
-	09:15 Revise and run single core thermalization program MCscriptEQ('20200530L10R5') on 18T control computer.
+	09:15 Revise and run single core thermalization program MCscriptEQ('20200530L10R5') on "18T control" computer.
 Jun. 01, 2020
-	10:16 Run MCmeasuretempscan('20200527L10R5') on CUDA machine-1.
+	10:16 Run MCmeasuretempscan('20200527L10R5') on "CUDA machine-1".
 Jun. 02, 2020
-	09:20 Run MCmeasurefieldscan('20200530L10R5') on 18T control computer.
-	15:17 Run MCmeasurefieldscan('20200530L10R5') on 18T control computer.
+	09:20 Run MCmeasurefieldscan('20200530L10R5') on "18T control" computer.
+	15:17 Run MCmeasurefieldscan('20200530L10R5') on "18T control" computer.
 Jun. 03, 2020
-	08:30 Revise the crystal field function and run create initial file using create_init_file('20200603L10R5') and run MCscriptEQ('20200603L10R5') on 18T control computer.
+	08:30 Revise the crystal field function and run create initial file using create_init_file('20200603L10R5') and run MCscriptEQ('20200603L10R5') on "18T control" computer.
 	Note: Terminated due to the discovery of a bug.
-	08:50 Create initial file and run MCscriptEQ('20200603L7R5') on Kelvinox-25 computer.
-	10:30 Correct the bug in LiIonsF4_MCEQ() and rerun MCscriptEQ('20200530L10R5') on CUDA machine-1.
-	10:33 Run MCscriptEQ('20200603L10R5') on 18T control computer.
-	13:40 Run MCmeasuretempscan('20200603L7R5') on Kelvinox-25 computer.
-	14:13 Run MCmeasurefieldscan('20200603L10R5') on 18T control computer.
-	17:26 Revise the convergence test criteria to moving window variance method and run MCscriptEQ('20200603L7R5') on Kelvinox-25.
-	20:33 Run MCmeasuretempscan('20200603L7R5') on Kelvinox-25 computer.
+	08:50 Create initial file and run MCscriptEQ('20200603L7R5') on "Kelvinox-25" computer.
+	10:30 Correct the bug in LiIonsF4_MCEQ() and rerun MCscriptEQ('20200530L10R5') on "CUDA machine-1".
+	10:33 Run MCscriptEQ('20200603L10R5') on "18T control" computer.
+	13:40 Run MCmeasuretempscan('20200603L7R5') on "Kelvinox-25" computer.
+	14:13 Run MCmeasurefieldscan('20200603L10R5') on "18T control" computer.
+	17:26 Revise the convergence test criteria to moving window variance method and run MCscriptEQ('20200603L7R5') on "Kelvinox-25".
+	20:33 Run MCmeasuretempscan('20200603L7R5') on "Kelvinox-25" computer.
 Jun. 04, 2020
-	08:53 Run MCmeasuretempscan('20200603L10R5') on Kelvinox-400 computer.
-	22:52 Revise convergence criteria and create initial file, run MCscriptEQ('20200605L16R5') on Windows debugger.
+	08:53 Run MCmeasuretempscan('20200603L10R5') on "Kelvinox-400" computer.
+	22:52 Revise convergence criteria and create initial file, run MCscriptEQ('20200605L16R5') on "windows debugger".
 	Note: Terminated the program as it runs for too long.
-	23:00 Run MCscriptEQ('20200605L10R5') on 18T control computer with the new convergence criteria.
+	23:00 Run MCscriptEQ('20200605L10R5') on "18T control" computer with the new convergence criteria.
 Jun. 05, 2020
-	13:18 Run MCmeasuretempscan('20200605L10R5') on 18T control computer.
+	13:18 Run MCmeasuretempscan('20200605L10R5') on "18T control" computer.
 Jun. 06, 2020
-	20:37 Change measurement points on temperature axis. Create initial file and run MCscriptEQ('20200606L10R5') on 18T control computer.
-	21:32 Create initial file and run McscriptEQ('20200606L14R5') on CUDA machine-1.
-	21:37 Create initial file and run McscriptEQ('20200606L16R5') on Kelvinox-25.
+	20:37 Change measurement points on temperature axis. Create initial file and run MCscriptEQ('20200606L10R5') on "18T control" computer.
+	21:32 Create initial file and run McscriptEQ('20200606L14R5') on "CUDA machine-1".
+	21:37 Create initial file and run McscriptEQ('20200606L16R5') on "Kelvinox-25".
 Jun. 07, 2020
-	14:02 Run MCmeasuretempscan('20200606L10R5') on 18T control computer.
-	14:07 Create initial file and run MCscriptEQ('20200607L7R5') on windows debugger.
-	18:37 Run MCmeasuretempscan('20200607L7R5') on windows debugger.
+	14:02 Run MCmeasuretempscan('20200606L10R5') on "18T control" computer.
+	14:07 Create initial file and run MCscriptEQ('20200607L7R5') on "windows debugger".
+	18:37 Run MCmeasuretempscan('20200607L7R5') on "windows debugger".
 	Note: data appeared to be very noisy with the new choice of temperature points and MC sampling size. Close inspection of the data reveals that the the sample wasn't properly thermalized
 Jun. 08, 2020
-	09:31 Create initial file and run MCscriptEQ('20200608L10R5') on windows debugger.
+	09:31 Create initial file and run MCscriptEQ('20200608L10R5') on "windows debugger".
 	Note: Aborte and reran with more strict convergence test (delta_estm = 0.0025)
-	18:00 Run MCmeasuretempscan('20200608L7R10') on windows debugger.
+	18:00 Run MCmeasuretempscan('20200608L7R10') on "windows debugger".
 	Note: With 500 MC sampling points in phase space at measurement stage.
 Jun. 11, 2020
-	11:27 Create initial file and run MCscriptEQ('20200611L7R10') on windows debugger without convergence test.
+	11:27 Create initial file and run MCscriptEQ('20200611L7R10') on "windows debugger" without convergence test.
 Jun. 19, 2020
-	20:57 Run MCmeasuretempscan('20200606R14L5') on CUDA machine-1.
-	21:06 RUn MCmeasuretempscan('20200611L7R10') on AMD machine.
+	20:57 Run MCmeasuretempscan('20200606R14L5') on "CUDA machine-1".
+	21:06 RUn MCmeasuretempscan('20200611L7R10') on "AMD machine".
 Jun. 20, 2020
-	10:19 Create initial file and run MCscriptEQ('20200620L10R10') on windows debugger with 500*N thermalization steps and 1000*N measurement steps.
+	10:19 Create initial file and run MCscriptEQ('20200620L10R10') on "windows debugger" with 500*N thermalization steps and 1000*N measurement steps.
 	Note: Stop the process to rewrite paraTloopEQ() function to ensre ergodicity.
 	19:00 Revise paraTloopEQ() to use thermalize at each temperature in parallel and then pick the configuration with the lowest final global energy.
-	20:20 Run MCscriptEQ('20200620L10R10') on windows debugger with revised paraTloopEQ().
+	20:20 Run MCscriptEQ('20200620L10R10') on "windows debugger" with revised paraTloopEQ().
 	Note: Stopped the process due to a bug in LiIonsF4_MCEQ(). Fixed and restarted the calculation on Jun 21, 2020.
 Jun. 21, 2020
-	20:50 Run MCscriptEQ('20200611L7R19') on AMD machine with revised paraTloopEQ().
-	21:00 Run McscriptEQ('20200620L10R10') on windows debugger with revised paraTloopEQ().
+	20:50 Run MCscriptEQ('20200611L7R19') on "AMD machine" with revised paraTloopEQ().
+	21:00 Run McscriptEQ('20200620L10R10') on "windows debugger" with revised paraTloopEQ().
 Jun. 22, 2020
 	14:30 Revise the MCscriptEQ() to have the simulation at each temperature relax simultaneously on parallel threads and keep only the configuration with the lowest energy in the end.
-	20:30 Run MCmeasuretempscan('20200620L7R10') on AMD machine.
+	20:30 Run MCmeasuretempscan('20200620L7R10') on "AMD machine".
 Jun. 23, 2020
-	20:20 Run MCmeasuretempscan('20200620L7R10') on AMD machine with trimmed down data saving scheme.
+	20:20 Run MCmeasuretempscan('20200620L7R10') on "AMD machine" with trimmed down data saving scheme.
 Jun. 25, 2020
-	07:20 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 3rd continuation to the 4th.
-	12:55 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 4th contiuation to the 5th at only temperature points between 100 mK and 148 mK.
-	20:30 RUn ContMCtempscan on AMD machine to continue calculation from the 4th continuation to the 5th at all temperature points.
+	07:20 Run ContMCtempscan on "Kelvinox-400" to continue calculation from the 3rd continuation to the 4th.
+	12:55 Run ContMCtempscan on "Kelvinox-400" to continue calculation from the 4th contiuation to the 5th at only temperature points between 100 mK and 148 mK.
+	20:30 RUn ContMCtempscan on "AMD machine" to continue calculation from the 4th continuation to the 5th at all temperature points.
 Jun. 26, 2020
-	07:20 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 5rd continuation to the 6th.
+	07:20 Run ContMCtempscan on "Kelvinox-400" to continue calculation from the 5rd continuation to the 6th.
 	11:56 Revise and debug, introducing parallel tempering procedure in LiIonsF4_MC().
-	18:34 Run ContMCtempscan on Kelvinox-400 to continue calculation from the 6th continuation to the 7th.
+	18:34 Run ContMCtempscan on "Kelvinox-400" to continue calculation from the 6th continuation to the 7th.
 Jun. 27, 2020
-	15:00 Revise and debug parallel tempering procedure to alternate swapping attempt with left and right thread. Run Mcmeasurefieldscan('20200620L7R10') on 18T control computer.
-	16:33 Create initial file and run MCscriptEQ('20200627L10R10') on Kelvinox-400.
+	15:00 Revise and debug parallel tempering procedure to alternate swapping attempt with left and right thread. Run Mcmeasurefieldscan('20200620L7R10') on "18T control" computer.
+	16:33 Create initial file and run MCscriptEQ('20200627L10R10') on "Kelvinox-400".
 Jun. 28, 2020
-	10:15 Revice the parallel tempering procedure to have left and right swapping attempts back to back and run MCmeasuretempscan('20200620L7R10') on 18T control.
+	10:15 Revice the parallel tempering procedure to have left and right swapping attempts back to back and run MCmeasuretempscan('20200620L7R10') on "18T control" computer.
 	Note: rerun the program due to a bug.
-	11:28 Create initial file and run MCscriptEQ('20200628L5R10') on windows debugger.
-	16:15 Create initial file and run MCscriptEQ('20200628L7R10') on AMD machine with evenly spaced temperature points between 0.065 and 0.220 K.
-	16:20 Run MCmeasuretempscan('20200628L5R10') on windows debugger.
+	11:28 Create initial file and run MCscriptEQ('20200628L5R10') on "windows debugger".
+	16:15 Create initial file and run MCscriptEQ('20200628L7R10') on "AMD machine" with evenly spaced temperature points between 0.065 and 0.220 K.
+	16:20 Run MCmeasuretempscan('20200628L5R10') on "windows debugger".
 Jun. 30, 2020
-	10:38 Create initial file and run MCscriptEQ('20200630L15R10') on CUDA machine.
+	10:38 Create initial file and run MCscriptEQ('20200630L15R10') on "CUDA machine".
 Jul. 11, 2020
-	11:30 Correct and revise parallel tempering scheme in LiIonF4_MC() and run MCmeasuretempscan('20200628L7R10') on AMD machine, and MCmeasuretempscan('20200628L5R10') on windows debugger.
+	11:30 Correct and revise parallel tempering scheme in LiIonF4_MC() and run MCmeasuretempscan('20200628L7R10') on "AMD machine", and MCmeasuretempscan('20200628L5R10') on "windows debugger".
 Jul. 13, 2020
-	00:13 Run MCmeasuretempscan('20200627L10R10') on Kelvinox-25 with paraTloop() implementing parallel tempering scheme.
+	00:13 Run MCmeasuretempscan('20200627L10R10') on "Kelvinox-25" with paraTloop() implementing parallel tempering scheme.
 Jul. 17, 2020
-	10:05 Run Mcmeasurefieldscan('20200628L5R10') on office computer using parallel tempering scheme between next nearest neighbouring cores/workers.
+	10:05 Run Mcmeasurefieldscan('20200628L5R10') on "office computer" using parallel tempering scheme between next nearest neighbouring cores/workers.
+Oct. 11, 2020
+	22:21 Create initial file and run MCscriptEQ('20201011L5R10') on "18T control" computer using 1000 statistical points per measurement with 1000 LSW between each measurement.
+Oct. 13, 2020
+	23:49 Run MCmeasuretempscan('20200923L10R10') on "Intel Machine" with 5000 statistical points and 100 LSW intervals between measurements.
+	23:57 Run MCmeasuretempscan('20201011L7R10') on "windows debugger" with 1000 statistical points and 200 LSW intervals between measurements.
+	23:59 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 statistical points and 500 LSW intervals between measurements.
