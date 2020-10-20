@@ -215,3 +215,34 @@ Oct. 13, 2020
 	17:09 T_mc = 1.5 K ,T_cav = 1.48 K, Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at 0 dBm (10 dB attenuation on receiving).
 	21:50 T_mc = 1.52 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at +10 dBm (20 dB attenuation on receiving).
 	23:27 T_mc = 1.58 K, T_cav = 1.57 L. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at 0 dBm (10 dB attenuation on receiving).
+Oct. 14, 2020
+	08:22 T_mc = 1.65 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at +0 dBm (10 dB attenuation on receiving).
+	12:25 T_mc = 745 mK. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at +0 dBm (10 dB attenuation on receiving).
+	18:10 T_mc = 726 mK. Start to measure S11 while sweeping the magnetic field from 5 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.025 GHz steps) at -15 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+	20:10 T_mc = 1.5 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.02 GHz steps) at -15 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+	23:49 T_mc = 1.55 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.02 GHz steps) at -15 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+		Note: Failed, software issue, no data was taken from PNA-x
+Oct. 15, 2020
+	01:30 T_mc = 1.55 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+		Note: Failed, software issue, no data was taken from PNA-x
+	09:26 T_mc = 1.63 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 4.71 GHz to 4.77 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+Oct. 16, 2020
+	14:23 T_mc = 601 mK. Start to measure S11 while sweeping the magnetic field from 0 to 6 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+	21:08 T_mc = 82.9 mK, T_cav = 113 mK. Start to measure S11 while sweeping the magnetic field from 9 to 0 T at 0.03 T/min, and AC frequency from 3.46 GHz to 3.55 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+Oct. 17, 2020
+	07:47 T_cav = 138 mK. Start to measure S11 while sweeping the magnetic field from 0 to 6 T at 0.05 T/min, and AC frequency from 3.46 GHz to 3.55 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with PNA-X N5242B demo unit.
+	12:33 T_cav = 126 mK. Start to measure S11 while sweeping the magnetic field from 6 to 2 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+	16:24 T_cav = 227 mK. Start to measure S11 while sweeping the magnetic field from 2 to 6 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+	18:07 T_mc = 300 mK. Start to measure S11 while sweeping the magnetic field from 6 to 2 T at 0.03 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+Oct. 18, 2020
+	11:56 T_mc = 400 mK. Start to measure S11 while sweeping the magnetic field from 2 to 6 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+	14:09 T_mc = 500 mK. Start to measure S11 while sweeping the magnetic field from 6 to 2 T at 0.03 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+	20:16 T_mc = 300 mK. Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.05 T/min, and AC frequency from 3.460 GHz to 3.550 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with an inductor element inserted PNA-X N5242B demo unit.
+Oct. 19, 2020
+	15:52 T_mc = 750 mK. Start to measure S11 while sweeping the magnetic field from 4 to 0 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+	18:00 T_mc = 750 mK. Start to measure S11 while sweeping the magnetic field from 0 to 5 T at 0.05 T/min, and AC frequency from 3.485 GHz to 3.530 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+	20:07 T_mc = 750 mK. Start to measure S11 while sweeping the magnetic field from 5 to 0 T at 0.05 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+Oct. 20, 2020
+	11:03 T_mc = 1.397 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.05 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+	16:18 T_mc = 1.397 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+	17:48 T_mc = 1.300 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.05 T/min, and AC frequency from 3.490 GHz to 3.535 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.

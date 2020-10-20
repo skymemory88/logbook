@@ -208,7 +208,31 @@ Jul. 17, 2020
 	10:05 Run Mcmeasurefieldscan('20200628L5R10') on "office computer" using parallel tempering scheme between next nearest neighbouring cores/workers.
 Oct. 11, 2020
 	22:21 Create initial file and run MCscriptEQ('20201011L5R10') on "18T control" computer using 1000 statistical points per measurement with 1000 LSW between each measurement.
+		Note: Bug discovered, execution terminated.
 Oct. 13, 2020
 	23:49 Run MCmeasuretempscan('20200923L10R10') on "Intel Machine" with 5000 statistical points and 100 LSW intervals between measurements.
 	23:57 Run MCmeasuretempscan('20201011L7R10') on "windows debugger" with 1000 statistical points and 200 LSW intervals between measurements.
+		Note: 1000 measurement points appear to be insufficient, the data appeared noisy
 	23:59 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 statistical points and 500 LSW intervals between measurements.
+		Note: The setup appears to work for C_fdt but not C_v
+Oct. 14, 2020
+	12:01 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 statistical points and 1000 LSW intervals between measurements.
+		Note: Failed, computer crash.
+	12:32 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 10000 statistical points and 500 LSW intervals between measurements.
+		Note: Bug discovered, data invalid.
+	22:04 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 statistical points and 1000 LSW intervals between measurements.
+		Note: Bug discovered, data invalid.
+Oct. 15, 2020
+	14:31 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 statistical points and 2000 LSW intervals between measurements.
+		Note: Found bug, Cancelled
+Oct. 19, 2020
+	12:42 Run MCmeasuretempscan('20200924L7R10',1E3,1E3) on "AMD machine" with 1000 statistical points and 1000 LSW intervals between measurements.
+		Note: Found bug, cancelled.
+	14:29 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel machine" with 500 statistical points and 500 LSW intervals between measurements.
+		Note: Found bug, cancelled.
+	19:54 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 100 statistical points and 1000 LSW intervals between measurements.
+	23:15 Run MCmeasuretempscan('20201009L5R10',1E2,5E2) on "Kelvinox-25" with 100 statistical points and 500 LSW intervals between measurements.
+	23:20 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel Machine" with 500 statistical points and 50 LSW intervals between measurements.
+Oct. 20, 2020
+	12:36 Run MCmeasuretempscan('20201009L5R10',1E2,2E2) on "windows debugger" with 100 statistical points and 100 LSW intervals between measurements.
+	23:12 Run MCmeasuretempscan('20201011L7R10',5E2,5E1) on "18T control" with 500 statistical points and 50 LSW intervals between measurements.
