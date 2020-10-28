@@ -207,32 +207,84 @@ Jul. 13, 2020
 Jul. 17, 2020
 	10:05 Run Mcmeasurefieldscan('20200628L5R10') on "office computer" using parallel tempering scheme between next nearest neighbouring cores/workers.
 Oct. 11, 2020
-	22:21 Create initial file and run MCscriptEQ('20201011L5R10') on "18T control" computer using 1000 statistical points per measurement with 1000 LSW between each measurement.
+	22:21 Create initial file and run MCscriptEQ('20201011L5R10') on "18T control" computer using 1000 measurement points per measurement with 1000 LSW between each measurement.
 		Note: Bug discovered, execution terminated.
 Oct. 13, 2020
-	23:49 Run MCmeasuretempscan('20200923L10R10') on "Intel Machine" with 5000 statistical points and 100 LSW intervals between measurements.
-	23:57 Run MCmeasuretempscan('20201011L7R10') on "windows debugger" with 1000 statistical points and 200 LSW intervals between measurements.
+	23:49 Run MCmeasuretempscan('20200923L10R10') on "Intel Machine" with 5000 measurement points and 100 LSW intervals between measurements.
+	23:57 Run MCmeasuretempscan('20201011L7R10') on "windows debugger" with 1000 measurement points and 200 LSW intervals between measurements.
 		Note: 1000 measurement points appear to be insufficient, the data appeared noisy
-	23:59 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 statistical points and 500 LSW intervals between measurements.
+	23:59 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 measurement points and 500 LSW intervals between measurements.
 		Note: The setup appears to work for C_fdt but not C_v
 Oct. 14, 2020
-	12:01 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 statistical points and 1000 LSW intervals between measurements.
+	12:01 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 measurement points and 1000 LSW intervals between measurements.
 		Note: Failed, computer crash.
-	12:32 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 10000 statistical points and 500 LSW intervals between measurements.
+	12:32 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 10000 measurement points and 500 LSW intervals between measurements.
 		Note: Bug discovered, data invalid.
-	22:04 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 statistical points and 1000 LSW intervals between measurements.
+	22:04 Run MCmeasuretempscan('20201009L5R10') on "windows debugger" with 5000 measurement points and 1000 LSW intervals between measurements.
 		Note: Bug discovered, data invalid.
 Oct. 15, 2020
-	14:31 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 statistical points and 2000 LSW intervals between measurements.
+	14:31 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 5000 measurement points and 2000 LSW intervals between measurements.
 		Note: Found bug, Cancelled
 Oct. 19, 2020
-	12:42 Run MCmeasuretempscan('20200924L7R10',1E3,1E3) on "AMD machine" with 1000 statistical points and 1000 LSW intervals between measurements.
+	12:42 Run MCmeasuretempscan('20200924L7R10',1E3,1E3) on "AMD machine" with 1000 measurement points and 1000 LSW intervals between measurements.
 		Note: Found bug, cancelled.
-	14:29 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel machine" with 500 statistical points and 500 LSW intervals between measurements.
+	14:29 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel machine" with 500 measurement points and 500 LSW intervals between measurements.
 		Note: Found bug, cancelled.
-	19:54 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 100 statistical points and 1000 LSW intervals between measurements.
-	23:15 Run MCmeasuretempscan('20201009L5R10',1E2,5E2) on "Kelvinox-25" with 100 statistical points and 500 LSW intervals between measurements.
-	23:20 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel Machine" with 500 statistical points and 50 LSW intervals between measurements.
+	19:54 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 100 measurement points and 1000 LSW intervals between measurements.
+		Note: Found bug, cancelled.
+	23:20 Run MCmeasuretempscan('20200923L10R10',5E2,5E2) on "Intel Machine" with 500 measurement points and 50 LSW intervals between measurements.
+		Note: Taking too long, cancelled.
 Oct. 20, 2020
-	12:36 Run MCmeasuretempscan('20201009L5R10',1E2,2E2) on "windows debugger" with 100 statistical points and 100 LSW intervals between measurements.
-	23:12 Run MCmeasuretempscan('20201011L7R10',5E2,5E1) on "18T control" with 500 statistical points and 50 LSW intervals between measurements.
+	12:36 Run MCmeasuretempscan('20201009L5R10',1E2,2E2) on "windows debugger" with 100 measurement points and 100 LSW intervals between measurements.
+	16:12 Run MCmeasuretempscan('20201011L7R10',5E2,5E1) on "18T control" with 500 measurement points and 50 LSW intervals between measurements.
+	17:39 Run MCmeasuretempscan('20201011L7R10',5E1,5E1) on "COMSOL coputer" with 50 measurement points and 50 LSW intervals between measurements.
+	17:42 Run MCmeasuretempscan('20201009L5R10',5E1,1E2) on "Kelvinox-25" with 50 measurement points and 100 LSW intervals between measurements.
+Oct. 21, 2020
+	08:59 Run MCmeasuretempscan('20201009L5R10',5E1,2E2) on "Kelvinox-25" with 50 measurement points and 200 LSW intervals between measurements.
+	18:09 Run MCmeasuretempscan('20201011L7R10',2E2,5E1) on "COMSOL coputer" with 200 measurement points and 50 LSW intervals between measurements.
+	23:31 Run MCmeasuretempscan('20201009L5R10',5E1,2E2) on "Kelvinox-25" with 50 measurement points and 200 LSW intervals between measurements with parallel tempering scheme at 20 LSW intervals.
+		Note: Software crashed, restarted the simulation on Oct. 22, 2020 at 17:52
+Oct. 22, 2020
+	17:57 Run MCmeasuretempscan('20201009L5R10',2E2,2E2) on "windows debugger" with 200 measurement points and 200 LSW intervals between measurements with parallel tempering scheme at 20 LSW intervals.
+		Note: bug detected, simulation cancelled
+	18:06 Run MCmeasuretempscan('20201011L7R10',5E1,5E1) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme at 25 LSW intervals.
+		Note: Bug detected, simulation cancelled
+Oct. 23, 2020
+	12:24 Run MCmeasuretempscan('20201011L7R10',5E1,5E1) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme at 250 LSW intervals.
+		Note: Found bug, restarted at 18:38
+	14:56 Run MCmeasuretempscan('20200924L7R10') on "AMD machine" with 100 measurement points and 500 LSW intervals between measurements.
+	23:20 Run MCmeasuretempscan('20200923L10R10',5E1,5E1) on "Intel Machine" with 50 measurement points and 50 LSW intervals between measurements.
+		Note: 
+Oct. 24, 2020
+	16:15 Run MCmeasuretempscan('20201009L5R10',2E2,2E2) on "Kelvinox-25" with 200 measurement points and 200 LSW intervals between measurements.
+	16:38 Run MCmeasuretempscan('20201009L5R10',100,50) on "Office" computer with 100 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 20 measurements.
+		Note: Found bug, cancelled
+	21:05 Run MCmeasuretempscan('20201009L5R10',50,50) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 50 measurements.
+	21:34 Run MCmeasuretempscan('20201009L5R10',100,100) on "COMSOL computer" computer with 100 measurement points and 100 LSW intervals between measurements with parallel tempering scheme every 50 measurements.
+Oct. 25, 2020
+	09:07 Revise parallel tempering procedure to compare mean energy instead of just current step. Run MCmeasuretempscan('20201009L5R10',50,50) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 50 LSW.
+	19:44 Revise parallel tempering procedure to compare energies of the current step but record the mean energy of all previous steps at each measurement. Run MCmeasuretempscan('20201009L5R10',50,50) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 50 LSW.
+	19:47 Run MCmeasuretempscan('20201009L5R10',100,100) on "COMSOL computer" computer with 100 measurement points and 100 LSW intervals between measurements with parallel tempering scheme every 50 LSW.
+Oct. 26, 2020
+	08:47 Run MCmeasuretempscan('20201009L5R10',50,50) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 50 LSW.
+	08:48 Run MCmeasuretempscan('20201009L5R10',100,100) on "COMSOL computer" computer with 100 measurement points and 100 LSW intervals between measurements with parallel tempering scheme every 50 LSW.
+	15:01 Revise the function to take parallel tempering interval as an argument and run MCmeasuretempscan('20201009L5R10',50,50, 5) on "Office" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 5 LSW.
+	16:19 Revise the function to compare instantaneous energy configurations when implementing parallel tempering scheme and run MCmeasuretempscan('20201009L5R10',50,50, 10) on "Kelvinox-25" computer with 50 measurement points and 50 LSW intervals between measurements with parallel tempering scheme every 10 LSW.
+	16:27 Run MCmeasuretempscan('20201011L7R10',2E2,1E2) on "18T control" with 200 measurement points and 100 LSW intervals between measurements without parallel tempering scheme.
+	23:11 Run MCmeasuretempscan('20201009L5R10',50,100,20) on "Windows debugger" computer with 50 measurement points and 100 LSW intervals between measurements with parallel tempering scheme every 20 LSW.
+	23:15 run MCmeasuretempscan('20201009L5R10',100,100,inf) on "Office" computer with 100 measurement points and 100 LSW intervals between measurements with no parallel tempering.
+	23:29 evise the parallel tempering procedure to compare average energy of all previous steps and each measurement sample only instantaneous energy. Run MCmeasuretempscan('20201009L5R10',50,20,10) on "COMSOL computer" computer with 50 measurement points and 200 LSW intervals between measurements with parallel tempering scheme every 10 LSW.
+	23:30 Run MCmeasuretempscan('20201009L5R10',5E1,1E2,10) on "Intel machine" with 50 measurement points and 100 LSW intervals between measurements and 10 LSW interval between each parallel tempering attempt.
+	23:32 Revise the parallel tempering procedure to compare instantaneous energy and each measurement sample only instantaneous energy. Run MCmeasuretempscan('20201009L5R10',2E2,1E2,5) on "Kelvinox-25" with 200 measurement points and 100 LSW intervals between measurements and 5 LSW interval between each parallel tempering attempt.
+Oct. 27, 2020
+	10:18 run MCmeasuretempscan('20201009L5R10',100,100,inf) on "Office" computer with 100 measurement points and 100 LSW intervals between measurements with no parallel tempering.
+	10:28 Revise the code to measure single point of instantaneous energy and run MCmeasuretempscan('20201009L5R10',100,100,inf) on "COMSOL computer" with 100 measurement points and 100 LSW intervals between measurements with no parallel tempering.
+	10:44 Run MCmeasuretempscan('20201009L5R10',100,200,inf) on "Windows debugger" computer with 100 measurement points of instantaneous energy with 200 LSW intervals in between each measurement without parallel tempering scheme.
+	18:20 Run MCmeasuretempscan('20201011L7R10',2E2,2E2,inf) on "AMD machine" with 200 measurement points and 200 LSW intervals between measurements without parallel tempering scheme.
+	22:30 Run MCmeasuretempscan('20201011L7R10',5E1,5E2,inf) on "Intel machine" with 50 measurement points and 500 LSW intervals in between each measurement without parallel tempering scheme.
+Oct. 28, 2020
+	13:54 Run MCmeasuretempscan('20201009L5R10',50,20,55,5) on "Kelvinox-25" with 50 measurement points averaged over 20 statistical points and 55 LSW intervals in between each measurement with parallel tempering scheme every 5 LSW during the measurement intervals.
+	16:07 Revise the code to included statistical averaging at each measurement point. Run MCmeasuretempscan('20201009L5R10',50,20,50,inf) on "Office" computer with 50 measurement points averaged over 20 statistical points and 50 LSW intervals in between each measurement without parallel tempering scheme
+	16:10 Run MCmeasuretempscan('20201009L5R10',50,10,100,inf) on "COMSOL computer" with 50 measurement points averaged over 10 statistical points and 100 LSW intervals in between each measurement without parallel tempering scheme.
+	16:11 Run MCmeasuretempscan('20201009L5R10',50,20,60,25) on "Kelvinox-400" with 50 measurement points averaging over 20 statistical points and 60 LSW intervals in between each measurement with parallel tempering scheme every 25 LSW durin gthe measurement intervals.
+	16:29 Run MCmeasuretempscan('20201009L5R10',400,200,inf) on "Windows debugger" with 400 measurement points and 200 LSW intervals in between measurements without parallel tempering scheme.

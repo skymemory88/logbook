@@ -619,3 +619,7 @@ Oct. 16, 2020
 	10:50 4He level = 37%, insert complete.
 	12:20 T_mc = 4.2 K. T_sorb = 4.26 K, turn on sorb heater at 200 mW and start to evacuate the exchange gas from the vacuum chamber.
 	12:26 Insert 4He cold trap.
+Oct. 21, 2020
+	15:06 Set mixing chamber temperature to 4 K, close 1K pot and V1, open V4, V2 and bypass valve to start recollecting all the mixtures.
+	15:30 Turn on sorb heater at 10 mW, still heater to 100 uW, turn on turbo pump, close V2.
+	17:01 P1 = 770 mBar, P5 = 0.000 Bar. 4He level = 24.1%. Start to remove the frdige from the cryostat.
