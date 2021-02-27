@@ -159,7 +159,7 @@ Aug. 15, 2020
 Aug. 16, 2020
 	08:43 T_cav = 420 mK. Start to measure S21 while sweeping the magnetic field from 3.6 to 2.4 T at 0.01 T/min, and AC frequency from 3.450 GHz to 3.750 GHz (0.025 GHz steps) at -10 dBm (0 dB attenuation on receiving).
 Aug. 18, 2020
-	10:30 Mount a LiHoF4 sample (SC00000200) in between two sapphire substarte (0.5 mm thick) on the new rectangular shaped sample holder using GE varnish. Wrap kavlar twine around the substrate with superglue applied (IDH No, 195905). Left in air to cure.
+	10:30 Mount a LiHoF4 sample (SC00000200, a x b x c = 1.5 x 3.6 x 3.2 mm) in between two sapphire substrate (0.5 mm thick) on the new rectangular shaped sample holder using GE varnish. Wrap kavlar twine around the substrate with superglue applied (IDH No, 195905). Left in air to cure.
 	14:30 Remove the second coax cable, polish all the copper surface at thermal anchor point, apply vacuum grease between the coax cable and the thermal anchors.
 	17:40 Tighten the thermal anchors.
 Aug. 20, 2020
@@ -254,3 +254,103 @@ Oct. 21, 2020
 	12:20 T_mc = 1.48 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.05 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
 	13:36 T_mc = 1.2 K, Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.05 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
 	14:55 T_mc = 1.8 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.05 T/min, and AC frequency from 3.430 GHz to 3.550 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+Nov. 02, 2020
+	10:33 Attach a LiHoF4 sample (1.5 mm x 0.5 mm x 0.5 mm) to the sapphire sample holder (insider the groove) using GE varnish, c-axis (0.5 mm) facing out of plane.
+Nov. 03, 2020
+	17:35 Wrap the sample on holder with kevlar threads dipped in superglue and mount it on the cavity (d24mm_t5mm_flex with 3.63 GHz insert), detune and close the vacuum chamber.
+Nov. 04, 2020
+	18:08 T_mc = 427 mK. Start to measure S11 while sweeping the magnetic field from 0 to 9 T at 0.05 T/min, and AC frequency from 3.590 GHz to 3.680 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	21:38 T_mc = 82 mK, Start to measure S11 while sweeping the magnetic field from 9 to 3 T at 0.03 T/min, and AC frequency from 3.630 GHz to 3.645 GHz (0.0015 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 05, 2020
+	09:08 T_mc = 68 mK. Start to measure S11 while sweeping the magnetic field from 4 to 3 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	11:53 T_mc = 68 mK. Start to measure S11 while sweeping the magnetic field from 3 to 4 T at 0.02 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -15 dBm (0 dB attenuation on receiving) with an inductor element inserted and ZVL-6 unit.
+	12:53 T_mc = 66 mK. Start to measure S11 while sweeping the magnetic field from 4 to 3 T at 0.02 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	13:58 T_mc = 68 mK. Start to measure S11 while sweeping the magnetic field from 3 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	16:12 T_mc = 85 mK. Start to measure S11 while sweeping the magnetic field from 4 to 3 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at 0 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 06, 2020
+	14:13 T_mc = 128 mK. Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -5 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+	17:10 T_mc = 130 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -3 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+	21:44 T_mc = 130 mK. Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at 0 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 07, 2020
+	01:11 T_cav = 200 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at +5 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	04:33 Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at +3 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	08:25 T_cav = 325 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at +10 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	11:53 Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at +7 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	16:01 T_cav = 367 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	19:40 T_cav = 350 mK. T_cav = 367 mK. Start to measure S11 while sweeping the magnetic field from 2 to 4 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at -3 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+	23:09 T_cav = 365 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2 T at 0.01 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.001 GHz steps) at 0 dBm (10 dB attenuation on receiving) with a ZVL-6 unit. 
+Nov. 09, 2020
+	13:18 T_mc = 1.2 K, Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit. 
+	15:40 T_mc = 1.4 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	19:28 T_mc = 1.6 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	22:08 T_mc = 1.7 K. Start to measure S11 while sweeping the magnetic field from 3 to 0 T at 0.03 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 10, 2020
+	01:10 T_mc = 2.0 K. Start to measure S11 while sweeping the magnetic field from 0 to 3 T at 0.03 T/min, and AC frequency from 3.634 GHz to 3.638 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 23, 2020
+	10:43 Mount a LiHoF4 sample (SC00000200,  a x b x c = 1.5 x 3.6 x 3.2 mm) on sample holder to the cavity (d24mm_t5mm_flex with 3.6 GHz insert).
+Nov. 24, 2020
+	23:51 T_mc = 88.5 mK. Start to measure S11 while sweeping the magnetic field from 0 to 12 T at 0.03 T/min, and AC frequency from 3.590 GHz to 3.710 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 25, 2020
+	10:02 T_mc = 79 mK. Start to measure S11 while sweeping the magnetic field from 16 to 0 T at 0.03 T/min, and AC frequency from 3.590 GHz to 3.710 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	23:11 T_mc = 78.4 mK. Start to measure S11 while sweeping the magnetic field from 2 to 5 T at 0.01 T/min, and AC frequency from 3.575 GHz to 3.725 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 26, 2020
+	08:43 T_cav = 100 mK. Start to measure S11 while sweeping the magnetic field from 5 to 10 T at 0.05 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	11:42 T_cav = 94 mK (in 10T field). Start to measure S11 while sweeping the magnetic field from 10 to 5 T at 0.03 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -10 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	14:53 T cav = 99 mK. Start to measure S11 while sweeping the magnetic field from 5 to 10 T at 0.05 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit and an inserted inductor element.
+	17:34 T_mc = 87 mK. Start to measure S11 while sweeping the magnetic field from 16 to 5 T at 0.03 T/min, and AC frequency from 3.600 GHz to 3.670 GHz (0.005 GHz steps) at -20 dBm (0 dB attenuation on receiving) with a ZVL-6 unit and an inserted inductor element.
+	23:07 Start to measure S11 while sweeping the magnetic field from 5 to 2 T at 0.01 T/min, and AC frequency from 3.575 GHz to 3.725 GHz (0.005 GHz steps) at -20 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 27, 2020
+	07:55 T_cav = 109 mK (in 2T field). Start to measure S11 while sweeping the magnetic field from 2 to 5 T at 0.01 T/min, and AC frequency from 3.560 GHz to 3.740 GHz (0.005 GHz steps) at -10 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	13:10 T_cav = 130 mK (in 5T field). Start to measure S11 while sweeping the magnetic field from 5 to 10 T at 0.05 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	15:50 T_cav = 140 mK (in 10T field). Start to measure S11 while sweeping the magnetic field afrom 10 to 5 T at 0.05 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	19:06 T_cav = 167 mK (in 5T field). Start to measure S11 while sweeping the magnetic field afrom 5 to 10 T at 0.05 T/min, and AC frequency from 3.640 GHz to 3.660 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	22:30 T_cav = 180 mK (in 10T field). Start to measure S11 while sweeping the magnetic field afrom 10 to 0 T at 0.02 T/min, and AC frequency from 3.560 GHz to 3.740 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 28, 2020
+	11:09 T_mc = 133 mK, T_cav = 250 mK. Start to measure S11 while sweeping the magnetic field from 0 to 5 T at 0.02 T/min, and AC frequency from 3.560 GHz to 3.740 GHz (0.005 GHz steps) at +10 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+		Note: Turbo pump shut down due to high pressure from high temperature at still. Temperature varied 225 to 285 mK.
+	15:58 T_mc = 327 mK. Start to measure S11 while sweeping the magnetic field afrom 5 to 0 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +18 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+	18:55  Start to measure S11 while sweeping the magnetic field from 0 to 5 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +15 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+	21:50 Start to measure S11 while sweeping the magnetic field from 5 to 0 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +10 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 29, 2020
+	07:48 Start to measure S11 while sweeping the magnetic field from 0 to 5 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +7 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	10:20 Start to measure S11 while sweeping the magnetic field from 5 to 0 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +5 dBm (20 dB attenuation on receiving) with a ZVL-6 unit.
+	14:30 Start to measure S11 while sweeping the magnetic field from 0 to 5 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at 0 dBm (10 dB attenuation on receiving) with a ZVL-6 unit.
+	23:59 Start to measure S11 while sweeping the magnetic field from 5 to 16 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +18 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+Nov. 30, 2020
+	06:20 Start to measure S11 while sweeping the magnetic field from 16 to 5 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +15 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+	13:27 T_mc = 356 mK. Start to measure S11 while sweeping the magnetic field from 5 to 16 T at 0.03 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at +18 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+	22:14 T_mc = 399 mK. Start to measure S11 while sweeping the magnetic field from 16 to 0 T at 0.02 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 01, 2020
+	17:54 T_mc = 213 mK. Start to measure S11 while sweeping the magnetic field from 0 to 16 T at 0.02 T/min, and AC frequency from 3.58 GHz to 3.72 GHz (0.005 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 02, 2020
+	07:20 Start to measure S11 while sweeping the magnetic field from 16 to 0 T at 0.02 T/min, and AC frequency from 3.58 GHz to 3.72 GHz (0.005 GHz steps) at -20 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+		Note: Interrupted at 13T to refill helium
+	19:29 T_mc = 61.9 mK, T_cav = 109 mK. Start to measure S11 while sweeping the magnetic field from 0 to 16 T at 0.02 T/min, and AC frequency from 3.58 GHz to 3.72 GHz (0.005 GHz steps) at -20 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 03, 2020
+	09:31 T_mc = 323 mK. T_cav = 275 mK (in 16T field). Start to measure S11 while sweeping the magnetic field from 16 to 4 T at 0.04 T/min, and AC frequency from 3.60 GHz to 3.68 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	14:35 T_mc = 270 mK. Start to measure S11 while sweeping the magnetic field from 4 to 2.5 T at 0.01 T/min, and AC frequency from 3.53 GHz to 3.77 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	22:16 T_mc = 72.3 mK, T_cav = 108 mK (in 2.5 T field). Start to measure S11 while sweeping the magnetic field from 2.5 to 4 T at 0.01 T/min, and AC frequency from 3.54 GHz to 3.75 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 04, 2020
+	09:15 T_mc = 66.2 mK, T_cav = 103 mK (in 4T field). Start to measure S11 while sweeping the magnetic field from 4 to 10 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	18:51 T_mc = 102 mK, T_cav = 103 mK ( in 10T field). Start to measure S11 while sweeping the magnetic field from 10 to 4 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 05, 2020
+	01:26 T_cav = 91 mK (in 10T field). Start to measure S11 while sweeping the magnetic field from 4 to 10 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	07:16 T_mc = 90 mK. Start to measure S11 while sweeping the magnetic field from 10 to 4 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	20:40 T_mc = 61.8 mK, T_cav = 99 mK (in 4T field). Start to measure S11 while sweeping the magnetic field from 4 to 10 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 06, 2020
+	00:31 T_mc = 62.2 mK. T_cav = 94.9 mK (in 10T field). Start to measure S11 while sweeping the magnetic field from 10 to 4 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	03:55 Start to measure S11 while sweeping the magnetic field from 4 to 0 T at 0.03 T/min, and AC frequency from 3.55 GHz to 3.70 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	10:55 T_mc = 257 mK, T_cav = 255 mK. Start to measure S11 while sweeping the magnetic field from 0 to 16 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+		Note: Measurement interrupted at 10.6T due to communication error.
+	17:01 T_mc = 268 mK, T_cav = 235 mK (in 10T field). Start to measure S11 while sweeping the magnetic field from 10 to 4 T at 0.03 T/min, and AC frequency from 3.635 GHz to 3.660 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	21:23 T_mc = 264 mK, T_cav = 245 mK (in 4T field). Start to measure S11 while sweeping the magnetic field from 4 to 0 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at -20 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+	23:40 Start to measure S11 while sweeping the magnetic field from 0 to 16 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at -10 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 07, 2020
+	11:09 T_mc = 403 mK, T_cav = 451 mK (in 16T field). Start to measure S11 while sweeping the magnetic field from 16 to 0 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at +18 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+		Note: Reduced trace averaging from 100 to 20 to reduce heating.
+	23:55 T_mc = 177 mK. T_cav = 319 mK. Start to measure S11 while sweeping the magnetic field from 0 to 16 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at +15 dBm (30 dB attenuation on receiving) with a ZVL-6 unit.
+		Note: Turned off trace averaging (single sweep data) to reduce heating.
+Dec. 08, 2020
+	09:24 T_mc = 500 mK, T_cav = 431 mK (in 16T field). Start to measure S11 while sweeping the magnetic field from 16 to 0 T at 0.03 T/min, and AC frequency from 3.570 GHz to 3.720 GHz (0.01 GHz steps) at -15 dBm (0 dB attenuation on receiving) with a ZVL-6 unit.
+Dec. 21, 2020
+	16:38 Mount a LiHoF4 sample (SC00000164, 3.4 x 1 x 1.7 mm) onto a square sample holder with two pieces of 0.5 mm sapphire substrates on both side with GE varnish between the substrates and the sample as well as bewteen the substrates and the sample holder. Left in the sample box to cure.
