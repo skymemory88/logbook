@@ -1,0 +1,88 @@
+Dec. 10, 2020
+	10:01 4He level = 70.1 %. Start to remove the fridge from cryostat.
+		Note: Suspect blockage in condensing line from difficulty cooling down and pressure anomaly, but also possible of leakage between helium bath and vacuum chamber provided a heat anchor.
+Jan. 13, 2021
+	10:40 Pressure inside the vacuum chamber reached 3.0E-6 mBar, stop evacuation. Put some helium exchange gas in to the vacuum chamber and flush the 1K pot with pressurized helium for 1 minute.
+	10:50 4He level = 66.5%. Start to insert the dilution fridge into the cryostat.
+	17:32 Stop condensing sequence and leave V9 open to completely empty the dump. 4He level = 50%.
+	19:48 Turn on turbo pump. P1 = 0.000 Bar, close V9.
+	19:50 T_still = 705 mK. Open V4 to remove some mixture from circulation.
+	21:41 P1 = 0.060 Bar. Close V4.
+	22:13 T_mc = 59.22 mK，T_still = 791 mK. Turn on still heater at 200 uW.
+	22:14 Change still heater power to 400 uW.
+	22:20 Change still heater power to 700 uW.
+	22:21 Change still heater power to 800 uW.
+	22:22 T_mc = 57 mK, T_still = 824 mK, T_cold = 114 mK, T_1K = 1.47 K.
+Jan. 14, 2020
+	14:50 Close V1 and needle valve, open V4, V2, and bypass valve to start recollect mixtures.
+	16:20 Turn on sorb heater at 180 mW.
+	16:40 Turn on mixing chamber heater to setpoint at 1 K. 
+	17:30 P1 = 762 mBar, P5 = 0.002 Bar, close V2 and turn on turbo pump.
+	18:05 Close V4, V5, all manual valves, turn off turbo pump and then forepump. Start to remove the fridge from the cryostat.
+	18:35 Removal complete.
+Feb. 02, 2021
+	16:40 Close the vacuum chamber and start to evacuate it. Evacuate the condensing line at the same time.
+Feb. 03, 2021
+	10:25 Pressure inside the vacuum chamber reached 2.6E-6 mBar, pressure inside the condensing line reached 1E-5 mBar. Stop the evacuation.
+	10:30 Put some helium exchange gas into the vacuum chamber.
+	10:35 Flush the 1K pot pumping line with pressurized helium gas for 1 minute and prepare to insert the fridge into 18T cryostat.
+	10:40 4He level = 9.7%, start to insert the fridge.
+	12:45 Insert complete, 4He level = 1.9%. Start to transfer helium into the cryostat.
+	15:10 Refill nitrogen cold trap.
+	15:31 4He level = 81.7%, stop the transfer. Load the helium cold trap.
+	15:33 T_1K = 3.8 K, T_sorb = 4.17 K, T_mc = 4.29 K. Start circulating remaining mixtures in bellow through cold traps.
+	15:42 Start 1K pot.
+	15:44 T_1K = 1.73 K. Close bypass valve, open V12, SV1 and start condensing sequence.
+	16:30 T_mc = 1.60 K, T_sorb = 1.9 K, T_cold = 1.7 K, P1 = 0.038 Bar, P2 = 994 mBar.
+		Note: The fridge appears to struggle to coold down, suspect the exchange gas thermally anchors the fridge to the helium bath.
+	16:35 Stop automatic condensing sequence. Close V1, open bypass valve, V2 and V4 to put the mixtures back into the dump. Turn on sorb heater at 180 mW, Still heater at 20 mW, and Mixing chamber heater at 18 mW.
+	17:25 Start to re-evacuate the vacuum chamber.
+	19:58 T_mc = 588 mK, P1 = 0.004 Bar, turn on turbo pump.
+	21:01 T_mc = 334 mK, P1 = 0.001 Bar, close V9
+	21:05 Open V4 to remove some mixtures from circulation.
+	21:37 T_still = 629 mK. turn on still heater at 150 uW.
+	21:40 Change still heater power to 200 uW.
+	21:41 Change still heater power to 500 uW.
+	21:46 Change still heater power to 800 uW.
+	22:23 P1 = 0.058 mBar, close V4.
+	23:06 T_still = 817 mK. Change still heater power to 900 uW.
+	23:19 T_still = 827 mK. Change still heater power to 1 mW.
+	23:25 T_mc = 56.3 mK, T_still = 835 mK, T_cold = 107 mK, T_1K = 1.56 K. P1 = 0.058 Bar, P2 = 171 mBar, P5 = 73 mBar. P4 = 0.65 mBar.
+Feb. 05, 2021
+	08:47 T_mc = 54 mK, T_still = 860 mK. Turn off still heater.
+	10:11 T_mc =54.7 mK, T_still = 806 mK. P1 = 0.058 Bar. Open V4 to remove some mixtures.
+	10:17 P1 = 0.065 BAr. Close V4.
+	10:25 T_mc = 55.1 mK, T_still = 806 mK. Turn on still heater at 1 mW.
+	11:29 T_still = 850 mK, change still heater to 1.2 mW.
+	11:58 T_mc = 54.2 mK. T_still = 870 mK. Open V9 to put in more mixtures.
+		Note: The change in mixture amount didn't seem to affect the base temperature terribly a lot. Re-adjust the mixture level by empty the dump to have P1 = 40 mBar.
+	12:03 P1 = 0.041 Bar. Close V9.
+Feb. 07, 2021
+	10:15 T_mc = 54 mK. Switch off still heater and turbo pump.
+Feb. 08, 2021
+	15:38 STart turbo pump.
+Feb. 12, 2021
+	11:05 T_mc  57.2 mK. Switch off still heater.
+	11:20 P1 = 0.041 Bar. Open V4 to remove some mixtures.
+	11:35 P1 = 0.050 Bar. Close V4. Turn on still heater at 1 mW.
+	12:00 T_mc = 54.9 mK. Switch off still heater. 
+	12:20 P1 = 0.050 Bar. Open V4 to remove some mixture.
+	12:40 P1 = 0.060 Bar. Close V4 and turn on still heater at 1 mW.
+	12:57 Open V4 to remove some mixture.
+	12:59 Close V4, P1 = 0.065 Bar.
+	14:26 T_mc = 52.2 mK. T_still = 870 mK. Turn off still heater.
+	14:35 P1 = 0.065 Bar. Open V4 to remove some mixtures.
+Feb. 17, 2021
+	00:16 Turn off turbo pump and still heater. 
+	00:23 Open  V4 and V2 to slowly remove mixtures from circulations.
+Feb. 21, 2021
+	11:50 Open v4 and V2, close V1 and start to recollect all the mixtures. Turn on mixing chamber heater to setpoint at 4K.
+Feb. 22, 2021
+	10:40 4He level = 5.5%. P1 = 762 mBar. Start to remove the fridge.
+	12:04 4He level = 3.6%. Removal complete. Put in some helium-4 exchange gas to slowly warm it up.
+Feb. 23, 2021
+	12:32 Evacuate the vacuum chamber to 9.6E-5 mBar. Stop pumping, put some helium-4 exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized helium-4 gas for 1 min.
+	12:40 Start to insert the fridge into the 18T cryostat.
+Feb. 26, 2021
+	14:30 4He level = 40.6%, start to transfer helium.
+	17:20 4He level = 90.2%, stop transferring. Refill nitrogen cold trap.
