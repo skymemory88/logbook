@@ -86,3 +86,109 @@ Feb. 23, 2021
 Feb. 26, 2021
 	14:30 4He level = 40.6%, start to transfer helium.
 	17:20 4He level = 90.2%, stop transferring. Refill nitrogen cold trap.
+Mar. 01, 2021
+	17:18 P1 = 0.060 Bar, T_still = 834 mK, open V4 to remove some mixture from circulation.
+	17:24 P1 = 0.067 Bar. close V4, turn on still heater at 1 mW. 
+Mar. 02, 2021
+	10:00 Turn off still heater and turbo pump.
+	14:20 4He level = 36%, start to transfer helium into the cryostat.
+	16:32 Helium dewar depleted, transfer finish. 4He level = 43 %.
+Mar. 07, 2021
+	12:15 1K pot pumping line malfunctioning, 1K pot temperature warm up over 3 K. Close V1 and open V4 to remove all mixtures.
+Mar. 09, 2021
+	14:20 Start to remove the fridge from the cryostat. 4He level = 29.6%.
+	15:10 Removal complete. 4He level = 25.8%.
+Mar. 10, 2021
+	13:11 Pressure inside the vacuum chamber reached 5.6E-5 mBar. Stop evacuation, put some helium-4 exchange gas, flush the 1K pot pumping line for 1 minute with pressurized helium gas and prepare to insert the fridge into the cryostat.
+	13:15 4He level = 25.4%, start to insert the fridge into the 18T crystat.
+	14:20 Insert complete. 4He level = 19.5%. Start to transfer helium into the cryostat. Load helium colde trap.
+	17:24 Transfer complete. 4He level = 90.9%. Start to circulate remaining mixtures in the condensing line through cold traps.
+Mar. 19, 2021
+	14:07 Stop evacuating the vacuum chamber, put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line for 1 minute with pressurized helium gas.
+	14:35 4H level = 12.7%, start to insert the fridge into the cryostat.
+	16:00 Insert complete. Start to transfer helium into the cryostat.
+	18:40 Turn on sorb heater at 150 mW and start to evacuate the helium exchange gas from the vacuum chamber.
+	19:27 4He level = 60.8%, stop the transfer and start 1K pot. Turn off sorb heater and stop evacuation.
+	19:38 Fail to cool down. Stop 1K pot, turn on sorb heater at 200 mW and start to re-evacuate the vacuum chamber.
+	20:30 Stop evacuation of the vacuum chamber. Start 1K pot and then automatic condensing sequence.
+Mar. 22, 2021
+	10:20 4He level = 38%. Remove the fridge from the cryostat.
+		Note: cool down failed. Possible reason: unable to extract all the exchange gas and the fridge is thermal anchored to the helium bath.
+Mar. 23, 2021
+	11:10 4He level = 33.8%. Pressure inside the vacuum chamber reached 1.6E-5 mBar. Stop evacuation, put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized heluim gas for 1 minute and prepare to insert the fridge into the cryostat.
+	11:16 Start to insert the fridge.
+Apr. 02, 2021
+	10:30 P1 = 700 mBar. Open V2, V4, close V1 to start collecting all mixtures back into the dump. Turn on mixing chamber heater to setpoint at 4K. 
+	11:17 4He level = 17.2 %. prepare to remove the fridge.
+	14:50 Removal complete.
+Apr. 06, 2021
+	09:40 Pressure inside the vacuum chamber reached 2.6E-6 mBar, stop evacuation and put some helium exchange gas into the vacuum chamber.
+	09:45 Flush the 1K pot pumping line for 1 minute. 
+	09:50 4He level = 10.3%. Start to insert the fridge into 18T cryostat.
+	11:20 Insert complete. 4He level = 1.9%. 
+	11:35 Start to transfer helium into the cryostat.
+	13:05 T_sorb = 4.3 K. Turn on sorb heater at 180 mW and start to extract the exchange gas.
+	13:37 4He level = 80.4 %, stop the helium transfer.
+Apr. 07, 2021
+	Note: The fridge failed to cool down, it appeared to be thermally anchored to the helium bath across the platform. Sort heater set to 200 mW and T_sorb doesn't go above 22 K. At the same time, T_mc could not be heated up to above 5.1 K when both mixing chamber and sample stage heater are set to maxmium of the allowed powers. Suspect a small leak between helium bath and vacuum chamber lead to the impossibility of extracting all helium exchange gas from the vacuum chamber.
+Apr. 08, 2021
+	10:30 4He level = 68% , start to remove the fridge from the cryostat.
+	14:40 Pressure inside the vacuum chamber reached 2E-5 mBar. Leak tested the space, LR = 8.6E-6. Put some helium exchange gas into the vacuum chamber and flush the 1K pot pumping line with pressurized helium for 1 minute.
+	14:50 4He level = 61.3%, start to insert the fridge into the cryostat.
+	16:20 Insert complete, 4He level = 48%.
+	Note: Failed to cool down, and it is clear there was a leak between the helium bath and vacuum chamber as the pressure changes are correlated to each other.
+Apr. 09, 2021
+	10:50 Start to remove the fridge.
+	13:40 Leak tested the vacuum chamber, appears to be the top indium ring causing the leak. Tighten the screws and leak tested the IVC, LR = 2.0E-7.
+	14:10 4He level = 60%, put some helium exchange gas in to the vacuum chamber and flush the 1K pot pumping line for one minute.
+	14:15 Start to insert the fridge back into the 18T cryostat.
+	16:40 Insert complete. 4He level = 40%.
+	17:10 T_mc = 4.2 K, T_sorb = 4.3 K. Turn on sorb heater at 20 mW and start to extract helium exchange gas. Load helium cold trap.
+	17:50 Start helium transfer into the cryostat.
+	18:20 Circulate the remaining mixtures in the condensing line through cold traps.
+	18:55 Start 1K pot pumping line.
+	19:00 Start automatic condensing sequence.
+	19:25 Stop the transfer. 4He level = 99.1%
+Apr. 21, 2021
+	17:51 Turn off turbo pump, set mixing chamber temperature to 700 mK, turn on still heater at 2 mW. Open V5 and V9, close V1 to start collecting mixtures into the dump.
+Apr. 26, 2021
+	07:40 Start to recollect mixtures back into the dump.
+	11:20 4He level = 23.6%. P1 = 0.765 Bar, P5 = 0.000 Bar. Start to extract the fridge from the cryostat.
+	12:17 Extraction complete. 4He level = 20.8%.
+Apr. 29, 2021
+	10:34 Mount a thermometer onto the mixing chamber for calibration, connect to fischer connecter 9-12, R(9-10) = R(11-12) = R(9-11) = R(10-12) = 377 Ohm. R(9-12) = R(10-11) = 332 Ohm.
+	13:05 Close the vacuum chamber and start to evacuate it.
+	14:37 Pressure inside the vacuum chamber reached 4.4E-5 mBar. Stop evacuation and put in some helium-4 exchange gas to the vacuum chamber. Flush the 1K pot pumping line for 1 min with pressurized helium gas.
+	14:50 Start to insert the fridge into the 18T cryostat.
+	16:20 4He level = 2.1%, start to refill the helium bath. Load the Helium cold trap.
+	17:17 T_sorb = 19 K, T_mc = 4.2 K, T_still = 3.9 K. Turn on sorb heater at 150 mW and start to extract the helium exchange gas.
+	17:26 Turn up sorb heater power to 200 mW, and start to circulating remaining mixtures in the bellows through the cold traps.
+	17:40 Start 1K pot and open SV3, V12. Close bypass valve. 
+	17:45 Start automatic condensing sequence.
+May. 10, 2021
+	11:10 Pressure inside the vacuum chamber reached 3.5E-5 mBar. Stop evacuation, put in some helium exchange gas and flush the 1K pot pumping line with pressurized helium gas for 1 min.
+	11:13 Start to insert the fridge into the cryostat. 4He level = 6.2%.
+	12:20 Insert complete. 4He level = 3%.
+	14:15 4He level = 2.0%, start to transfer liquid helium into the cryostat.
+	17:43 4He level = 90.3%. Stop the transfer.
+May. 20, 2021
+	10:20 4He level = 24%, start to transfer helium into the 18T cryostat.
+	12:51 4He level = 91.5%, stop the transfer.
+May. 26, 2021
+	12:40 Mount the cavity resonator and close the vacuum chamber.
+	14:58 Pressure inside the vacuum chamber reached 5.4E-5 mBar. Stop evacuation and put in some helium-4 exchange gas.
+	14:59 Flush 1K pot pumping line for 1 minute.
+	15:00 Start to insert the fridge into 18T cryostat.
+Jun. 04, 2021
+	11:25 Pressure inside the vacuum chamber reached 5.5E-5 mBar. Stop evacuation and put in some helium-4 exchange gas.
+	11:33 Flush 1K pot pumping line with pressureized helium gas for 1 min.
+	11:35 Start to insert the fridge into the cryostat.
+Jun. 07, 2021
+	10:18 Remove the fridge from cryostat. 4He level = 61%.
+	14:15 Pressure inside the vacuum chamber reached 5.8E-5 mBar. Stop evacuation and put in some helium-4 exchange gas. Flush 1K pot pumping line with pressurized helium gas for 1 min.
+	14:20 Start to insert the fridge into 18T cryostat. 4He level = 56.1%.
+	16:01 Insert complete. 4He level = 36.4%.
+	16:40 Load helium cold trap.
+	16:50 Start to circlating remaining mixtures in the bellows through cold traps.
+	17:10 T_mc = 4.2 K, T_still = 4.9 K, T_sorb = 24.1 K. Turn on sorb heater at 200 mW and start to extract helium exchange gas.
+	17:45 Pressure inside the vacuum chamber reached 1.38E-6 mBar. Stop evacuation, and start to condense manually.
